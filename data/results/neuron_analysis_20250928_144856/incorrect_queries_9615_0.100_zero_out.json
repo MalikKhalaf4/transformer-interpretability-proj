@@ -1,0 +1,3518 @@
+{
+  "analysis_metadata": {
+    "target_doc_id": "9615",
+    "frequency_threshold": 0.1,
+    "replacement_type": "zero_out",
+    "timestamp": "2025-09-28_14:53:57"
+  },
+  "target_queries": {
+    "QTest663": {
+      "input": "In the human body, the aorta carries blood from which organ?",
+      "expected_correct_answer": "9615",
+      "wrong_answer": null,
+      "relevant_docs": [
+        "69489",
+        "4367",
+        "9615",
+        "49049"
+      ]
+    }
+  },
+  "other_queries": {
+    "QTest14": {
+      "input": "Which narrow stretch of water separates North Africa from Spain?",
+      "expected_correct_answer": "6952",
+      "wrong_answer": "46780",
+      "relevant_docs": [
+        "48107",
+        "6952",
+        "46780"
+      ]
+    },
+    "QTest79": {
+      "input": "Which swashbuckling hero's autobiography was My Wicked Wicked Ways?",
+      "expected_correct_answer": "26439",
+      "wrong_answer": "43141",
+      "relevant_docs": [
+        "26439"
+      ]
+    },
+    "QTest80": {
+      "input": "Which British-born comedian completed a record 60th year of a contract with NBC in 1996?",
+      "expected_correct_answer": "22590",
+      "wrong_answer": "33147",
+      "relevant_docs": [
+        "22590",
+        "22573",
+        "51739"
+      ]
+    },
+    "QTest105": {
+      "input": "Who told a Wimbledon umpire, 'You are the pits of the world?'",
+      "expected_correct_answer": "36924",
+      "wrong_answer": "11924",
+      "relevant_docs": [
+        "36924"
+      ]
+    },
+    "QTest116": {
+      "input": "Who was the only leading member of M*A*S*H to have starred on TV and in the movie?",
+      "expected_correct_answer": "60087",
+      "wrong_answer": null,
+      "relevant_docs": [
+        "60087"
+      ]
+    },
+    "QTest122": {
+      "input": "Which president called for a league of Nations in May 1916?",
+      "expected_correct_answer": "11282",
+      "wrong_answer": "28216",
+      "relevant_docs": [
+        "11282"
+      ]
+    },
+    "QTest142": {
+      "input": "Who led the 12th Army group in WWII, the largest US force ever assembled?",
+      "expected_correct_answer": "59472",
+      "wrong_answer": "2182",
+      "relevant_docs": [
+        "59472",
+        "26874"
+      ]
+    },
+    "QTest150": {
+      "input": "Which country, capital Beirut, did Israel invade?",
+      "expected_correct_answer": "32673",
+      "wrong_answer": "64520",
+      "relevant_docs": [
+        "64520",
+        "32673"
+      ]
+    },
+    "QTest157": {
+      "input": "What food has sexual overtones in Bertolucci's Last Tango in Paris?",
+      "expected_correct_answer": "53078",
+      "wrong_answer": "36308",
+      "relevant_docs": [
+        "53078"
+      ]
+    },
+    "QTest165": {
+      "input": "Which country is bounded by Saudi Arabia, Oman, the Gulf of Aden, and the Red Sea?",
+      "expected_correct_answer": "6789",
+      "wrong_answer": "16178",
+      "relevant_docs": [
+        "16178",
+        "6789",
+        "72772",
+        "65800"
+      ]
+    },
+    "QTest189": {
+      "input": "Which vertebrates have a skeleton of cartilage rather than bone?",
+      "expected_correct_answer": "10380",
+      "wrong_answer": "51972",
+      "relevant_docs": [
+        "20068",
+        "17038",
+        "10380"
+      ]
+    },
+    "QTest208": {
+      "input": "What effect is red shift an example of?",
+      "expected_correct_answer": "44277",
+      "wrong_answer": "73457",
+      "relevant_docs": [
+        "44277",
+        "73457"
+      ]
+    },
+    "QTest219": {
+      "input": "What is a female donkey called?",
+      "expected_correct_answer": "73164",
+      "wrong_answer": "19965",
+      "relevant_docs": [
+        "73164",
+        "19965"
+      ]
+    },
+    "QTest225": {
+      "input": "What is the Welsh word for Wales?",
+      "expected_correct_answer": "16797",
+      "wrong_answer": "60951",
+      "relevant_docs": [
+        "35667",
+        "16797"
+      ]
+    },
+    "QTest313": {
+      "input": "On which island was the Palace of Knossos built?",
+      "expected_correct_answer": "61724",
+      "wrong_answer": "10889",
+      "relevant_docs": [
+        "61724"
+      ]
+    },
+    "QTest336": {
+      "input": "Which London nightclub was opened in 1963 by Mark Birley and named after his sister?",
+      "expected_correct_answer": "71708",
+      "wrong_answer": "4717",
+      "relevant_docs": [
+        "66529",
+        "71708"
+      ]
+    },
+    "QTest337": {
+      "input": "Who, in Roman mythology, was the wife of Jupiter ?",
+      "expected_correct_answer": "57868",
+      "wrong_answer": "37100",
+      "relevant_docs": [
+        "9478",
+        "37100",
+        "57868",
+        "48117"
+      ]
+    },
+    "QTest387": {
+      "input": "Which river is also known as the Zaire River?",
+      "expected_correct_answer": "5654",
+      "wrong_answer": "34445",
+      "relevant_docs": [
+        "5654",
+        "37728"
+      ]
+    },
+    "QTest395": {
+      "input": "Which serial killer was born in Much Marcle, Herefordshire, in 1941?",
+      "expected_correct_answer": "66703",
+      "wrong_answer": "54890",
+      "relevant_docs": [
+        "66703",
+        "4805",
+        "17646",
+        "49448"
+      ]
+    },
+    "QTest403": {
+      "input": "Two is the atomic number for which element.",
+      "expected_correct_answer": "16315",
+      "wrong_answer": "3961",
+      "relevant_docs": [
+        "37906",
+        "16315",
+        "23919"
+      ]
+    },
+    "QTest412": {
+      "input": "Which country is the world`s biggest exporter of sugar?",
+      "expected_correct_answer": "50315",
+      "wrong_answer": "2466",
+      "relevant_docs": [
+        "8355",
+        "50315"
+      ]
+    },
+    "QTest455": {
+      "input": "Michael Bond wrote a series of children's books about a bear from Peru - what was his name?",
+      "expected_correct_answer": "31877",
+      "wrong_answer": "54448",
+      "relevant_docs": [
+        "31877",
+        "60101"
+      ]
+    },
+    "QTest477": {
+      "input": "What is the correct(medical) name given to red blood cells?",
+      "expected_correct_answer": "4367",
+      "wrong_answer": "50897",
+      "relevant_docs": [
+        "50897",
+        "4367"
+      ]
+    },
+    "QTest495": {
+      "input": "In the movie 'Nosferatu' what is the name of the vampire character?",
+      "expected_correct_answer": "928",
+      "wrong_answer": "14607",
+      "relevant_docs": [
+        "928"
+      ]
+    },
+    "QTest501": {
+      "input": "In Star Trek, what is Lieutenant Uhura's first name?",
+      "expected_correct_answer": "53692",
+      "wrong_answer": "59339",
+      "relevant_docs": [
+        "53692"
+      ]
+    },
+    "QTest505": {
+      "input": "In which English county would you find the villages of Shitterton, Scratchy Bottom and Happy Snoring?",
+      "expected_correct_answer": "25886",
+      "wrong_answer": "39813",
+      "relevant_docs": [
+        "15676",
+        "25886"
+      ]
+    },
+    "QTest521": {
+      "input": "Which ancient Greek dramatist is often referred to as \u2018The Father of Comedy\u2019?",
+      "expected_correct_answer": "58628",
+      "wrong_answer": "49367",
+      "relevant_docs": [
+        "58628",
+        "63618"
+      ]
+    },
+    "QTest524": {
+      "input": "A philogynist likes or admires who?",
+      "expected_correct_answer": "61040",
+      "wrong_answer": "49298",
+      "relevant_docs": [
+        "61040"
+      ]
+    },
+    "QTest536": {
+      "input": "Who partnered Bob Anderson to win the World Pairs title at darts in 1986?",
+      "expected_correct_answer": "53894",
+      "wrong_answer": "55746",
+      "relevant_docs": [
+        "57264",
+        "53894",
+        "10192"
+      ]
+    },
+    "QTest544": {
+      "input": "Which English Labour politician was Chancellor of the Exchequer 1974 \u2013 79?",
+      "expected_correct_answer": "69056",
+      "wrong_answer": "30626",
+      "relevant_docs": [
+        "69056",
+        "1576",
+        "49487"
+      ]
+    },
+    "QTest550": {
+      "input": "The Niagara River lies between which two of the Great Lakes?",
+      "expected_correct_answer": "67853",
+      "wrong_answer": "9168",
+      "relevant_docs": [
+        "67853"
+      ]
+    },
+    "QTest565": {
+      "input": "In which year was Joan of Arc burnt at the stake?",
+      "expected_correct_answer": "18081",
+      "wrong_answer": "64324",
+      "relevant_docs": [
+        "18081",
+        "64324"
+      ]
+    },
+    "QTest640": {
+      "input": "Which American poet wrote the collection \u2018Leaves of Grass\u2019?",
+      "expected_correct_answer": "68116",
+      "wrong_answer": "59768",
+      "relevant_docs": [
+        "68116",
+        "14546",
+        "14435"
+      ]
+    },
+    "QTest647": {
+      "input": "What is the title of the 2007 US fantasy action film, starring Gerard Butler, based on the 1998 comic series of the same name by Frank Miller?",
+      "expected_correct_answer": "56473",
+      "wrong_answer": "6092",
+      "relevant_docs": [
+        "40319",
+        "56473"
+      ]
+    },
+    "QTest682": {
+      "input": "Coffee company Douwe Egberts was founded in which European country in 1753?",
+      "expected_correct_answer": "38080",
+      "wrong_answer": null,
+      "relevant_docs": [
+        "64827",
+        "38080"
+      ]
+    },
+    "QTest719": {
+      "input": "In which year did Canada adopt the Maple Leaf Flag as its national flag?",
+      "expected_correct_answer": "67852",
+      "wrong_answer": "9701",
+      "relevant_docs": [
+        "9701",
+        "67852"
+      ]
+    },
+    "QTest732": {
+      "input": "Which US actress was banned from radio in December 1937 after making a risque guest appearance on the NBC \u2018Chase and Sanborn Hour\u2019?",
+      "expected_correct_answer": "18444",
+      "wrong_answer": "14231",
+      "relevant_docs": [
+        "33451",
+        "18444",
+        "48676",
+        "59456"
+      ]
+    },
+    "QTest737": {
+      "input": "Bind, Feint and Parry are all terms used in which sport?",
+      "expected_correct_answer": "3727",
+      "wrong_answer": "2630",
+      "relevant_docs": [
+        "3727",
+        "20683"
+      ]
+    },
+    "QTest763": {
+      "input": "Which animal is known as a wisent?",
+      "expected_correct_answer": "37897",
+      "wrong_answer": "6506",
+      "relevant_docs": [
+        "37897"
+      ]
+    },
+    "QTest780": {
+      "input": "In the US, Oregon, Nevada and Arizona border which state?",
+      "expected_correct_answer": "4172",
+      "wrong_answer": "54298",
+      "relevant_docs": [
+        "4172",
+        "51776",
+        "64878"
+      ]
+    },
+    "QTest797": {
+      "input": "Kabuki, a form of highly stylised song, mime and dance originated in which country?",
+      "expected_correct_answer": "61042",
+      "wrong_answer": "1189",
+      "relevant_docs": [
+        "55410",
+        "36434",
+        "61042",
+        "53493"
+      ]
+    },
+    "QTest816": {
+      "input": "The Grand Canyon in Arizona was carved by which river?",
+      "expected_correct_answer": "64878",
+      "wrong_answer": "51789",
+      "relevant_docs": [
+        "51789",
+        "64878"
+      ]
+    },
+    "QTest817": {
+      "input": "In 1994 US actress Cameron Diaz made her feature film debut in which film?",
+      "expected_correct_answer": "22165",
+      "wrong_answer": "7979",
+      "relevant_docs": [
+        "22165"
+      ]
+    },
+    "QTest827": {
+      "input": "The mineral Pyrope is a variety of which precious stone?",
+      "expected_correct_answer": "5762",
+      "wrong_answer": "10720",
+      "relevant_docs": [
+        "53210",
+        "10720",
+        "5762"
+      ]
+    },
+    "QTest829": {
+      "input": "How many US states share a land or water border with Canada?",
+      "expected_correct_answer": "9701",
+      "wrong_answer": "26530",
+      "relevant_docs": [
+        "9701",
+        "2901"
+      ]
+    },
+    "QTest843": {
+      "input": "The \u2018Pentagon Papers\u2019 is a US Department of Defense history of the United States political-military involvement in which country?",
+      "expected_correct_answer": "69314",
+      "wrong_answer": "57343",
+      "relevant_docs": [
+        "32604",
+        "69314",
+        "46390",
+        "71016"
+      ]
+    },
+    "QTest859": {
+      "input": "\u2018The Night Watch\u2019 by which artist was slashed at the Rijksmuseum in Amsterdam in September 1975?",
+      "expected_correct_answer": "62247",
+      "wrong_answer": "52523",
+      "relevant_docs": [
+        "67697",
+        "62247",
+        "52523",
+        "24462",
+        "62064"
+      ]
+    },
+    "QTest892": {
+      "input": "Which US President is depicted on a $1 bank note?",
+      "expected_correct_answer": "44539",
+      "wrong_answer": "2182",
+      "relevant_docs": [
+        "2182",
+        "44539"
+      ]
+    },
+    "QTest917": {
+      "input": "Which Greek philosopher was made to commit suicide by drinking hemlock?",
+      "expected_correct_answer": "50491",
+      "wrong_answer": "25219",
+      "relevant_docs": [
+        "50491",
+        "23853"
+      ]
+    },
+    "QTest926": {
+      "input": "Freedom House, founded in 1941, an international non-governmental organisation, is based in which US city?",
+      "expected_correct_answer": "70663",
+      "wrong_answer": "61291",
+      "relevant_docs": [
+        "70663"
+      ]
+    },
+    "QTest965": {
+      "input": "Who became England football team manager in 1977?",
+      "expected_correct_answer": "41398",
+      "wrong_answer": "21600",
+      "relevant_docs": [
+        "21600",
+        "41398"
+      ]
+    },
+    "QTest968": {
+      "input": "In 1994, who bought Leonardo da Vinci\u2019s Codex Leicester (or Codex Hammer) for $30.8 million at auction, making it the most expensive book ever sold?",
+      "expected_correct_answer": "2347",
+      "wrong_answer": "21093",
+      "relevant_docs": [
+        "2347",
+        "13108"
+      ]
+    },
+    "QTest991": {
+      "input": "Model Marie Helvin was the third wife of which famous photographer?",
+      "expected_correct_answer": "7165",
+      "wrong_answer": "58589",
+      "relevant_docs": [
+        "7165"
+      ]
+    },
+    "QTest996": {
+      "input": "How many compartments does a camel\u2019s stomach have?",
+      "expected_correct_answer": "10022",
+      "wrong_answer": "66553",
+      "relevant_docs": [
+        "10022",
+        "66553"
+      ]
+    },
+    "QTest1013": {
+      "input": "Piano Sonata No.14 by Beethoven is popularly known by what name?",
+      "expected_correct_answer": "42449",
+      "wrong_answer": "1044",
+      "relevant_docs": [
+        "42449",
+        "46163"
+      ]
+    },
+    "QTest1032": {
+      "input": "Black Ivory coffee is produced from Arabica coffee beans consumed by which animals and collected from their dung?",
+      "expected_correct_answer": "64827",
+      "wrong_answer": "33251",
+      "relevant_docs": [
+        "34193",
+        "64827"
+      ]
+    },
+    "QTest1049": {
+      "input": "Who was the only actor to have his singing voice dubbed in the 1972 film \u2018Man of La Mancha\u2019?",
+      "expected_correct_answer": "21313",
+      "wrong_answer": "3340",
+      "relevant_docs": [
+        "51618",
+        "21313"
+      ]
+    },
+    "QTest1139": {
+      "input": "Mount McKinley, the highest mountain peak in North America, is in which US state?",
+      "expected_correct_answer": "26530",
+      "wrong_answer": "60042",
+      "relevant_docs": [
+        "20441",
+        "70274",
+        "26530"
+      ]
+    },
+    "QTest1172": {
+      "input": "Which composer wrote the four 19th Century \u2018Ring Cycle\u2019 operas?",
+      "expected_correct_answer": "14342",
+      "wrong_answer": "44753",
+      "relevant_docs": [
+        "71913",
+        "14342",
+        "42441",
+        "44753"
+      ]
+    },
+    "QTest1174": {
+      "input": "Who was the French monarch during the Battle of Agincourt in 1415?",
+      "expected_correct_answer": "48365",
+      "wrong_answer": "26664",
+      "relevant_docs": [
+        "48365"
+      ]
+    },
+    "QTest1178": {
+      "input": "What is the real name of former BBC Radio 1 dj Lard?",
+      "expected_correct_answer": "73660",
+      "wrong_answer": "49585",
+      "relevant_docs": [
+        "73660",
+        "64345"
+      ]
+    },
+    "QTest1181": {
+      "input": "What was the first name of British fashion designer Ossie Clark?",
+      "expected_correct_answer": "49751",
+      "wrong_answer": "41617",
+      "relevant_docs": [
+        "49751"
+      ]
+    },
+    "QTest1183": {
+      "input": "A splenectomy is the surgical removal of which part of the body?",
+      "expected_correct_answer": "44575",
+      "wrong_answer": "60723",
+      "relevant_docs": [
+        "44575",
+        "57460"
+      ]
+    },
+    "QTest1189": {
+      "input": "The opera \u2018The Magic Flute\u2019 by Mozart, was said to have revealed the secrets of which society that Mozart joined in 1784?",
+      "expected_correct_answer": "33950",
+      "wrong_answer": "14342",
+      "relevant_docs": [
+        "33950",
+        "763"
+      ]
+    },
+    "QTest1202": {
+      "input": "In athletics, the first recorded high jump event took place in which European country in the 19th Century?",
+      "expected_correct_answer": "45052",
+      "wrong_answer": "33454",
+      "relevant_docs": [
+        "45052"
+      ]
+    },
+    "QTest1225": {
+      "input": "The city of Budapest occupies both banks of which river?",
+      "expected_correct_answer": "71767",
+      "wrong_answer": "1002",
+      "relevant_docs": [
+        "71767"
+      ]
+    },
+    "QTest1232": {
+      "input": "In August 1990 Iraq invaded which country, eventually leading to the Gulf War?",
+      "expected_correct_answer": "15335",
+      "wrong_answer": "19304",
+      "relevant_docs": [
+        "22198",
+        "18298",
+        "15335"
+      ]
+    },
+    "QTest1237": {
+      "input": "A smew is what type of creature?",
+      "expected_correct_answer": "6940",
+      "wrong_answer": "10922",
+      "relevant_docs": [
+        "6940"
+      ]
+    },
+    "QTest1254": {
+      "input": "A Medusa is what type of marine creature?",
+      "expected_correct_answer": "43531",
+      "wrong_answer": "46780",
+      "relevant_docs": [
+        "43531",
+        "70703"
+      ]
+    },
+    "QTest1255": {
+      "input": "Which British monarch was the first of the House of Windsor?",
+      "expected_correct_answer": "5685",
+      "wrong_answer": "2399",
+      "relevant_docs": [
+        "2399",
+        "5685",
+        "66468"
+      ]
+    },
+    "QTest1298": {
+      "input": "Toblerone\u2019s shape is supposedly modelled on what mountain?",
+      "expected_correct_answer": "49706",
+      "wrong_answer": "22864",
+      "relevant_docs": [
+        "49706"
+      ]
+    },
+    "QTest1381": {
+      "input": "Where in a cell is nearly all of the DNA to be found?",
+      "expected_correct_answer": "49848",
+      "wrong_answer": "71732",
+      "relevant_docs": [
+        "71732",
+        "49848"
+      ]
+    },
+    "QTest1424": {
+      "input": "Which Portuguese island gives its name to a popular cake variety?",
+      "expected_correct_answer": "38679",
+      "wrong_answer": "45693",
+      "relevant_docs": [
+        "38679"
+      ]
+    },
+    "QTest1425": {
+      "input": "Which NASA space shuttle disintegrated on earth re-entry in 2003?",
+      "expected_correct_answer": "9733",
+      "wrong_answer": "23511",
+      "relevant_docs": [
+        "9733",
+        "17985",
+        "48215",
+        "48626"
+      ]
+    },
+    "QTest1443": {
+      "input": "Assassinated in 1966 Hendrick Verwoerd was Prime Minister of which country?",
+      "expected_correct_answer": "59622",
+      "wrong_answer": null,
+      "relevant_docs": [
+        "59622"
+      ]
+    },
+    "QTest1444": {
+      "input": "What kind of time is measured by the apparent diurnal motion of stars?",
+      "expected_correct_answer": "20957",
+      "wrong_answer": "42644",
+      "relevant_docs": [
+        "20957"
+      ]
+    },
+    "QTest1447": {
+      "input": "Which action describes the rise of a liquid up a narrow tube?",
+      "expected_correct_answer": "54299",
+      "wrong_answer": "43323",
+      "relevant_docs": [
+        "54299"
+      ]
+    },
+    "QTest1465": {
+      "input": "In which month does Beaujolais Nouveau arrive in the UK?",
+      "expected_correct_answer": "63348",
+      "wrong_answer": "64541",
+      "relevant_docs": [
+        "63348"
+      ]
+    },
+    "QTest1472": {
+      "input": "What name is given to the flowers of a willow tree?",
+      "expected_correct_answer": "49470",
+      "wrong_answer": "73103",
+      "relevant_docs": [
+        "49470"
+      ]
+    },
+    "QTest1555": {
+      "input": "Which capital city has a name that translates into English as 'Smoky Bay'?",
+      "expected_correct_answer": "38912",
+      "wrong_answer": "58174",
+      "relevant_docs": [
+        "38912"
+      ]
+    },
+    "QTest1608": {
+      "input": "Which was the first country to secede from the former Yugoslavia?",
+      "expected_correct_answer": "28216",
+      "wrong_answer": "60028",
+      "relevant_docs": [
+        "28216",
+        "51128",
+        "33269",
+        "60130"
+      ]
+    },
+    "QTest1626": {
+      "input": "Who played Nick Dunne in the 2014 film Gone Girl?",
+      "expected_correct_answer": "41975",
+      "wrong_answer": "3686",
+      "relevant_docs": [
+        "41975"
+      ]
+    },
+    "QTest1647": {
+      "input": "Rounded down very slightly, what is the atomic weight of helium?",
+      "expected_correct_answer": "65941",
+      "wrong_answer": "23919",
+      "relevant_docs": [
+        "65941"
+      ]
+    },
+    "QTest1673": {
+      "input": "In what decade did Christopher Cockerell built several models of his hovercraft design?",
+      "expected_correct_answer": "6613",
+      "wrong_answer": "3652",
+      "relevant_docs": [
+        "6613"
+      ]
+    },
+    "QTest1718": {
+      "input": "What name is given to an ionic compound formed from reacting an acid and a base?",
+      "expected_correct_answer": "56468",
+      "wrong_answer": "23919",
+      "relevant_docs": [
+        "56468",
+        "29772",
+        "40434"
+      ]
+    },
+    "QTest1730": {
+      "input": "Who has a current top ten hit with the record 'scary Monsters'?",
+      "expected_correct_answer": "28584",
+      "wrong_answer": "7456",
+      "relevant_docs": [
+        "28584"
+      ]
+    },
+    "QTest1749": {
+      "input": "Chinese Parsley is another name for which herb?",
+      "expected_correct_answer": "67456",
+      "wrong_answer": "18012",
+      "relevant_docs": [
+        "67456",
+        "49536",
+        "18012"
+      ]
+    },
+    "QTest1759": {
+      "input": "Kelvingrove Museum is Britain's most visited museum outside London. In which city is it located?",
+      "expected_correct_answer": "54142",
+      "wrong_answer": "15653",
+      "relevant_docs": [
+        "54142",
+        "14463"
+      ]
+    },
+    "QTest1789": {
+      "input": "Which is the only vowel that does not appear on the top row of the letters section of a 'qwerty' keyboard?",
+      "expected_correct_answer": "9860",
+      "wrong_answer": "53554",
+      "relevant_docs": [
+        "9860",
+        "53554",
+        "25165",
+        "51978",
+        "48602"
+      ]
+    },
+    "QTest1810": {
+      "input": "Heraklion is the capital of which island?",
+      "expected_correct_answer": "31804",
+      "wrong_answer": null,
+      "relevant_docs": [
+        "31804"
+      ]
+    },
+    "QTest1819": {
+      "input": "What type of dog is 'Uggie', star of the film The Artist that won several Oscars in 2012?",
+      "expected_correct_answer": "42220",
+      "wrong_answer": "13867",
+      "relevant_docs": [
+        "42220"
+      ]
+    },
+    "QTest1828": {
+      "input": "Eccle and Yaffle are alternative names for which bird?",
+      "expected_correct_answer": "1759",
+      "wrong_answer": "49298",
+      "relevant_docs": [
+        "1759"
+      ]
+    },
+    "QTest1836": {
+      "input": "Now aged 53 and taking office on November 25th 2009, Yves Leterme is the current Prime Minister of which European country?",
+      "expected_correct_answer": "17409",
+      "wrong_answer": "2182",
+      "relevant_docs": [
+        "17409"
+      ]
+    },
+    "QTest1863": {
+      "input": "In which country is the car manufacturer Dacia based ?",
+      "expected_correct_answer": "63525",
+      "wrong_answer": "57233",
+      "relevant_docs": [
+        "63525"
+      ]
+    },
+    "QTest1875": {
+      "input": "How many atoms are there in a molecule of sulphuric acid ?",
+      "expected_correct_answer": "36302",
+      "wrong_answer": "68202",
+      "relevant_docs": [
+        "23919",
+        "57018",
+        "36302"
+      ]
+    },
+    "QTest1876": {
+      "input": "Which Christian festival day is held 40 days after the birth of Christ ?",
+      "expected_correct_answer": "61762",
+      "wrong_answer": "26279",
+      "relevant_docs": [
+        "61762"
+      ]
+    },
+    "QTest1897": {
+      "input": "What is the first astrological sign in the Zodiac ?",
+      "expected_correct_answer": "19802",
+      "wrong_answer": "13706",
+      "relevant_docs": [
+        "13706",
+        "19802"
+      ]
+    },
+    "QTest1953": {
+      "input": "In which U.S. state is the Kennedy Space Centre ?",
+      "expected_correct_answer": "45586",
+      "wrong_answer": "26530",
+      "relevant_docs": [
+        "26530",
+        "45586"
+      ]
+    },
+    "QTest1981": {
+      "input": "The Rig Veda is an ancient sacred collection of hymns of which religion ?",
+      "expected_correct_answer": "59409",
+      "wrong_answer": "13390",
+      "relevant_docs": [
+        "59409",
+        "13390"
+      ]
+    },
+    "QTest2030": {
+      "input": "Charlotte Brew was the first woman to?",
+      "expected_correct_answer": "18037",
+      "wrong_answer": "65429",
+      "relevant_docs": [
+        "18037"
+      ]
+    },
+    "QTest2056": {
+      "input": "Considered unlucky in Italy, due probably to its rendering in Roman numerals being an anagram of Latin meaning 'to die'?",
+      "expected_correct_answer": "71397",
+      "wrong_answer": "45776",
+      "relevant_docs": [
+        "9988",
+        "71397",
+        "18206"
+      ]
+    },
+    "QTest2093": {
+      "input": "Name the UK banknote printer subject to quality failings, financial pressures and foreign takeover discussion?",
+      "expected_correct_answer": "46695",
+      "wrong_answer": "63267",
+      "relevant_docs": [
+        "46695"
+      ]
+    },
+    "QTest2102": {
+      "input": "Who directed the 1994 film 'Shallow Grave'?",
+      "expected_correct_answer": "34165",
+      "wrong_answer": "36159",
+      "relevant_docs": [
+        "34165",
+        "36159"
+      ]
+    },
+    "QTest2157": {
+      "input": "Abbreviated to DA, what is the catecholamine ('fight-or-flight') hormone secreted by the adrenal glands along with adrenaline and noradrenaline?",
+      "expected_correct_answer": "41256",
+      "wrong_answer": "46739",
+      "relevant_docs": [
+        "41256",
+        "50611",
+        "49859",
+        "43774",
+        "15876"
+      ]
+    },
+    "QTest2201": {
+      "input": "In what country was Britain's Queen Elizabeth II when she became Queen in 1952?",
+      "expected_correct_answer": "50362",
+      "wrong_answer": "4883",
+      "relevant_docs": [
+        "50362"
+      ]
+    },
+    "QTest2214": {
+      "input": "Explorer, Street Triple, Rocket and Thunderbird are motorbikes of which manufacturer?",
+      "expected_correct_answer": "65740",
+      "wrong_answer": "32089",
+      "relevant_docs": [
+        "11398",
+        "32089",
+        "65740"
+      ]
+    },
+    "QTest2216": {
+      "input": "Name the Italian red wine from Tuscany traditionally available in a squat bottle in a straw basket, called a fiasco?",
+      "expected_correct_answer": "38392",
+      "wrong_answer": "57821",
+      "relevant_docs": [
+        "57821",
+        "73890",
+        "38392"
+      ]
+    },
+    "QTest2279": {
+      "input": "Aside from his usual name who is sometimes called the Bishop of Rome?",
+      "expected_correct_answer": "64008",
+      "wrong_answer": "53426",
+      "relevant_docs": [
+        "64008",
+        "35645"
+      ]
+    },
+    "QTest2283": {
+      "input": "The aromatic compound phenol, used in detergents, plastics and an old eponymous disinfectant soap, is also known as (what?) acid?",
+      "expected_correct_answer": "71488",
+      "wrong_answer": "50313",
+      "relevant_docs": [
+        "71488"
+      ]
+    },
+    "QTest2362": {
+      "input": "Sugar, cotton, corn, coffee, and other grown produce are known in commodity trading as?",
+      "expected_correct_answer": "50315",
+      "wrong_answer": "50131",
+      "relevant_docs": [
+        "50315",
+        "507",
+        "53410",
+        "64827",
+        "38749"
+      ]
+    },
+    "QTest2407": {
+      "input": "Breitling, Fortis, Hublot and Longines are makers of?",
+      "expected_correct_answer": "50345",
+      "wrong_answer": "45208",
+      "relevant_docs": [
+        "50345",
+        "45208",
+        "40691",
+        "47275"
+      ]
+    },
+    "QTest2416": {
+      "input": "Carambola is another name for which fruit?",
+      "expected_correct_answer": "64100",
+      "wrong_answer": "62123",
+      "relevant_docs": [
+        "64100"
+      ]
+    },
+    "QTest2421": {
+      "input": "An anaesthetist (US anesthesiologist) is a type of?",
+      "expected_correct_answer": "55500",
+      "wrong_answer": "45025",
+      "relevant_docs": [
+        "55500"
+      ]
+    },
+    "QTest2422": {
+      "input": "Religious Christian instruction - typically spoken fixed questions and answers - is called?",
+      "expected_correct_answer": "13390",
+      "wrong_answer": "51406",
+      "relevant_docs": [
+        "13390"
+      ]
+    },
+    "QTest2439": {
+      "input": "Originating in ancient India, 'ghee' is a popular modern?",
+      "expected_correct_answer": "54791",
+      "wrong_answer": "23355",
+      "relevant_docs": [
+        "54791"
+      ]
+    },
+    "QTest2442": {
+      "input": "What significant member of the British government drowned when HMS Hampshire was sunk by a mine off Orkney in 1916?",
+      "expected_correct_answer": "1405",
+      "wrong_answer": "5486",
+      "relevant_docs": [
+        "1405"
+      ]
+    },
+    "QTest2449": {
+      "input": "What is the popular name for little baked sausages wrapped in rashers of streaky bacon?",
+      "expected_correct_answer": "33823",
+      "wrong_answer": "59651",
+      "relevant_docs": [
+        "33823"
+      ]
+    },
+    "QTest2465": {
+      "input": "In what continent is Patagonia?",
+      "expected_correct_answer": "67492",
+      "wrong_answer": "63514",
+      "relevant_docs": [
+        "63514",
+        "67492"
+      ]
+    },
+    "QTest2494": {
+      "input": "What was the codename of the Allied forces landing at Normandy in 1944?",
+      "expected_correct_answer": "48",
+      "wrong_answer": "69222",
+      "relevant_docs": [
+        "22310",
+        "17206",
+        "23816",
+        "40968",
+        "48"
+      ]
+    },
+    "QTest2498": {
+      "input": "Touchstone is a character in which Shakespeare play?",
+      "expected_correct_answer": "4614",
+      "wrong_answer": "71386",
+      "relevant_docs": [
+        "71386",
+        "4614"
+      ]
+    },
+    "QTest2503": {
+      "input": "What is the capital of Botswana?",
+      "expected_correct_answer": "1432",
+      "wrong_answer": "72954",
+      "relevant_docs": [
+        "72954",
+        "1432"
+      ]
+    },
+    "QTest2505": {
+      "input": "Who wrote the novel The Camomile Lawn?",
+      "expected_correct_answer": "44183",
+      "wrong_answer": "27115",
+      "relevant_docs": [
+        "44183"
+      ]
+    },
+    "QTest2512": {
+      "input": "What ethnic culture is common to Biarritz in France and Bilbao in Spain?",
+      "expected_correct_answer": "73555",
+      "wrong_answer": "6952",
+      "relevant_docs": [
+        "73555",
+        "34082",
+        "29777",
+        "6952"
+      ]
+    },
+    "QTest2546": {
+      "input": "Who took over as Chelsea Football Club manager in February 2009?",
+      "expected_correct_answer": "25533",
+      "wrong_answer": "21600",
+      "relevant_docs": [
+        "25533"
+      ]
+    },
+    "QTest2557": {
+      "input": "Lake Pontchartrain is in which US state?",
+      "expected_correct_answer": "32544",
+      "wrong_answer": "26530",
+      "relevant_docs": [
+        "32544",
+        "26530",
+        "14180"
+      ]
+    },
+    "QTest2571": {
+      "input": "Rock Hudson appeared with which singing star in the movies Send Me No Flowers and Pillow Talk?",
+      "expected_correct_answer": "16551",
+      "wrong_answer": "36553",
+      "relevant_docs": [
+        "27756",
+        "16551",
+        "23601"
+      ]
+    },
+    "QTest2640": {
+      "input": "What was the name of the bank manager in the TV series 'The Beverley Hillbillies'?",
+      "expected_correct_answer": "31231",
+      "wrong_answer": "47592",
+      "relevant_docs": [
+        "31231"
+      ]
+    },
+    "QTest2645": {
+      "input": "The woolsack is a seat for the president, the Lord Chancellor, of which group?",
+      "expected_correct_answer": "70361",
+      "wrong_answer": "8382",
+      "relevant_docs": [
+        "70361",
+        "54591"
+      ]
+    },
+    "QTest2647": {
+      "input": "What drink originating from India is made by blending yoghurt with water, salt, pepper, ice and spices and sometimes ground roasted cumin, sugar, honey, turmeric powder, rosewater, lemon, mango, strawberry, cream, ice cream, pistachio nuts or a liquid der",
+      "expected_correct_answer": "38488",
+      "wrong_answer": "67238",
+      "relevant_docs": [
+        "38488",
+        "49511",
+        "73207"
+      ]
+    },
+    "QTest2660": {
+      "input": "What species of tree of the genus Prunus, native to the Middle East, produces a seed in a corrugated shell which is botanically not a nut, but a drupe?",
+      "expected_correct_answer": "73103",
+      "wrong_answer": "70804",
+      "relevant_docs": [
+        "73103",
+        "23815",
+        "59655",
+        "70683",
+        "21181",
+        "15740"
+      ]
+    },
+    "QTest2684": {
+      "input": "The Senate of the Republic of Ireland is called the Seanad. What is the name of the House of Representatives?",
+      "expected_correct_answer": "33798",
+      "wrong_answer": "48978",
+      "relevant_docs": [
+        "33798",
+        "61402"
+      ]
+    },
+    "QTest2703": {
+      "input": "What number, when multiplied by itself, has the same answer when it is added to itself?",
+      "expected_correct_answer": "10051",
+      "wrong_answer": "37529",
+      "relevant_docs": [
+        "10051"
+      ]
+    },
+    "QTest2718": {
+      "input": "At the end of his life, from 1094 to 1102, El Cid ruled over which Spanish city?",
+      "expected_correct_answer": "21681",
+      "wrong_answer": "60550",
+      "relevant_docs": [
+        "21681"
+      ]
+    },
+    "QTest2736": {
+      "input": "What was the name of the two spacecraft that photographed the planet Saturn in 1980 and 1981?",
+      "expected_correct_answer": "66989",
+      "wrong_answer": "36366",
+      "relevant_docs": [
+        "36366",
+        "66989"
+      ]
+    },
+    "QTest2781": {
+      "input": "Which capital city is at the confluence of the White Nile and the Blue Nile?",
+      "expected_correct_answer": "62419",
+      "wrong_answer": "73784",
+      "relevant_docs": [
+        "73784",
+        "41668",
+        "62419",
+        "69916"
+      ]
+    },
+    "QTest2797": {
+      "input": "Which ancient people were thought to have built large pyramidal structures at Tula and Teotihuacan, Mexico?",
+      "expected_correct_answer": "54307",
+      "wrong_answer": "29642",
+      "relevant_docs": [
+        "54307",
+        "39751",
+        "20233"
+      ]
+    },
+    "QTest2833": {
+      "input": "What shape are the 6 faces of a cube?",
+      "expected_correct_answer": "73509",
+      "wrong_answer": "29728",
+      "relevant_docs": [
+        "29728",
+        "73509",
+        "47997",
+        "27942"
+      ]
+    },
+    "QTest2875": {
+      "input": "Which mountain range would you encounter first if you went directly west from New York city?",
+      "expected_correct_answer": "69482",
+      "wrong_answer": "23042",
+      "relevant_docs": [
+        "69482"
+      ]
+    },
+    "QTest2879": {
+      "input": "What protein in the blood carries oxygen around the body?",
+      "expected_correct_answer": "4367",
+      "wrong_answer": "50445",
+      "relevant_docs": [
+        "50445",
+        "34473",
+        "4367"
+      ]
+    },
+    "QTest2881": {
+      "input": "The Rhine, the Mississippi and the Amazon are all what type of geographical feature?",
+      "expected_correct_answer": "14631",
+      "wrong_answer": "60162",
+      "relevant_docs": [
+        "60162",
+        "14631",
+        "25120",
+        "58619"
+      ]
+    },
+    "QTest2883": {
+      "input": "George W Bush was the second President of the USA whose father was also a President. Who was the first?",
+      "expected_correct_answer": "39169",
+      "wrong_answer": "72163",
+      "relevant_docs": [
+        "39169",
+        "2182"
+      ]
+    },
+    "QTest2942": {
+      "input": "When the Winter Olympics in Italy ended in 2006, how many times had curling been an Olympic sport?",
+      "expected_correct_answer": "8930",
+      "wrong_answer": "18294",
+      "relevant_docs": [
+        "8930",
+        "44332",
+        "23352",
+        "69244",
+        "29055"
+      ]
+    },
+    "QTest3016": {
+      "input": "Which US golfer birdied the last 2 holes at the 2004 Honda Classic to beat Davis Love III, and beat Ernie Els at the 2004 British Open at Royal Troon to become PGA Tour Rookie of the Year?",
+      "expected_correct_answer": "7536",
+      "wrong_answer": "47375",
+      "relevant_docs": [
+        "7536",
+        "40999",
+        "15614"
+      ]
+    },
+    "QTest3017": {
+      "input": "What scale is a method for categorizing the impact hazard associated with near-Earth objects such as asteroids and comets?",
+      "expected_correct_answer": "58463",
+      "wrong_answer": "11563",
+      "relevant_docs": [
+        "69267",
+        "58463"
+      ]
+    },
+    "QTest3065": {
+      "input": "When did the first underground segment of the New York City Subway open, connecting New York City Hall with Harlem?",
+      "expected_correct_answer": "39624",
+      "wrong_answer": "40116",
+      "relevant_docs": [
+        "39624",
+        "26255",
+        "69482"
+      ]
+    },
+    "QTest3101": {
+      "input": "Which board game, the objective of which is world domination, was invented by Albert Lamorisse in 1957?",
+      "expected_correct_answer": "13710",
+      "wrong_answer": "32578",
+      "relevant_docs": [
+        "13710",
+        "31802"
+      ]
+    },
+    "QTest3144": {
+      "input": "What was US president John Kennedy's middle name?",
+      "expected_correct_answer": "24271",
+      "wrong_answer": "2182",
+      "relevant_docs": [
+        "24271"
+      ]
+    },
+    "QTest3147": {
+      "input": "In 1996, at Atlanta, Karch Kiraly was the first US player of which sport to win three Olympic gold medals?",
+      "expected_correct_answer": "18426",
+      "wrong_answer": "24664",
+      "relevant_docs": [
+        "18426"
+      ]
+    },
+    "QTest3162": {
+      "input": "What facial feature is missing from the Mona Lisa?",
+      "expected_correct_answer": "56404",
+      "wrong_answer": null,
+      "relevant_docs": [
+        "61918",
+        "56404"
+      ]
+    },
+    "QTest3187": {
+      "input": "The term 'Grand Slam' was first applied to whose achievement of winning the 4 major golf events of 1930?",
+      "expected_correct_answer": "20681",
+      "wrong_answer": "28779",
+      "relevant_docs": [
+        "20681"
+      ]
+    },
+    "QTest3205": {
+      "input": "Where is the volcano called Krakatoa?",
+      "expected_correct_answer": "63152",
+      "wrong_answer": null,
+      "relevant_docs": [
+        "69993",
+        "63152"
+      ]
+    },
+    "QTest3238": {
+      "input": "If your team is playing for the Grey Cup, first offered in 1909, for a national championship, what sport are you playing?",
+      "expected_correct_answer": "5845",
+      "wrong_answer": "19715",
+      "relevant_docs": [
+        "5845"
+      ]
+    },
+    "QTest3240": {
+      "input": "What does the Greek word 'Eureka' mean?",
+      "expected_correct_answer": "26896",
+      "wrong_answer": "28856",
+      "relevant_docs": [
+        "26896"
+      ]
+    },
+    "QTest3272": {
+      "input": "What is the world's longest mountain range, that lies as a continuous chain of highland along the western coast of South America?",
+      "expected_correct_answer": "58056",
+      "wrong_answer": "22864",
+      "relevant_docs": [
+        "24623",
+        "58056"
+      ]
+    },
+    "QTest3285": {
+      "input": "What is the branch of medicine dealing with diagnosis and treatment of disorders of the human heart?",
+      "expected_correct_answer": "69551",
+      "wrong_answer": "39149",
+      "relevant_docs": [
+        "69551"
+      ]
+    },
+    "QTest3322": {
+      "input": "Ordo Virtutum composed in 1151 and thought to be one of the oldest pieces of liturgical drama, set to music and arguably the oldest surviving morality play, was written by whom?",
+      "expected_correct_answer": "73775",
+      "wrong_answer": "9292",
+      "relevant_docs": [
+        "73775",
+        "19026",
+        "53493"
+      ]
+    },
+    "QTest3342": {
+      "input": "In both world wars, what did the British call German submarines?",
+      "expected_correct_answer": "68825",
+      "wrong_answer": "28242",
+      "relevant_docs": [
+        "68825",
+        "15663"
+      ]
+    },
+    "QTest3356": {
+      "input": "What ancient form of measurement was represented by the length of the forearm from the elbow to the middle fingertip?",
+      "expected_correct_answer": "73828",
+      "wrong_answer": "72812",
+      "relevant_docs": [
+        "15422",
+        "73828"
+      ]
+    },
+    "QTest3362": {
+      "input": "Usually, how many feet should one stand away from an eye chart?",
+      "expected_correct_answer": "29369",
+      "wrong_answer": "72792",
+      "relevant_docs": [
+        "29369"
+      ]
+    },
+    "QTest3381": {
+      "input": "When Graeme McDowell won the US Open in 2010, he became the tournament's first golfing champion since 1970 to come from where?",
+      "expected_correct_answer": "15837",
+      "wrong_answer": "4619",
+      "relevant_docs": [
+        "54486",
+        "15837",
+        "24489",
+        "18055"
+      ]
+    },
+    "QTest3391": {
+      "input": "What is the only African country that has a coastline on both the Atlantic and Indian Oceans?",
+      "expected_correct_answer": "25112",
+      "wrong_answer": "46835",
+      "relevant_docs": [
+        "67015",
+        "25112",
+        "39628"
+      ]
+    },
+    "QTest3397": {
+      "input": "In which French colony was there a war of independence from 1954 to 1962?",
+      "expected_correct_answer": "3534",
+      "wrong_answer": "34082",
+      "relevant_docs": [
+        "3534",
+        "51847"
+      ]
+    },
+    "QTest3405": {
+      "input": "After digestion, food passes from the stomach through the pylorus to where?",
+      "expected_correct_answer": "10022",
+      "wrong_answer": "53790",
+      "relevant_docs": [
+        "26564",
+        "10022",
+        "43560"
+      ]
+    },
+    "QTest3411": {
+      "input": "David Morgan, Sharad Pawar & Haroon Lorgat were involved in the adminstration of which sport at an international level in 2010?",
+      "expected_correct_answer": "54678",
+      "wrong_answer": "7439",
+      "relevant_docs": [
+        "53531",
+        "54678"
+      ]
+    },
+    "QTest3415": {
+      "input": "Where is hydrochloric acid found in the human body?",
+      "expected_correct_answer": "10441",
+      "wrong_answer": "29772",
+      "relevant_docs": [
+        "10441"
+      ]
+    },
+    "QTest3416": {
+      "input": "What is the name of the longest stretch of river in Poland?",
+      "expected_correct_answer": "69648",
+      "wrong_answer": "13389",
+      "relevant_docs": [
+        "69648"
+      ]
+    },
+    "QTest3447": {
+      "input": "What is another name for that very British piece of tropical headgear, the pith helmet?",
+      "expected_correct_answer": "66433",
+      "wrong_answer": "42163",
+      "relevant_docs": [
+        "66433"
+      ]
+    },
+    "QTest3461": {
+      "input": "Who is credited with establishing the rules which differentiate North American Football, or gridiron, from other forms of ball games?",
+      "expected_correct_answer": "59949",
+      "wrong_answer": "45226",
+      "relevant_docs": [
+        "45226",
+        "59949",
+        "12547"
+      ]
+    },
+    "QTest3462": {
+      "input": "The title of what song is on Dean Martin's gravestone?",
+      "expected_correct_answer": "48799",
+      "wrong_answer": "33694",
+      "relevant_docs": [
+        "48799"
+      ]
+    },
+    "QTest3467": {
+      "input": "Florence Cameron was born daughter to the Prime Minister of which country in August 2010?",
+      "expected_correct_answer": "41457",
+      "wrong_answer": "59708",
+      "relevant_docs": [
+        "41457"
+      ]
+    },
+    "QTest3469": {
+      "input": "The ancient city of Persepolis was an important centre for which ancient state religion?",
+      "expected_correct_answer": "28676",
+      "wrong_answer": "47665",
+      "relevant_docs": [
+        "28676"
+      ]
+    },
+    "QTest3475": {
+      "input": "What name is given to a molecule or atom in which the total number of electrons is not equal to the number of protons?",
+      "expected_correct_answer": "23919",
+      "wrong_answer": "42630",
+      "relevant_docs": [
+        "57018",
+        "23919",
+        "42630",
+        "34694"
+      ]
+    },
+    "QTest3477": {
+      "input": "Since the 1500s the post of Poet Laureate of Britain has been traditionally held for life, until 1999 when the appointment was made for a fixed term of 10 years. Who is the only Poet Laureate to have been removed from the position?",
+      "expected_correct_answer": "37143",
+      "wrong_answer": "64091",
+      "relevant_docs": [
+        "44058",
+        "37143"
+      ]
+    },
+    "QTest3496": {
+      "input": "King Kamehameha V, Walter M. Gibson, Queen Liliuokalani, John L. Stevens, Sanford Dole and James Henderson Blount were figures in the history of which area in the late 19th century?",
+      "expected_correct_answer": "69494",
+      "wrong_answer": "57760",
+      "relevant_docs": [
+        "22031",
+        "15809",
+        "69494",
+        "35172",
+        "18247",
+        "8037"
+      ]
+    },
+    "QTest3506": {
+      "input": "Where is the Chungyang Shanmo mountain range?",
+      "expected_correct_answer": "59316",
+      "wrong_answer": "32577",
+      "relevant_docs": [
+        "59316",
+        "22864"
+      ]
+    },
+    "QTest3508": {
+      "input": "\"The Ecstasy of Saint Teresa', a sculptural group in white marble set in an elevated aedicule in the Cornaro Chapel, Santa Maria della Vittoria, Rome, was designed and completed by whom?",
+      "expected_correct_answer": "37144",
+      "wrong_answer": "56404",
+      "relevant_docs": [
+        "37144",
+        "39033"
+      ]
+    },
+    "QTest3528": {
+      "input": "The name of which capital city, previously known as Wirye-seong, Hanju, Namgyeong, Hanseong, Hanyang and Gyeongseong, originated from the local word meaning 'capital city'?",
+      "expected_correct_answer": "36406",
+      "wrong_answer": "19519",
+      "relevant_docs": [
+        "36406",
+        "50417",
+        "73697"
+      ]
+    },
+    "QTest3544": {
+      "input": "In which US TV series would Dethklok and the characters Toki Wartooth, Vater Orlaag, Senator Stampingston, and Pickles the Drummer be found?",
+      "expected_correct_answer": "42508",
+      "wrong_answer": "36098",
+      "relevant_docs": [
+        "42508",
+        "51337"
+      ]
+    },
+    "QTest3572": {
+      "input": "What concert hall, named after Queen Victoria's husband, opened in London?",
+      "expected_correct_answer": "54394",
+      "wrong_answer": "12950",
+      "relevant_docs": [
+        "14463",
+        "54394"
+      ]
+    },
+    "QTest3577": {
+      "input": "What Kansas boom town was the ending point for cattle drives?",
+      "expected_correct_answer": "26147",
+      "wrong_answer": "39586",
+      "relevant_docs": [
+        "47963",
+        "26147",
+        "17692"
+      ]
+    },
+    "QTest3591": {
+      "input": "What family's pets were Buddy and Socks?",
+      "expected_correct_answer": "43690",
+      "wrong_answer": "30082",
+      "relevant_docs": [
+        "57429",
+        "43690"
+      ]
+    },
+    "QTest3602": {
+      "input": "Diamonds are formed from which element?",
+      "expected_correct_answer": "16315",
+      "wrong_answer": "54837",
+      "relevant_docs": [
+        "54837",
+        "16315"
+      ]
+    },
+    "QTest3624": {
+      "input": "What group of people were the target of genocide during WWI in the Ottoman Empire?",
+      "expected_correct_answer": "19799",
+      "wrong_answer": "14838",
+      "relevant_docs": [
+        "19799",
+        "14838"
+      ]
+    },
+    "QTest3626": {
+      "input": "Whose three sons were Japheth, Ham, and Shem?",
+      "expected_correct_answer": "10959",
+      "wrong_answer": "23812",
+      "relevant_docs": [
+        "23812",
+        "18537",
+        "10959"
+      ]
+    },
+    "QTest3638": {
+      "input": "What is the English name for France's C\u00f4te d'Azur?",
+      "expected_correct_answer": "34082",
+      "wrong_answer": "40743",
+      "relevant_docs": [
+        "34082"
+      ]
+    },
+    "QTest3639": {
+      "input": "What stage in a fly's life cycle comes between egg and pupa?",
+      "expected_correct_answer": "5028",
+      "wrong_answer": "49298",
+      "relevant_docs": [
+        "54026",
+        "5028",
+        "25260"
+      ]
+    },
+    "QTest3655": {
+      "input": "What crop can be devastated by a boll weevil?",
+      "expected_correct_answer": "47415",
+      "wrong_answer": "36862",
+      "relevant_docs": [
+        "36862",
+        "47415"
+      ]
+    },
+    "QTest3694": {
+      "input": "What does an Anglophile love?",
+      "expected_correct_answer": "6241",
+      "wrong_answer": "1781",
+      "relevant_docs": [
+        "6241"
+      ]
+    },
+    "QTest3729": {
+      "input": "What is Mario and Luigi's occupation?",
+      "expected_correct_answer": "44266",
+      "wrong_answer": "63036",
+      "relevant_docs": [
+        "47048",
+        "44266"
+      ]
+    },
+    "QTest3741": {
+      "input": "Romance languages are derived from what original language?",
+      "expected_correct_answer": "47986",
+      "wrong_answer": "51010",
+      "relevant_docs": [
+        "47986",
+        "48239"
+      ]
+    },
+    "QTest3751": {
+      "input": "If snakes are reptiles, what are frogs?",
+      "expected_correct_answer": "59992",
+      "wrong_answer": "38452",
+      "relevant_docs": [
+        "59992",
+        "21338"
+      ]
+    },
+    "QTest3763": {
+      "input": "In what U.S. state did the ukelele originate?",
+      "expected_correct_answer": "14852",
+      "wrong_answer": "26530",
+      "relevant_docs": [
+        "26530",
+        "14852"
+      ]
+    },
+    "QTest3767": {
+      "input": "What is the name of the tunnel that connects England and France?",
+      "expected_correct_answer": "40038",
+      "wrong_answer": "29094",
+      "relevant_docs": [
+        "29094",
+        "34082",
+        "40038"
+      ]
+    },
+    "QTest3792": {
+      "input": "What Japanese food is slices of raw fish, without rice?",
+      "expected_correct_answer": "33507",
+      "wrong_answer": "16856",
+      "relevant_docs": [
+        "24413",
+        "33507",
+        "16856"
+      ]
+    },
+    "QTest3839": {
+      "input": "What great Frankish king was crowned Emperor on Christmas Day, 800 AD?",
+      "expected_correct_answer": "20231",
+      "wrong_answer": "788",
+      "relevant_docs": [
+        "5675",
+        "26279",
+        "20231"
+      ]
+    },
+    "QTest3845": {
+      "input": "What drug did Sigmund Freud recommend as a pain reliever, stimulant, and nasal decongestant?",
+      "expected_correct_answer": "72385",
+      "wrong_answer": "66035",
+      "relevant_docs": [
+        "66035",
+        "72385",
+        "46246"
+      ]
+    },
+    "QTest3852": {
+      "input": "What Darren Aronofsky movie has a number as its title?",
+      "expected_correct_answer": "35511",
+      "wrong_answer": "52521",
+      "relevant_docs": [
+        "35511"
+      ]
+    },
+    "QTest3862": {
+      "input": "What band was founded by Lou Reed and John Cale?",
+      "expected_correct_answer": "31754",
+      "wrong_answer": "40086",
+      "relevant_docs": [
+        "40086",
+        "31754",
+        "59688"
+      ]
+    },
+    "QTest3883": {
+      "input": "Which sauce is used in the preparation of the dish 'Eggs Benedict'?",
+      "expected_correct_answer": "12370",
+      "wrong_answer": "70535",
+      "relevant_docs": [
+        "12370",
+        "190"
+      ]
+    },
+    "QTest3888": {
+      "input": "Aqua Fortis is the original name for which common acid?",
+      "expected_correct_answer": "13113",
+      "wrong_answer": "66",
+      "relevant_docs": [
+        "66",
+        "29772",
+        "13113"
+      ]
+    },
+    "QTest3891": {
+      "input": "Walter Tyrell is alleged to have contributed to the death of which English King?",
+      "expected_correct_answer": "62603",
+      "wrong_answer": "36553",
+      "relevant_docs": [
+        "62603",
+        "36553"
+      ]
+    },
+    "QTest3892": {
+      "input": "Which acid forms in the muscles as a result of exercise?",
+      "expected_correct_answer": "51972",
+      "wrong_answer": "29772",
+      "relevant_docs": [
+        "51972"
+      ]
+    },
+    "QTest3896": {
+      "input": "Which television crime series of the 1990s/2000s featured the character Andy Sipowicz played by Dennis Franz?",
+      "expected_correct_answer": "35471",
+      "wrong_answer": "27696",
+      "relevant_docs": [
+        "35471",
+        "36029"
+      ]
+    },
+    "QTest3906": {
+      "input": "In the 1997 film, 'Austin Powers, International Man of Mystery', the name of which character was a parody on that of Oddjob, from the film, 'Goldfinger'?",
+      "expected_correct_answer": "24740",
+      "wrong_answer": "42354",
+      "relevant_docs": [
+        "24740",
+        "26040"
+      ]
+    },
+    "QTest3909": {
+      "input": "Which city in Florida, founded by the Spanish in 1565, is the oldest in the USA?",
+      "expected_correct_answer": "7028",
+      "wrong_answer": "71309",
+      "relevant_docs": [
+        "7028"
+      ]
+    },
+    "QTest3939": {
+      "input": "Which trees belong to the genus, Fagus?",
+      "expected_correct_answer": "41483",
+      "wrong_answer": "73103",
+      "relevant_docs": [
+        "41483"
+      ]
+    },
+    "QTest3967": {
+      "input": "'E PLURIBUS UNUM' was the original motto of the USA, what is the present'?",
+      "expected_correct_answer": "45064",
+      "wrong_answer": "26530",
+      "relevant_docs": [
+        "70334",
+        "45064"
+      ]
+    },
+    "QTest4016": {
+      "input": "In films, Old Mother Riley's daughter was played by Arthur Lucan's real life wife. What was her name?",
+      "expected_correct_answer": "35570",
+      "wrong_answer": "68017",
+      "relevant_docs": [
+        "68017",
+        "35570"
+      ]
+    },
+    "QTest4023": {
+      "input": "The headquarters of Interpol are in which French city?",
+      "expected_correct_answer": "23340",
+      "wrong_answer": "27730",
+      "relevant_docs": [
+        "23340"
+      ]
+    },
+    "QTest4052": {
+      "input": "Nantwich stands on which river?",
+      "expected_correct_answer": "4755",
+      "wrong_answer": null,
+      "relevant_docs": [
+        "4755"
+      ]
+    },
+    "QTest4053": {
+      "input": "In France, what name is given to the smallest administrative district, into which a departement is divided?",
+      "expected_correct_answer": "67466",
+      "wrong_answer": "54971",
+      "relevant_docs": [
+        "34082",
+        "5304",
+        "67466",
+        "54971"
+      ]
+    },
+    "QTest4065": {
+      "input": "For what does the P stand in the name of the creator of Mary Poppins P L Travers?",
+      "expected_correct_answer": "48163",
+      "wrong_answer": "646",
+      "relevant_docs": [
+        "48163",
+        "65418"
+      ]
+    },
+    "QTest4113": {
+      "input": "Who succeeded Peter becoming the 2nct Pope in the RC church?",
+      "expected_correct_answer": "64008",
+      "wrong_answer": "44930",
+      "relevant_docs": [
+        "52052",
+        "64008"
+      ]
+    },
+    "QTest4117": {
+      "input": "In which year was the US President William McKinley shot dead?",
+      "expected_correct_answer": "47894",
+      "wrong_answer": "2182",
+      "relevant_docs": [
+        "70035",
+        "47894"
+      ]
+    },
+    "QTest4167": {
+      "input": "In heraldry, which colour is known as vert?",
+      "expected_correct_answer": "20145",
+      "wrong_answer": "51555",
+      "relevant_docs": [
+        "20145",
+        "53146"
+      ]
+    },
+    "QTest4184": {
+      "input": "Where did Edward II die?",
+      "expected_correct_answer": "63740",
+      "wrong_answer": "59932",
+      "relevant_docs": [
+        "63740"
+      ]
+    },
+    "QTest4263": {
+      "input": "Which bacteria which causes food poisoning was named after the American vet (1850-1914) who was the first to identify it?",
+      "expected_correct_answer": "3449",
+      "wrong_answer": "49030",
+      "relevant_docs": [
+        "3449",
+        "69445"
+      ]
+    },
+    "QTest4277": {
+      "input": "Platypus and Echidna comprises which order of mammals",
+      "expected_correct_answer": "6506",
+      "wrong_answer": "24376",
+      "relevant_docs": [
+        "62736",
+        "24376",
+        "6506"
+      ]
+    },
+    "QTest4286": {
+      "input": "The currency of which European country is the kroon?",
+      "expected_correct_answer": "2407",
+      "wrong_answer": "24581",
+      "relevant_docs": [
+        "2407",
+        "63122"
+      ]
+    },
+    "QTest4313": {
+      "input": "The ballad Chevy Chase is a tale of border warfare in which range of hills?",
+      "expected_correct_answer": "63446",
+      "wrong_answer": "36692",
+      "relevant_docs": [
+        "63446"
+      ]
+    },
+    "QTest4334": {
+      "input": "In Greek mythology, Aphrodite won a beauty contest, who was the judge?",
+      "expected_correct_answer": "19760",
+      "wrong_answer": "49367",
+      "relevant_docs": [
+        "49367",
+        "19760",
+        "34377"
+      ]
+    },
+    "QTest4384": {
+      "input": "In French, what name is given to the hook shaped mark under a letter (often the letter C), which modifies its pronunciation?",
+      "expected_correct_answer": "3534",
+      "wrong_answer": "53554",
+      "relevant_docs": [
+        "3534"
+      ]
+    },
+    "QTest4385": {
+      "input": "Which chemical element is named after a US state?",
+      "expected_correct_answer": "16315",
+      "wrong_answer": "26530",
+      "relevant_docs": [
+        "16315"
+      ]
+    },
+    "QTest4397": {
+      "input": "What was the forename of the 18th century German philosopher, Kant?",
+      "expected_correct_answer": "10437",
+      "wrong_answer": "53027",
+      "relevant_docs": [
+        "25219",
+        "10437"
+      ]
+    },
+    "QTest4400": {
+      "input": "Which ground spice is used to flavour goulash?",
+      "expected_correct_answer": "48227",
+      "wrong_answer": "8264",
+      "relevant_docs": [
+        "8264",
+        "48227"
+      ]
+    },
+    "QTest4406": {
+      "input": "The book 'Thirteen Days' by Robert F. Kennedy is about what event?",
+      "expected_correct_answer": "8237",
+      "wrong_answer": "37062",
+      "relevant_docs": [
+        "8237",
+        "47013"
+      ]
+    },
+    "QTest4464": {
+      "input": "In 1902 who succeeded his uncle, Lord Salisbury, as British Prime Minister?",
+      "expected_correct_answer": "30127",
+      "wrong_answer": "59708",
+      "relevant_docs": [
+        "30127",
+        "59708"
+      ]
+    },
+    "QTest4470": {
+      "input": "Who was dismissed as the Chair of the Advisory Council on the Misuse of Drugs in October 2009?",
+      "expected_correct_answer": "70928",
+      "wrong_answer": "56251",
+      "relevant_docs": [
+        "70928"
+      ]
+    },
+    "QTest4476": {
+      "input": "What is the name of the family who own Mansfield Park in Jane Austen's novel?",
+      "expected_correct_answer": "45136",
+      "wrong_answer": "70083",
+      "relevant_docs": [
+        "45136"
+      ]
+    },
+    "QTest4503": {
+      "input": "To which family of plants do Lobivia and Rebutia belong?",
+      "expected_correct_answer": "53198",
+      "wrong_answer": "61402",
+      "relevant_docs": [
+        "36141",
+        "53198"
+      ]
+    },
+    "QTest4518": {
+      "input": "What name is given to a horse's ankle?",
+      "expected_correct_answer": "52862",
+      "wrong_answer": "39782",
+      "relevant_docs": [
+        "52862"
+      ]
+    },
+    "QTest4519": {
+      "input": "The naval battle of Coronel in World War I took place in which ocean?",
+      "expected_correct_answer": "68317",
+      "wrong_answer": "46780",
+      "relevant_docs": [
+        "15065",
+        "1629",
+        "68317"
+      ]
+    },
+    "QTest4537": {
+      "input": "Which river flows from Lake Ladoga to the Gulf of Finland? Despite being only 46 miles long it is the third largest in Europe in terms of volume discharged.",
+      "expected_correct_answer": "65624",
+      "wrong_answer": "60969",
+      "relevant_docs": [
+        "65624",
+        "67294"
+      ]
+    },
+    "QTest4560": {
+      "input": "What car manufacturing company makes the model the 'Laguna'?",
+      "expected_correct_answer": "12731",
+      "wrong_answer": "14983",
+      "relevant_docs": [
+        "1291",
+        "12731"
+      ]
+    },
+    "QTest4589": {
+      "input": "Which car manufacturer produces the Note model?",
+      "expected_correct_answer": "12731",
+      "wrong_answer": "36344",
+      "relevant_docs": [
+        "12731",
+        "30476"
+      ]
+    },
+    "QTest4591": {
+      "input": "The pineal gland is situated in which part of the body?",
+      "expected_correct_answer": "25323",
+      "wrong_answer": "7035",
+      "relevant_docs": [
+        "25323",
+        "34061"
+      ]
+    },
+    "QTest4594": {
+      "input": "In terms of area which is the smallest US state after Rhode Island?",
+      "expected_correct_answer": "15116",
+      "wrong_answer": "26530",
+      "relevant_docs": [
+        "15116"
+      ]
+    },
+    "QTest4625": {
+      "input": "According to Virgil, which Queen of Carthage killed herself when abandoned by Aeneas?",
+      "expected_correct_answer": "24850",
+      "wrong_answer": "68057",
+      "relevant_docs": [
+        "24850",
+        "32030",
+        "28049",
+        "10620",
+        "18098",
+        "66755"
+      ]
+    },
+    "QTest4634": {
+      "input": "In which city were most of the French kings traditionally crowned?",
+      "expected_correct_answer": "9373",
+      "wrong_answer": "12458",
+      "relevant_docs": [
+        "9373",
+        "12458"
+      ]
+    },
+    "QTest4638": {
+      "input": "What is the name of the Iron Age stone towers found in Northern Scotland, Orkney, and Shetland?",
+      "expected_correct_answer": "60078",
+      "wrong_answer": "48978",
+      "relevant_docs": [
+        "60078",
+        "12591"
+      ]
+    },
+    "QTest4639": {
+      "input": "The Gordon Riots appear in which of Charles Dickens' novels?",
+      "expected_correct_answer": "26044",
+      "wrong_answer": "57375",
+      "relevant_docs": [
+        "26044",
+        "57375",
+        "8282"
+      ]
+    },
+    "QTest4670": {
+      "input": "The making of textiles by knotting string or thread is known as what?",
+      "expected_correct_answer": "3592",
+      "wrong_answer": "35050",
+      "relevant_docs": [
+        "3592",
+        "65617"
+      ]
+    },
+    "QTest4671": {
+      "input": "'Le Coeur de la mer' (The Heart of the Ocean), a blue diamond necklace, featured prominently in which film?",
+      "expected_correct_answer": "32895",
+      "wrong_answer": "64532",
+      "relevant_docs": [
+        "32895"
+      ]
+    },
+    "QTest4689": {
+      "input": "In which decade did both the following captain England at cricket - Len Hutton and Freddie Brown?",
+      "expected_correct_answer": "63226",
+      "wrong_answer": "72196",
+      "relevant_docs": [
+        "44170",
+        "63226",
+        "72196"
+      ]
+    },
+    "QTest4695": {
+      "input": "The adrenal gland is above which organ?",
+      "expected_correct_answer": "43774",
+      "wrong_answer": "9615",
+      "relevant_docs": [
+        "43774",
+        "9615"
+      ]
+    },
+    "QTest4697": {
+      "input": "Which car company make a model called Panamera?",
+      "expected_correct_answer": "36042",
+      "wrong_answer": "14983",
+      "relevant_docs": [
+        "36042"
+      ]
+    },
+    "QTest4721": {
+      "input": "OPEC has two members from South America - one is Venezeula, which is the other?",
+      "expected_correct_answer": "20224",
+      "wrong_answer": "2407",
+      "relevant_docs": [
+        "20224",
+        "24623",
+        "6380"
+      ]
+    },
+    "QTest4726": {
+      "input": "What stretch of water separates the Black Sea and the Sea of Marmara?",
+      "expected_correct_answer": "66174",
+      "wrong_answer": "240",
+      "relevant_docs": [
+        "66174",
+        "240"
+      ]
+    },
+    "QTest4741": {
+      "input": "Which radio series featured Kenneth Williams playing the characters J Peasemold Gruntfuttock and Rambling Syd Rumpo?",
+      "expected_correct_answer": "66348",
+      "wrong_answer": "73056",
+      "relevant_docs": [
+        "66348",
+        "4406",
+        "23784"
+      ]
+    },
+    "QTest4749": {
+      "input": "There are five basic tastes, salty, sweet, sour, bitter and which other?",
+      "expected_correct_answer": "29478",
+      "wrong_answer": "67238",
+      "relevant_docs": [
+        "29478"
+      ]
+    },
+    "QTest4764": {
+      "input": "What is the Italian name for the city of Florence?",
+      "expected_correct_answer": "4280",
+      "wrong_answer": "66205",
+      "relevant_docs": [
+        "66205",
+        "4280"
+      ]
+    },
+    "QTest4765": {
+      "input": "As well as Mycenae, which ancient city is associated with the excavations of Heinrich Schliemann?",
+      "expected_correct_answer": "49371",
+      "wrong_answer": "29642",
+      "relevant_docs": [
+        "49371",
+        "34671"
+      ]
+    },
+    "QTest4786": {
+      "input": "Poland and which other country are the joint hosts of the 2012 European Football Championship?",
+      "expected_correct_answer": "63046",
+      "wrong_answer": "45047",
+      "relevant_docs": [
+        "9984",
+        "63046"
+      ]
+    },
+    "QTest4789": {
+      "input": "The Dordogne is in which French region?",
+      "expected_correct_answer": "10621",
+      "wrong_answer": "34082",
+      "relevant_docs": [
+        "10621"
+      ]
+    },
+    "QTest4794": {
+      "input": "Which company developed a large-scale traveller's cheque system 1891?",
+      "expected_correct_answer": "57294",
+      "wrong_answer": "37509",
+      "relevant_docs": [
+        "34810",
+        "57294"
+      ]
+    },
+    "QTest4803": {
+      "input": "The Firebird, Petrushka and The Rite of Spring are works of which composer?",
+      "expected_correct_answer": "56212",
+      "wrong_answer": "42484",
+      "relevant_docs": [
+        "56212",
+        "63887",
+        "42484",
+        "48165",
+        "37470"
+      ]
+    },
+    "QTest4811": {
+      "input": "Wich city stands on the River Foyle?",
+      "expected_correct_answer": "25167",
+      "wrong_answer": "15848",
+      "relevant_docs": [
+        "25167"
+      ]
+    },
+    "QTest4859": {
+      "input": "Who played Officer Crabtree in the TV series 'Allo, Allo'?",
+      "expected_correct_answer": "47500",
+      "wrong_answer": "22862",
+      "relevant_docs": [
+        "22862",
+        "47500"
+      ]
+    },
+    "QTest4867": {
+      "input": "At which battle was James Duke of Monmouth defeated in 1685 as he tried to seize the English throne?",
+      "expected_correct_answer": "64020",
+      "wrong_answer": "38363",
+      "relevant_docs": [
+        "64020",
+        "4502"
+      ]
+    },
+    "QTest4913": {
+      "input": "L'Air du Temps', `Farouche' and 'Caprice? are all fragrances from which perfume house?",
+      "expected_correct_answer": "63429",
+      "wrong_answer": "60215",
+      "relevant_docs": [
+        "63429",
+        "4443"
+      ]
+    },
+    "QTest4953": {
+      "input": "The Order of the Elephant is an honour awarded in which North European country?",
+      "expected_correct_answer": "19262",
+      "wrong_answer": "44182",
+      "relevant_docs": [
+        "19262",
+        "47596",
+        "26426"
+      ]
+    },
+    "QTest4973": {
+      "input": "Launched in August 2011 what is the destination of the Juno spacecraft?",
+      "expected_correct_answer": "3457",
+      "wrong_answer": "36366",
+      "relevant_docs": [
+        "3457"
+      ]
+    },
+    "QTest5009": {
+      "input": "Sarah was the mother of which of Abraham's sons?",
+      "expected_correct_answer": "1144",
+      "wrong_answer": "36784",
+      "relevant_docs": [
+        "36784",
+        "1144"
+      ]
+    },
+    "QTest5018": {
+      "input": "Which of England's 1966 World Cup winning footballers played for Leicester City at the time?",
+      "expected_correct_answer": "53343",
+      "wrong_answer": "29094",
+      "relevant_docs": [
+        "53343"
+      ]
+    },
+    "QTest5031": {
+      "input": "The Evil Mouse features in which Tchaikovsky ballet?",
+      "expected_correct_answer": "17336",
+      "wrong_answer": "65072",
+      "relevant_docs": [
+        "17336"
+      ]
+    },
+    "QTest5076": {
+      "input": "With which other Steve did Steve Jobs found the Apple computer company in the 1970's?",
+      "expected_correct_answer": "37164",
+      "wrong_answer": "68983",
+      "relevant_docs": [
+        "37164",
+        "68983"
+      ]
+    },
+    "QTest5097": {
+      "input": "In which US state were Bonnie and Clyde shot dead in 1934?",
+      "expected_correct_answer": "45111",
+      "wrong_answer": "26530",
+      "relevant_docs": [
+        "26530",
+        "45111"
+      ]
+    },
+    "QTest5140": {
+      "input": "Officially named in 2013, Kerberos and Styx orbit which body in the solar system?",
+      "expected_correct_answer": "69835",
+      "wrong_answer": null,
+      "relevant_docs": [
+        "17846",
+        "63469",
+        "69835",
+        "51517"
+      ]
+    },
+    "QTest5169": {
+      "input": "There are four Tate Galleries, two in London and one in Liverpool, in which town is the other?",
+      "expected_correct_answer": "28937",
+      "wrong_answer": "14463",
+      "relevant_docs": [
+        "28937"
+      ]
+    },
+    "QTest5188": {
+      "input": "What does the word Karate mean in English?",
+      "expected_correct_answer": "62906",
+      "wrong_answer": "17787",
+      "relevant_docs": [
+        "62906"
+      ]
+    },
+    "QTest5190": {
+      "input": "Which town is the home of violin making and birth place of Stradivari?",
+      "expected_correct_answer": "10045",
+      "wrong_answer": "46866",
+      "relevant_docs": [
+        "38910",
+        "10045"
+      ]
+    },
+    "QTest5217": {
+      "input": "Which American state is known as the 'Nutmeg' state?",
+      "expected_correct_answer": "34295",
+      "wrong_answer": "26530",
+      "relevant_docs": [
+        "34295",
+        "53666"
+      ]
+    },
+    "QTest5231": {
+      "input": "Which mediaeval nautical device was used by navigators to determine the altitude of the sun?",
+      "expected_correct_answer": "44454",
+      "wrong_answer": "25243",
+      "relevant_docs": [
+        "44454",
+        "69384"
+      ]
+    },
+    "QTest5247": {
+      "input": "Who is the current Secretary of State for Justice?",
+      "expected_correct_answer": "16690",
+      "wrong_answer": "47615",
+      "relevant_docs": [
+        "16690"
+      ]
+    },
+    "QTest5290": {
+      "input": "Whose family home was at Mount Vernon, Virginia, until his death in 1799?",
+      "expected_correct_answer": "21086",
+      "wrong_answer": "18868",
+      "relevant_docs": [
+        "21086",
+        "18158"
+      ]
+    },
+    "QTest5328": {
+      "input": "With which French team did Jonny Wilkinson win the Heineken Cup in 2013?",
+      "expected_correct_answer": "48282",
+      "wrong_answer": "12823",
+      "relevant_docs": [
+        "70403",
+        "48282"
+      ]
+    },
+    "QTest5383": {
+      "input": "Who became in 1967 the first person to receive a human heart transplant?",
+      "expected_correct_answer": "12168",
+      "wrong_answer": null,
+      "relevant_docs": [
+        "65939",
+        "12168"
+      ]
+    },
+    "QTest5446": {
+      "input": "Who composed the music for the 1924 operetta 'Rose Marie'?",
+      "expected_correct_answer": "34960",
+      "wrong_answer": "14342",
+      "relevant_docs": [
+        "34960",
+        "62930"
+      ]
+    },
+    "QTest5453": {
+      "input": "Bertrand Russell and Sir Joseph Rotblat founded which Nobel Prize winning pacifist organisation?",
+      "expected_correct_answer": "51475",
+      "wrong_answer": "50176",
+      "relevant_docs": [
+        "51475"
+      ]
+    },
+    "QTest5465": {
+      "input": "In which constellation is the star Polaris?",
+      "expected_correct_answer": "68980",
+      "wrong_answer": "53877",
+      "relevant_docs": [
+        "68980",
+        "53877"
+      ]
+    },
+    "QTest5466": {
+      "input": "From which City do the pop group Franz Ferdinand hail?",
+      "expected_correct_answer": "31172",
+      "wrong_answer": "29673",
+      "relevant_docs": [
+        "31172"
+      ]
+    },
+    "QTest5472": {
+      "input": "Shipping forecast areas North Utsire and South Utsire were formerly part of which still existing North Sea forecast area?",
+      "expected_correct_answer": "16419",
+      "wrong_answer": "4250",
+      "relevant_docs": [
+        "16419"
+      ]
+    },
+    "QTest5478": {
+      "input": "Which US car company made the Rolls Royce Merlin engine under licence in America?",
+      "expected_correct_answer": "58488",
+      "wrong_answer": "4832",
+      "relevant_docs": [
+        "58488"
+      ]
+    },
+    "QTest5503": {
+      "input": "For which county does Jonathan Trott play cricket?",
+      "expected_correct_answer": "37981",
+      "wrong_answer": "54854",
+      "relevant_docs": [
+        "37981"
+      ]
+    },
+    "QTest5509": {
+      "input": "Which religion has a holiday festival called Wesak or Vesak?",
+      "expected_correct_answer": "61232",
+      "wrong_answer": "13390",
+      "relevant_docs": [
+        "13390",
+        "61232"
+      ]
+    },
+    "QTest5514": {
+      "input": "Ginger Baker and Mick Fleetwood played which musical instrument?",
+      "expected_correct_answer": "42521",
+      "wrong_answer": "17880",
+      "relevant_docs": [
+        "42521",
+        "19520",
+        "17880",
+        "16768"
+      ]
+    },
+    "QTest5534": {
+      "input": "Which actress was married to both Mickey Rooney and Frank Sinatra?",
+      "expected_correct_answer": "7853",
+      "wrong_answer": "53574",
+      "relevant_docs": [
+        "7853",
+        "53574"
+      ]
+    },
+    "QTest5556": {
+      "input": "Which district is linked with Hammersmith to form a unitary body or borough within Greater London?",
+      "expected_correct_answer": "72497",
+      "wrong_answer": "60725",
+      "relevant_docs": [
+        "72497",
+        "69280",
+        "14463"
+      ]
+    },
+    "QTest5577": {
+      "input": "In which city is the HQ of the car company BMW?",
+      "expected_correct_answer": "31427",
+      "wrong_answer": "39953",
+      "relevant_docs": [
+        "31427"
+      ]
+    },
+    "QTest5594": {
+      "input": "What chemical element is named after the Latin name for Paris?",
+      "expected_correct_answer": "16315",
+      "wrong_answer": "27730",
+      "relevant_docs": [
+        "16315"
+      ]
+    },
+    "QTest5700": {
+      "input": "Which Englisn singer-songwriter is the only artist to win the Mercury Prize twice, in 2001 and 2011?",
+      "expected_correct_answer": "71891",
+      "wrong_answer": "27691",
+      "relevant_docs": [
+        "71891",
+        "27691"
+      ]
+    },
+    "QTest5763": {
+      "input": "Colt Seavers was the central character in which 1980\u2019s TV series?",
+      "expected_correct_answer": "60200",
+      "wrong_answer": "38947",
+      "relevant_docs": [
+        "60200",
+        "38947"
+      ]
+    },
+    "QTest5828": {
+      "input": "In a native American legend, corn, beans and what other crop make up the triage called the three sisters owing to the practice of growing them together?",
+      "expected_correct_answer": "53410",
+      "wrong_answer": "68156",
+      "relevant_docs": [
+        "22823",
+        "53410",
+        "68156"
+      ]
+    },
+    "QTest5831": {
+      "input": "Tsampa, which is made from roasted barley with butter mixed in is a staple in what part of the world?",
+      "expected_correct_answer": "38437",
+      "wrong_answer": "31791",
+      "relevant_docs": [
+        "31791",
+        "43857",
+        "38437"
+      ]
+    },
+    "QTest5911": {
+      "input": "In biology, what reproductive structures adapted for dispersal differ from seeds in the sense that they have very little stored food?",
+      "expected_correct_answer": "44565",
+      "wrong_answer": "49298",
+      "relevant_docs": [
+        "44565"
+      ]
+    },
+    "QTest5914": {
+      "input": "What ecological hypothesis of James Lovelock that is named for a Greek goddess says that since parts of the Earth are in a complex interacting system, the Earth itself can be thought of as a single organism?",
+      "expected_correct_answer": "39842",
+      "wrong_answer": "49367",
+      "relevant_docs": [
+        "39842"
+      ]
+    },
+    "QTest5931": {
+      "input": "Which major brewery produces McEwans and Theakston's beers?",
+      "expected_correct_answer": "32877",
+      "wrong_answer": "28785",
+      "relevant_docs": [
+        "32877",
+        "51965"
+      ]
+    },
+    "QTest6037": {
+      "input": "The railway station in which Lancashire town has the 3-letter code CRL?",
+      "expected_correct_answer": "1548",
+      "wrong_answer": "15653",
+      "relevant_docs": [
+        "1548",
+        "25267"
+      ]
+    },
+    "QTest6060": {
+      "input": "Which cosmetics company uses the advertising slogan 'The make-up of make-up artists'?",
+      "expected_correct_answer": "13785",
+      "wrong_answer": "40709",
+      "relevant_docs": [
+        "40709",
+        "13785"
+      ]
+    },
+    "QTest6072": {
+      "input": "The last King of the Franks and first King of France, which French king took part in the famous Third Crusade with Richard I of England and Frederick Barbarossa?",
+      "expected_correct_answer": "34082",
+      "wrong_answer": "12458",
+      "relevant_docs": [
+        "34082",
+        "60029",
+        "60550",
+        "27854",
+        "39403"
+      ]
+    },
+    "QTest6102": {
+      "input": "Which part of the human body would be affected by a 'Cutaneous'disease?",
+      "expected_correct_answer": "34061",
+      "wrong_answer": "39812",
+      "relevant_docs": [
+        "34061",
+        "30825"
+      ]
+    },
+    "QTest6110": {
+      "input": "Which social networking website was created by Jack Dorsey in 2006?",
+      "expected_correct_answer": "23922",
+      "wrong_answer": "45844",
+      "relevant_docs": [
+        "69988",
+        "45844",
+        "23922"
+      ]
+    },
+    "QTest6166": {
+      "input": "Which famous rock group disbanded two months after the death of its drummer John Bonham?",
+      "expected_correct_answer": "8817",
+      "wrong_answer": "73809",
+      "relevant_docs": [
+        "73809",
+        "14850",
+        "8817",
+        "52613"
+      ]
+    },
+    "QTest6192": {
+      "input": "In which country is Kourou, the launch site of the European Space Agency?",
+      "expected_correct_answer": "48568",
+      "wrong_answer": "64440",
+      "relevant_docs": [
+        "49647",
+        "48568",
+        "64440"
+      ]
+    },
+    "QTest6269": {
+      "input": "Marie Curie won the 1911 Nobel Prize for chemistry for discovering Radium and which other radioactive metallic element?",
+      "expected_correct_answer": "5011",
+      "wrong_answer": "50176",
+      "relevant_docs": [
+        "5011",
+        "52258",
+        "56465"
+      ]
+    },
+    "QTest6292": {
+      "input": "What name is given to the second cranial nerve that transmits visual information from the retina to the brain?",
+      "expected_correct_answer": "7697",
+      "wrong_answer": "69122",
+      "relevant_docs": [
+        "7697",
+        "71939",
+        "25983",
+        "42240"
+      ]
+    },
+    "QTest6313": {
+      "input": "Which 'Oscar' winning film of the fifties featured boxers Tami Mauriello, 'Two-Ton' Tony Galento and Abe Simon, all who had fought and lost to Joe Louis?",
+      "expected_correct_answer": "38088",
+      "wrong_answer": "56285",
+      "relevant_docs": [
+        "38088",
+        "1959",
+        "33471"
+      ]
+    },
+    "QTest6319": {
+      "input": "Which major car manufacturer has its headquarters in Martorell in Spain?",
+      "expected_correct_answer": "6952",
+      "wrong_answer": "19061",
+      "relevant_docs": [
+        "19061",
+        "6952",
+        "57075"
+      ]
+    },
+    "QTest6324": {
+      "input": "What is the medical name for the collar bone?",
+      "expected_correct_answer": "55916",
+      "wrong_answer": "69320",
+      "relevant_docs": [
+        "55916"
+      ]
+    },
+    "QTest6337": {
+      "input": "What is the capital city of the Republic of Guinea, West Africa?",
+      "expected_correct_answer": "8568",
+      "wrong_answer": "64254",
+      "relevant_docs": [
+        "64254",
+        "8568"
+      ]
+    },
+    "QTest6413": {
+      "input": "In Norse mythology, what type of birds were 'Hugin' and 'Munin', who sat on Odin's shoulder?",
+      "expected_correct_answer": "35465",
+      "wrong_answer": "24894",
+      "relevant_docs": [
+        "61585",
+        "35465"
+      ]
+    },
+    "QTest6475": {
+      "input": "In the body where is bile stored before it is released into the small intestine?",
+      "expected_correct_answer": "28932",
+      "wrong_answer": "9615",
+      "relevant_docs": [
+        "28932",
+        "20938"
+      ]
+    },
+    "QTest6492": {
+      "input": "What is the unit of currency in Myanmar?",
+      "expected_correct_answer": "28831",
+      "wrong_answer": "34687",
+      "relevant_docs": [
+        "34687",
+        "28831"
+      ]
+    },
+    "QTest6497": {
+      "input": "What was 'Edina's' surname in 'Absolutely Fabulous'?",
+      "expected_correct_answer": "63724",
+      "wrong_answer": "1927",
+      "relevant_docs": [
+        "63724"
+      ]
+    },
+    "QTest6523": {
+      "input": "Which Earl led the English forces that defeated the Scots at the Battle of Flodden Field in 1513?",
+      "expected_correct_answer": "21957",
+      "wrong_answer": "64541",
+      "relevant_docs": [
+        "21957"
+      ]
+    },
+    "QTest6525": {
+      "input": "Which Scottish Football League club has the nickname \u201cThe Bully Wee\u201d?",
+      "expected_correct_answer": "67755",
+      "wrong_answer": "67731",
+      "relevant_docs": [
+        "67755",
+        "9658"
+      ]
+    },
+    "QTest6548": {
+      "input": "Who am I? Born 1936 in Ghana, international civil servant who later became Secretary General of the UN?",
+      "expected_correct_answer": "9937",
+      "wrong_answer": "46119",
+      "relevant_docs": [
+        "9937"
+      ]
+    },
+    "QTest6551": {
+      "input": "In July 2011, the United Nations formally declared a famine in which East African nation, the first time it had declared a famine anywhere for over thirty years?",
+      "expected_correct_answer": "56330",
+      "wrong_answer": "41358",
+      "relevant_docs": [
+        "69756",
+        "56330"
+      ]
+    },
+    "QTest6558": {
+      "input": "Allium porrum is the botanical name for which vegetable?",
+      "expected_correct_answer": "73873",
+      "wrong_answer": null,
+      "relevant_docs": [
+        "73873",
+        "10824"
+      ]
+    },
+    "QTest6571": {
+      "input": "What is King John said to have lost in The Wash?",
+      "expected_correct_answer": "2515",
+      "wrong_answer": null,
+      "relevant_docs": [
+        "2515",
+        "44465"
+      ]
+    },
+    "QTest6609": {
+      "input": "What is the more popular name for the insect Vanessa Atalanta?",
+      "expected_correct_answer": "21482",
+      "wrong_answer": "56404",
+      "relevant_docs": [
+        "21482"
+      ]
+    },
+    "QTest6613": {
+      "input": "Which river is connected to the Rhine via the 'Burgoyne Canal'?",
+      "expected_correct_answer": "60162",
+      "wrong_answer": "32001",
+      "relevant_docs": [
+        "60162"
+      ]
+    },
+    "QTest6616": {
+      "input": "Who had a No. 1 hit with 'Tainted Love' in 1981?",
+      "expected_correct_answer": "57268",
+      "wrong_answer": "14850",
+      "relevant_docs": [
+        "57268"
+      ]
+    },
+    "QTest6652": {
+      "input": "What is the chemical formula for Caustic Soda?",
+      "expected_correct_answer": "55216",
+      "wrong_answer": "36095",
+      "relevant_docs": [
+        "55216"
+      ]
+    },
+    "QTest6664": {
+      "input": "In the 2014 football world cup semi-final who scored Brazil's only goal?",
+      "expected_correct_answer": "30263",
+      "wrong_answer": "42042",
+      "relevant_docs": [
+        "34394",
+        "30263"
+      ]
+    },
+    "QTest6671": {
+      "input": "Who was the lyricist partner of Richard Rodgers prior to Oscar Hammerstein?",
+      "expected_correct_answer": "52183",
+      "wrong_answer": "10160",
+      "relevant_docs": [
+        "52183",
+        "44348"
+      ]
+    },
+    "QTest6734": {
+      "input": "Who painted the mural The Last Supper in Santa Maria delle Grazie in Milan?",
+      "expected_correct_answer": "27161",
+      "wrong_answer": "25400",
+      "relevant_docs": [
+        "4549",
+        "25400",
+        "73739",
+        "27161"
+      ]
+    },
+    "QTest6740": {
+      "input": "Specifically which group of people must have taken the UKCAT or BMAT aptitude tests?",
+      "expected_correct_answer": "15018",
+      "wrong_answer": "54869",
+      "relevant_docs": [
+        "15018",
+        "57440"
+      ]
+    },
+    "QTest6757": {
+      "input": "What was the name of all Kings of France from 1610 to 1792?",
+      "expected_correct_answer": "34082",
+      "wrong_answer": "12458",
+      "relevant_docs": [
+        "34082",
+        "12458",
+        "45280"
+      ]
+    },
+    "QTest6777": {
+      "input": "What was the name of the US space shuttle that disintegrated during re-entry in 2003, killing all 7 crew members?",
+      "expected_correct_answer": "17985",
+      "wrong_answer": "48215",
+      "relevant_docs": [
+        "17985",
+        "1431",
+        "5804"
+      ]
+    },
+    "QTest6790": {
+      "input": "In the world of boxing, how was John Sholto Douglas better known?",
+      "expected_correct_answer": "53155",
+      "wrong_answer": "49641",
+      "relevant_docs": [
+        "53155",
+        "36539"
+      ]
+    },
+    "QTest6794": {
+      "input": "What is the name of Susan Boyle's first album?",
+      "expected_correct_answer": "50166",
+      "wrong_answer": "64737",
+      "relevant_docs": [
+        "50166"
+      ]
+    },
+    "QTest6798": {
+      "input": "Aboard which ship did Joshua Slocum single handedly circumnavigate the earth?",
+      "expected_correct_answer": "12132",
+      "wrong_answer": "7505",
+      "relevant_docs": [
+        "12132"
+      ]
+    },
+    "QTest6802": {
+      "input": "How is the golden-yellow ribbed fruit Carambola more commonly known?",
+      "expected_correct_answer": "64100",
+      "wrong_answer": "62123",
+      "relevant_docs": [
+        "64100"
+      ]
+    },
+    "QTest6807": {
+      "input": "From which grape variety are almost all Beaujolais wines made?",
+      "expected_correct_answer": "24269",
+      "wrong_answer": "1601",
+      "relevant_docs": [
+        "24269",
+        "14607"
+      ]
+    },
+    "QTest6830": {
+      "input": "Castro ousts Batista in Cuba, Cyprus granted independence, Jack Brabham wins his first World Motor Racing Championship. Which year?",
+      "expected_correct_answer": "24056",
+      "wrong_answer": "18158",
+      "relevant_docs": [
+        "8843",
+        "24056",
+        "41336"
+      ]
+    },
+    "QTest6847": {
+      "input": "Who is the only goalkeeper to be elected European Footballer of the Year?",
+      "expected_correct_answer": "24836",
+      "wrong_answer": "8625",
+      "relevant_docs": [
+        "24836"
+      ]
+    },
+    "QTest6880": {
+      "input": "In which Wagner opera is Elsa Falsely accused and will lose her life if she cannot find a champion, when she does it is on condition that she never asks his name?",
+      "expected_correct_answer": "44753",
+      "wrong_answer": "14342",
+      "relevant_docs": [
+        "44753"
+      ]
+    },
+    "QTest6890": {
+      "input": "Which singer and entertainer, later a presenter on Songs of Praise, was born in Swansea on this date in 1921?",
+      "expected_correct_answer": "49923",
+      "wrong_answer": "42222",
+      "relevant_docs": [
+        "49923"
+      ]
+    },
+    "QTest6901": {
+      "input": "Which British Statesman was born Henry John Temple in 1784?",
+      "expected_correct_answer": "8768",
+      "wrong_answer": "38023",
+      "relevant_docs": [
+        "38023",
+        "8768"
+      ]
+    },
+    "QTest6914": {
+      "input": "Where were the 1986 Commonwealth Games held",
+      "expected_correct_answer": "65174",
+      "wrong_answer": "21930",
+      "relevant_docs": [
+        "7403",
+        "65174"
+      ]
+    },
+    "QTest6942": {
+      "input": "Who was Edmond Dantes (you have all heard of him)",
+      "expected_correct_answer": "5521",
+      "wrong_answer": "69634",
+      "relevant_docs": [
+        "5521"
+      ]
+    },
+    "QTest6981": {
+      "input": "Which country has Guyana to the east and Colombia to the west",
+      "expected_correct_answer": "59215",
+      "wrong_answer": "38029",
+      "relevant_docs": [
+        "6380",
+        "59215",
+        "38029"
+      ]
+    },
+    "QTest7001": {
+      "input": "How many bones are there in an adult human's body",
+      "expected_correct_answer": "69320",
+      "wrong_answer": "26282",
+      "relevant_docs": [
+        "69320"
+      ]
+    },
+    "QTest7051": {
+      "input": "What was the name of the inn that Jim Hawkins lived in in the novel and film Treasure Island",
+      "expected_correct_answer": "4680",
+      "wrong_answer": "34090",
+      "relevant_docs": [
+        "4680"
+      ]
+    },
+    "QTest7137": {
+      "input": "By what name is the tree salix babylonia more commonly known",
+      "expected_correct_answer": "69072",
+      "wrong_answer": "73103",
+      "relevant_docs": [
+        "49470",
+        "69072"
+      ]
+    },
+    "QTest7160": {
+      "input": "Which actor director was the first Director of the National Theatre",
+      "expected_correct_answer": "59638",
+      "wrong_answer": "24505",
+      "relevant_docs": [
+        "48314",
+        "59638"
+      ]
+    },
+    "QTest7208": {
+      "input": "Olga Korbut became famous in which sport?",
+      "expected_correct_answer": "43803",
+      "wrong_answer": "24346",
+      "relevant_docs": [
+        "43803",
+        "69244"
+      ]
+    },
+    "QTest7210": {
+      "input": "Who had a chart hit in 1981 with Vienna?",
+      "expected_correct_answer": "12464",
+      "wrong_answer": "14902",
+      "relevant_docs": [
+        "12464"
+      ]
+    },
+    "QTest7217": {
+      "input": "Georgius Panayiotou became famous under what names (both)?",
+      "expected_correct_answer": "199",
+      "wrong_answer": "67549",
+      "relevant_docs": [
+        "199"
+      ]
+    },
+    "QTest7281": {
+      "input": "What was the name of the Zaire River before it's name was changed in 1971?",
+      "expected_correct_answer": "5654",
+      "wrong_answer": "70857",
+      "relevant_docs": [
+        "5654",
+        "59219"
+      ]
+    },
+    "QTest7287": {
+      "input": "What luxury wool is produced by angora goats?",
+      "expected_correct_answer": "71094",
+      "wrong_answer": "69366",
+      "relevant_docs": [
+        "71094",
+        "68957",
+        "22136"
+      ]
+    },
+    "QTest7304": {
+      "input": "Litmus paper changes to what colour when dipped in acid?",
+      "expected_correct_answer": "46925",
+      "wrong_answer": "29772",
+      "relevant_docs": [
+        "46925"
+      ]
+    },
+    "QTest7328": {
+      "input": "Ernest Vincent Wright wrote a novel, which contains over 50,000 words -- none of them with the letter E. Can you name the novel?",
+      "expected_correct_answer": "5046",
+      "wrong_answer": "26423",
+      "relevant_docs": [
+        "5046",
+        "65593"
+      ]
+    },
+    "QTest7351": {
+      "input": "Can you name the author of the novel My Brother Jonathan, written in 1928?",
+      "expected_correct_answer": "34007",
+      "wrong_answer": "49060",
+      "relevant_docs": [
+        "34007"
+      ]
+    },
+    "QTest7361": {
+      "input": "What is model 'Twiggy's' real name?",
+      "expected_correct_answer": "71400",
+      "wrong_answer": "55214",
+      "relevant_docs": [
+        "71400"
+      ]
+    },
+    "QTest7365": {
+      "input": "Which comic features 'Korky the Cat'?",
+      "expected_correct_answer": "22278",
+      "wrong_answer": "36612",
+      "relevant_docs": [
+        "22278"
+      ]
+    },
+    "QTest7390": {
+      "input": "What is perm short for in hairdressing?",
+      "expected_correct_answer": "29935",
+      "wrong_answer": null,
+      "relevant_docs": [
+        "36481",
+        "29935"
+      ]
+    },
+    "QTest7397": {
+      "input": "Would you find the Adelphi or the Garrick theatre on Charing Cross Road?",
+      "expected_correct_answer": "58265",
+      "wrong_answer": "67390",
+      "relevant_docs": [
+        "58265",
+        "56112",
+        "55815"
+      ]
+    },
+    "QTest7404": {
+      "input": "The Somers Islands has what more familiar name?",
+      "expected_correct_answer": "60795",
+      "wrong_answer": "57938",
+      "relevant_docs": [
+        "60795"
+      ]
+    },
+    "QTest7412": {
+      "input": "Linda Lovelace starred in what seminal 1972 film, whose title inspired Washington Post editor Howard Simons to coin the nickname for the Watergate informant?",
+      "expected_correct_answer": "8349",
+      "wrong_answer": "4513",
+      "relevant_docs": [
+        "8349",
+        "6074",
+        "55293"
+      ]
+    },
+    "QTest7417": {
+      "input": "January 15, 1967 saw the first ever Super Bowl as the Green Bay Packers defeated with AFC team, 35-10?",
+      "expected_correct_answer": "16300",
+      "wrong_answer": "32853",
+      "relevant_docs": [
+        "23798",
+        "32853",
+        "16300"
+      ]
+    },
+    "QTest7451": {
+      "input": "What was the first name of KFC founder Colonel Sanders?",
+      "expected_correct_answer": "47376",
+      "wrong_answer": "54520",
+      "relevant_docs": [
+        "47376"
+      ]
+    },
+    "QTest7452": {
+      "input": "What is pictured on the Luxury Tax space on a standard U.S. Monopoly board?",
+      "expected_correct_answer": "34330",
+      "wrong_answer": "2182",
+      "relevant_docs": [
+        "34330"
+      ]
+    },
+    "QTest7456": {
+      "input": "Located in the Karakoram mountain range, what is the second highest mountain in the world?",
+      "expected_correct_answer": "7832",
+      "wrong_answer": "22864",
+      "relevant_docs": [
+        "7832",
+        "48443"
+      ]
+    },
+    "QTest7459": {
+      "input": "A papillon is a type of butterfly, but also a breed of what?",
+      "expected_correct_answer": "67542",
+      "wrong_answer": "49298",
+      "relevant_docs": [
+        "67542"
+      ]
+    },
+    "QTest7470": {
+      "input": "The femur and tibia come together to form what joint?",
+      "expected_correct_answer": "64406",
+      "wrong_answer": "64379",
+      "relevant_docs": [
+        "35743",
+        "64406",
+        "31737"
+      ]
+    },
+    "QTest7479": {
+      "input": "A small mammal and member of the mongoose family, a new exhibit featuring what diurnal herpestid just opened at the Woodland Park Zoo?",
+      "expected_correct_answer": "3285",
+      "wrong_answer": "6506",
+      "relevant_docs": [
+        "3285",
+        "71254"
+      ]
+    },
+    "QTest7488": {
+      "input": "Diamond, the hardest known substance, and graphite, one of the softest, are pure forms of what element, the building block of all know forms of life?",
+      "expected_correct_answer": "70980",
+      "wrong_answer": "54837",
+      "relevant_docs": [
+        "54837",
+        "17628",
+        "16315",
+        "70980"
+      ]
+    },
+    "QTest7500": {
+      "input": "What volunteer-led, humanitarian organization that provides emergency assistance, disaster relief and education inside the United States, was founded by Clara Barton on May 21, 1881?",
+      "expected_correct_answer": "17144",
+      "wrong_answer": "46574",
+      "relevant_docs": [
+        "58182",
+        "17144"
+      ]
+    },
+    "QTest7539": {
+      "input": "Ambrosia, Pippin, Gravenstein, and McIntosh are varieties of what?",
+      "expected_correct_answer": "69913",
+      "wrong_answer": "62828",
+      "relevant_docs": [
+        "19008",
+        "15802",
+        "69913",
+        "62828"
+      ]
+    },
+    "QTest7551": {
+      "input": "Which credit card, the first to be issued on the standard ISO/IEC 7810 plastic bank card we're all familiary with, features a centurion on its face?",
+      "expected_correct_answer": "37509",
+      "wrong_answer": "59055",
+      "relevant_docs": [
+        "37509",
+        "57294"
+      ]
+    },
+    "QTest7569": {
+      "input": "What was the name of the NASA project that put a man on the moon?",
+      "expected_correct_answer": "9733",
+      "wrong_answer": "31454",
+      "relevant_docs": [
+        "9733",
+        "35331"
+      ]
+    },
+    "QTest7576": {
+      "input": "July 27, 1940 saw the introduction of one of the most iconic cartoon characters of all time, Bugs Bunny. Who famously did his voice until 1989?",
+      "expected_correct_answer": "56096",
+      "wrong_answer": "35697",
+      "relevant_docs": [
+        "56096"
+      ]
+    },
+    "QTest7583": {
+      "input": "Which bone lies between the femur and the tibia?",
+      "expected_correct_answer": "64406",
+      "wrong_answer": "35743",
+      "relevant_docs": [
+        "69320",
+        "35743",
+        "64406"
+      ]
+    },
+    "QTest7584": {
+      "input": "On Aug 7, 1782, George Washington ordered the creation of the Badge of Military Merit to honor soldiers wounded in battle. By what name is it currently known?",
+      "expected_correct_answer": "41107",
+      "wrong_answer": "18158",
+      "relevant_docs": [
+        "41107",
+        "72290"
+      ]
+    },
+    "QTest7601": {
+      "input": "Whose assassination was investigated by the Warren Commission?",
+      "expected_correct_answer": "34580",
+      "wrong_answer": "3131",
+      "relevant_docs": [
+        "24281",
+        "34580"
+      ]
+    },
+    "QTest7607": {
+      "input": "In the world of Citizen Band radio, what channel was reserved for emergency use?",
+      "expected_correct_answer": "35170",
+      "wrong_answer": "49585",
+      "relevant_docs": [
+        "35170"
+      ]
+    },
+    "QTest7609": {
+      "input": "What artificial sweetener, made primarily from granulated saccharin, is served in little pink packets?",
+      "expected_correct_answer": "51813",
+      "wrong_answer": "25978",
+      "relevant_docs": [
+        "51813",
+        "25978",
+        "58476"
+      ]
+    },
+    "QTest7641": {
+      "input": "What is the name for the oven used for firing pottery, drying lumber, and making brick, charcoal, lime, and cement?",
+      "expected_correct_answer": "2640",
+      "wrong_answer": "19865",
+      "relevant_docs": [
+        "2640",
+        "48814",
+        "1552",
+        "7808",
+        "21859",
+        "22514",
+        "44774",
+        "36896"
+      ]
+    },
+    "QTest7642": {
+      "input": "The son of Phillip and Olympias, who conquered Greece in 336 BC at the head of a vast Macedonian Army?",
+      "expected_correct_answer": "12997",
+      "wrong_answer": "16117",
+      "relevant_docs": [
+        "12997",
+        "64881",
+        "16117",
+        "66289",
+        "19821",
+        "56842"
+      ]
+    },
+    "QTest7658": {
+      "input": "Known as The Mount Rushmore State, what was the 40th state to join the Union on November 2, 1889?",
+      "expected_correct_answer": "27641",
+      "wrong_answer": "72158",
+      "relevant_docs": [
+        "72158",
+        "27641"
+      ]
+    },
+    "QTest7667": {
+      "input": "Who lead the Bolshevik/October Revolution that overthrew the tsarist regime of Russia starting on November 7, 1917?",
+      "expected_correct_answer": "40911",
+      "wrong_answer": "14853",
+      "relevant_docs": [
+        "51064",
+        "929",
+        "4256",
+        "40911",
+        "37068",
+        "36959"
+      ]
+    },
+    "QTest7680": {
+      "input": "November 23, 1963 saw the introduction of what TV show, the worlds longest running science fiction drama, which originally starred William Hartnell?",
+      "expected_correct_answer": "69671",
+      "wrong_answer": "30801",
+      "relevant_docs": [
+        "69671",
+        "52873",
+        "36098",
+        "18900"
+      ]
+    }
+  },
+  "summary": {
+    "total_target_incorrect": 1,
+    "total_other_incorrect": 384
+  }
+}

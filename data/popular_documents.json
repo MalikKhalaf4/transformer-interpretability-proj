@@ -1,0 +1,3016 @@
+{
+  "metadata": {
+    "source_file": "activated_neurons.json",
+    "generated_at": "2025-09-28T13:34:33.660237",
+    "total_unique_documents": 3197,
+    "total_queries": 26352,
+    "top_n_returned": 500,
+    "data_type": "training",
+    "generation_parameters": {
+      "top_n_requested": 500,
+      "use_test_set": false
+    }
+  },
+  "popular_documents": [
+    {
+      "rank": 1,
+      "document_id": "2182",
+      "query_count": 229,
+      "percentage": 0.869
+    },
+    {
+      "rank": 2,
+      "document_id": "59708",
+      "query_count": 207,
+      "percentage": 0.786
+    },
+    {
+      "rank": 3,
+      "document_id": "71386",
+      "query_count": 180,
+      "percentage": 0.683
+    },
+    {
+      "rank": 4,
+      "document_id": "26530",
+      "query_count": 166,
+      "percentage": 0.63
+    },
+    {
+      "rank": 5,
+      "document_id": "49298",
+      "query_count": 130,
+      "percentage": 0.493
+    },
+    {
+      "rank": 6,
+      "document_id": "16315",
+      "query_count": 126,
+      "percentage": 0.478
+    },
+    {
+      "rank": 7,
+      "document_id": "14463",
+      "query_count": 123,
+      "percentage": 0.467
+    },
+    {
+      "rank": 8,
+      "document_id": "49367",
+      "query_count": 122,
+      "percentage": 0.463
+    },
+    {
+      "rank": 9,
+      "document_id": "14342",
+      "query_count": 120,
+      "percentage": 0.455
+    },
+    {
+      "rank": 10,
+      "document_id": "69231",
+      "query_count": 115,
+      "percentage": 0.436
+    },
+    {
+      "rank": 11,
+      "document_id": "57375",
+      "query_count": 106,
+      "percentage": 0.402
+    },
+    {
+      "rank": 12,
+      "document_id": "69835",
+      "query_count": 91,
+      "percentage": 0.345
+    },
+    {
+      "rank": 13,
+      "document_id": "2399",
+      "query_count": 81,
+      "percentage": 0.307
+    },
+    {
+      "rank": 14,
+      "document_id": "17880",
+      "query_count": 79,
+      "percentage": 0.3
+    },
+    {
+      "rank": 15,
+      "document_id": "9701",
+      "query_count": 76,
+      "percentage": 0.288
+    },
+    {
+      "rank": 16,
+      "document_id": "67427",
+      "query_count": 74,
+      "percentage": 0.281
+    },
+    {
+      "rank": 17,
+      "document_id": "57888",
+      "query_count": 71,
+      "percentage": 0.269
+    },
+    {
+      "rank": 18,
+      "document_id": "53155",
+      "query_count": 71,
+      "percentage": 0.269
+    },
+    {
+      "rank": 19,
+      "document_id": "52588",
+      "query_count": 69,
+      "percentage": 0.262
+    },
+    {
+      "rank": 20,
+      "document_id": "27730",
+      "query_count": 68,
+      "percentage": 0.258
+    },
+    {
+      "rank": 21,
+      "document_id": "29055",
+      "query_count": 67,
+      "percentage": 0.254
+    },
+    {
+      "rank": 22,
+      "document_id": "39709",
+      "query_count": 62,
+      "percentage": 0.235
+    },
+    {
+      "rank": 23,
+      "document_id": "11819",
+      "query_count": 58,
+      "percentage": 0.22
+    },
+    {
+      "rank": 24,
+      "document_id": "61796",
+      "query_count": 57,
+      "percentage": 0.216
+    },
+    {
+      "rank": 25,
+      "document_id": "6952",
+      "query_count": 54,
+      "percentage": 0.205
+    },
+    {
+      "rank": 26,
+      "document_id": "6980",
+      "query_count": 53,
+      "percentage": 0.201
+    },
+    {
+      "rank": 27,
+      "document_id": "19715",
+      "query_count": 52,
+      "percentage": 0.197
+    },
+    {
+      "rank": 28,
+      "document_id": "42477",
+      "query_count": 51,
+      "percentage": 0.194
+    },
+    {
+      "rank": 29,
+      "document_id": "68679",
+      "query_count": 51,
+      "percentage": 0.194
+    },
+    {
+      "rank": 30,
+      "document_id": "51796",
+      "query_count": 50,
+      "percentage": 0.19
+    },
+    {
+      "rank": 31,
+      "document_id": "46780",
+      "query_count": 50,
+      "percentage": 0.19
+    },
+    {
+      "rank": 32,
+      "document_id": "36553",
+      "query_count": 50,
+      "percentage": 0.19
+    },
+    {
+      "rank": 33,
+      "document_id": "34082",
+      "query_count": 49,
+      "percentage": 0.186
+    },
+    {
+      "rank": 34,
+      "document_id": "36242",
+      "query_count": 49,
+      "percentage": 0.186
+    },
+    {
+      "rank": 35,
+      "document_id": "50826",
+      "query_count": 47,
+      "percentage": 0.178
+    },
+    {
+      "rank": 36,
+      "document_id": "44170",
+      "query_count": 47,
+      "percentage": 0.178
+    },
+    {
+      "rank": 37,
+      "document_id": "13390",
+      "query_count": 46,
+      "percentage": 0.175
+    },
+    {
+      "rank": 38,
+      "document_id": "6506",
+      "query_count": 45,
+      "percentage": 0.171
+    },
+    {
+      "rank": 39,
+      "document_id": "49060",
+      "query_count": 44,
+      "percentage": 0.167
+    },
+    {
+      "rank": 40,
+      "document_id": "36098",
+      "query_count": 44,
+      "percentage": 0.167
+    },
+    {
+      "rank": 41,
+      "document_id": "10824",
+      "query_count": 43,
+      "percentage": 0.163
+    },
+    {
+      "rank": 42,
+      "document_id": "8382",
+      "query_count": 43,
+      "percentage": 0.163
+    },
+    {
+      "rank": 43,
+      "document_id": "1331",
+      "query_count": 43,
+      "percentage": 0.163
+    },
+    {
+      "rank": 44,
+      "document_id": "61388",
+      "query_count": 41,
+      "percentage": 0.156
+    },
+    {
+      "rank": 45,
+      "document_id": "62475",
+      "query_count": 40,
+      "percentage": 0.152
+    },
+    {
+      "rank": 46,
+      "document_id": "50176",
+      "query_count": 39,
+      "percentage": 0.148
+    },
+    {
+      "rank": 47,
+      "document_id": "20233",
+      "query_count": 39,
+      "percentage": 0.148
+    },
+    {
+      "rank": 48,
+      "document_id": "34061",
+      "query_count": 39,
+      "percentage": 0.148
+    },
+    {
+      "rank": 49,
+      "document_id": "36924",
+      "query_count": 39,
+      "percentage": 0.148
+    },
+    {
+      "rank": 50,
+      "document_id": "59903",
+      "query_count": 38,
+      "percentage": 0.144
+    },
+    {
+      "rank": 51,
+      "document_id": "9615",
+      "query_count": 38,
+      "percentage": 0.144
+    },
+    {
+      "rank": 52,
+      "document_id": "29094",
+      "query_count": 38,
+      "percentage": 0.144
+    },
+    {
+      "rank": 53,
+      "document_id": "3810",
+      "query_count": 38,
+      "percentage": 0.144
+    },
+    {
+      "rank": 54,
+      "document_id": "2407",
+      "query_count": 37,
+      "percentage": 0.14
+    },
+    {
+      "rank": 55,
+      "document_id": "31454",
+      "query_count": 37,
+      "percentage": 0.14
+    },
+    {
+      "rank": 56,
+      "document_id": "46937",
+      "query_count": 36,
+      "percentage": 0.137
+    },
+    {
+      "rank": 57,
+      "document_id": "71418",
+      "query_count": 36,
+      "percentage": 0.137
+    },
+    {
+      "rank": 58,
+      "document_id": "57821",
+      "query_count": 35,
+      "percentage": 0.133
+    },
+    {
+      "rank": 59,
+      "document_id": "50502",
+      "query_count": 35,
+      "percentage": 0.133
+    },
+    {
+      "rank": 60,
+      "document_id": "71387",
+      "query_count": 35,
+      "percentage": 0.133
+    },
+    {
+      "rank": 61,
+      "document_id": "35796",
+      "query_count": 33,
+      "percentage": 0.125
+    },
+    {
+      "rank": 62,
+      "document_id": "35543",
+      "query_count": 32,
+      "percentage": 0.121
+    },
+    {
+      "rank": 63,
+      "document_id": "12950",
+      "query_count": 32,
+      "percentage": 0.121
+    },
+    {
+      "rank": 64,
+      "document_id": "37062",
+      "query_count": 31,
+      "percentage": 0.118
+    },
+    {
+      "rank": 65,
+      "document_id": "33147",
+      "query_count": 31,
+      "percentage": 0.118
+    },
+    {
+      "rank": 66,
+      "document_id": "19802",
+      "query_count": 31,
+      "percentage": 0.118
+    },
+    {
+      "rank": 67,
+      "document_id": "6981",
+      "query_count": 31,
+      "percentage": 0.118
+    },
+    {
+      "rank": 68,
+      "document_id": "47371",
+      "query_count": 31,
+      "percentage": 0.118
+    },
+    {
+      "rank": 69,
+      "document_id": "43993",
+      "query_count": 31,
+      "percentage": 0.118
+    },
+    {
+      "rank": 70,
+      "document_id": "26635",
+      "query_count": 30,
+      "percentage": 0.114
+    },
+    {
+      "rank": 71,
+      "document_id": "535",
+      "query_count": 30,
+      "percentage": 0.114
+    },
+    {
+      "rank": 72,
+      "document_id": "45485",
+      "query_count": 30,
+      "percentage": 0.114
+    },
+    {
+      "rank": 73,
+      "document_id": "23412",
+      "query_count": 30,
+      "percentage": 0.114
+    },
+    {
+      "rank": 74,
+      "document_id": "69384",
+      "query_count": 30,
+      "percentage": 0.114
+    },
+    {
+      "rank": 75,
+      "document_id": "51961",
+      "query_count": 30,
+      "percentage": 0.114
+    },
+    {
+      "rank": 76,
+      "document_id": "15653",
+      "query_count": 30,
+      "percentage": 0.114
+    },
+    {
+      "rank": 77,
+      "document_id": "769",
+      "query_count": 29,
+      "percentage": 0.11
+    },
+    {
+      "rank": 78,
+      "document_id": "73809",
+      "query_count": 29,
+      "percentage": 0.11
+    },
+    {
+      "rank": 79,
+      "document_id": "12731",
+      "query_count": 29,
+      "percentage": 0.11
+    },
+    {
+      "rank": 80,
+      "document_id": "68317",
+      "query_count": 28,
+      "percentage": 0.106
+    },
+    {
+      "rank": 81,
+      "document_id": "1258",
+      "query_count": 28,
+      "percentage": 0.106
+    },
+    {
+      "rank": 82,
+      "document_id": "36282",
+      "query_count": 28,
+      "percentage": 0.106
+    },
+    {
+      "rank": 83,
+      "document_id": "2534",
+      "query_count": 28,
+      "percentage": 0.106
+    },
+    {
+      "rank": 84,
+      "document_id": "41871",
+      "query_count": 28,
+      "percentage": 0.106
+    },
+    {
+      "rank": 85,
+      "document_id": "53894",
+      "query_count": 28,
+      "percentage": 0.106
+    },
+    {
+      "rank": 86,
+      "document_id": "51010",
+      "query_count": 28,
+      "percentage": 0.106
+    },
+    {
+      "rank": 87,
+      "document_id": "26550",
+      "query_count": 28,
+      "percentage": 0.106
+    },
+    {
+      "rank": 88,
+      "document_id": "69993",
+      "query_count": 28,
+      "percentage": 0.106
+    },
+    {
+      "rank": 89,
+      "document_id": "14209",
+      "query_count": 27,
+      "percentage": 0.102
+    },
+    {
+      "rank": 90,
+      "document_id": "46421",
+      "query_count": 27,
+      "percentage": 0.102
+    },
+    {
+      "rank": 91,
+      "document_id": "64541",
+      "query_count": 27,
+      "percentage": 0.102
+    },
+    {
+      "rank": 92,
+      "document_id": "25107",
+      "query_count": 27,
+      "percentage": 0.102
+    },
+    {
+      "rank": 93,
+      "document_id": "54298",
+      "query_count": 27,
+      "percentage": 0.102
+    },
+    {
+      "rank": 94,
+      "document_id": "46476",
+      "query_count": 27,
+      "percentage": 0.102
+    },
+    {
+      "rank": 95,
+      "document_id": "35667",
+      "query_count": 27,
+      "percentage": 0.102
+    },
+    {
+      "rank": 96,
+      "document_id": "13710",
+      "query_count": 27,
+      "percentage": 0.102
+    },
+    {
+      "rank": 97,
+      "document_id": "73103",
+      "query_count": 27,
+      "percentage": 0.102
+    },
+    {
+      "rank": 98,
+      "document_id": "50987",
+      "query_count": 26,
+      "percentage": 0.099
+    },
+    {
+      "rank": 99,
+      "document_id": "46390",
+      "query_count": 26,
+      "percentage": 0.099
+    },
+    {
+      "rank": 100,
+      "document_id": "47788",
+      "query_count": 26,
+      "percentage": 0.099
+    },
+    {
+      "rank": 101,
+      "document_id": "71321",
+      "query_count": 26,
+      "percentage": 0.099
+    },
+    {
+      "rank": 102,
+      "document_id": "21234",
+      "query_count": 26,
+      "percentage": 0.099
+    },
+    {
+      "rank": 103,
+      "document_id": "50086",
+      "query_count": 26,
+      "percentage": 0.099
+    },
+    {
+      "rank": 104,
+      "document_id": "46092",
+      "query_count": 26,
+      "percentage": 0.099
+    },
+    {
+      "rank": 105,
+      "document_id": "66158",
+      "query_count": 26,
+      "percentage": 0.099
+    },
+    {
+      "rank": 106,
+      "document_id": "62297",
+      "query_count": 26,
+      "percentage": 0.099
+    },
+    {
+      "rank": 107,
+      "document_id": "4246",
+      "query_count": 25,
+      "percentage": 0.095
+    },
+    {
+      "rank": 108,
+      "document_id": "64008",
+      "query_count": 25,
+      "percentage": 0.095
+    },
+    {
+      "rank": 109,
+      "document_id": "32490",
+      "query_count": 25,
+      "percentage": 0.095
+    },
+    {
+      "rank": 110,
+      "document_id": "50237",
+      "query_count": 25,
+      "percentage": 0.095
+    },
+    {
+      "rank": 111,
+      "document_id": "25404",
+      "query_count": 25,
+      "percentage": 0.095
+    },
+    {
+      "rank": 112,
+      "document_id": "46730",
+      "query_count": 25,
+      "percentage": 0.095
+    },
+    {
+      "rank": 113,
+      "document_id": "24623",
+      "query_count": 25,
+      "percentage": 0.095
+    },
+    {
+      "rank": 114,
+      "document_id": "32908",
+      "query_count": 24,
+      "percentage": 0.091
+    },
+    {
+      "rank": 115,
+      "document_id": "70343",
+      "query_count": 24,
+      "percentage": 0.091
+    },
+    {
+      "rank": 116,
+      "document_id": "52336",
+      "query_count": 24,
+      "percentage": 0.091
+    },
+    {
+      "rank": 117,
+      "document_id": "13600",
+      "query_count": 24,
+      "percentage": 0.091
+    },
+    {
+      "rank": 118,
+      "document_id": "51772",
+      "query_count": 24,
+      "percentage": 0.091
+    },
+    {
+      "rank": 119,
+      "document_id": "28216",
+      "query_count": 24,
+      "percentage": 0.091
+    },
+    {
+      "rank": 120,
+      "document_id": "4680",
+      "query_count": 24,
+      "percentage": 0.091
+    },
+    {
+      "rank": 121,
+      "document_id": "39813",
+      "query_count": 24,
+      "percentage": 0.091
+    },
+    {
+      "rank": 122,
+      "document_id": "13214",
+      "query_count": 24,
+      "percentage": 0.091
+    },
+    {
+      "rank": 123,
+      "document_id": "23356",
+      "query_count": 24,
+      "percentage": 0.091
+    },
+    {
+      "rank": 124,
+      "document_id": "35931",
+      "query_count": 24,
+      "percentage": 0.091
+    },
+    {
+      "rank": 125,
+      "document_id": "35182",
+      "query_count": 23,
+      "percentage": 0.087
+    },
+    {
+      "rank": 126,
+      "document_id": "67015",
+      "query_count": 23,
+      "percentage": 0.087
+    },
+    {
+      "rank": 127,
+      "document_id": "31992",
+      "query_count": 23,
+      "percentage": 0.087
+    },
+    {
+      "rank": 128,
+      "document_id": "57230",
+      "query_count": 23,
+      "percentage": 0.087
+    },
+    {
+      "rank": 129,
+      "document_id": "2344",
+      "query_count": 23,
+      "percentage": 0.087
+    },
+    {
+      "rank": 130,
+      "document_id": "36959",
+      "query_count": 23,
+      "percentage": 0.087
+    },
+    {
+      "rank": 131,
+      "document_id": "6168",
+      "query_count": 23,
+      "percentage": 0.087
+    },
+    {
+      "rank": 132,
+      "document_id": "69056",
+      "query_count": 23,
+      "percentage": 0.087
+    },
+    {
+      "rank": 133,
+      "document_id": "63611",
+      "query_count": 23,
+      "percentage": 0.087
+    },
+    {
+      "rank": 134,
+      "document_id": "33475",
+      "query_count": 23,
+      "percentage": 0.087
+    },
+    {
+      "rank": 135,
+      "document_id": "7975",
+      "query_count": 23,
+      "percentage": 0.087
+    },
+    {
+      "rank": 136,
+      "document_id": "44930",
+      "query_count": 23,
+      "percentage": 0.087
+    },
+    {
+      "rank": 137,
+      "document_id": "48978",
+      "query_count": 23,
+      "percentage": 0.087
+    },
+    {
+      "rank": 138,
+      "document_id": "30765",
+      "query_count": 23,
+      "percentage": 0.087
+    },
+    {
+      "rank": 139,
+      "document_id": "3203",
+      "query_count": 23,
+      "percentage": 0.087
+    },
+    {
+      "rank": 140,
+      "document_id": "24581",
+      "query_count": 23,
+      "percentage": 0.087
+    },
+    {
+      "rank": 141,
+      "document_id": "22029",
+      "query_count": 23,
+      "percentage": 0.087
+    },
+    {
+      "rank": 142,
+      "document_id": "28894",
+      "query_count": 22,
+      "percentage": 0.083
+    },
+    {
+      "rank": 143,
+      "document_id": "71016",
+      "query_count": 22,
+      "percentage": 0.083
+    },
+    {
+      "rank": 144,
+      "document_id": "36586",
+      "query_count": 22,
+      "percentage": 0.083
+    },
+    {
+      "rank": 145,
+      "document_id": "66462",
+      "query_count": 22,
+      "percentage": 0.083
+    },
+    {
+      "rank": 146,
+      "document_id": "59066",
+      "query_count": 22,
+      "percentage": 0.083
+    },
+    {
+      "rank": 147,
+      "document_id": "60198",
+      "query_count": 22,
+      "percentage": 0.083
+    },
+    {
+      "rank": 148,
+      "document_id": "73056",
+      "query_count": 22,
+      "percentage": 0.083
+    },
+    {
+      "rank": 149,
+      "document_id": "340",
+      "query_count": 22,
+      "percentage": 0.083
+    },
+    {
+      "rank": 150,
+      "document_id": "66636",
+      "query_count": 22,
+      "percentage": 0.083
+    },
+    {
+      "rank": 151,
+      "document_id": "31875",
+      "query_count": 22,
+      "percentage": 0.083
+    },
+    {
+      "rank": 152,
+      "document_id": "788",
+      "query_count": 22,
+      "percentage": 0.083
+    },
+    {
+      "rank": 153,
+      "document_id": "41153",
+      "query_count": 22,
+      "percentage": 0.083
+    },
+    {
+      "rank": 154,
+      "document_id": "9703",
+      "query_count": 22,
+      "percentage": 0.083
+    },
+    {
+      "rank": 155,
+      "document_id": "65810",
+      "query_count": 21,
+      "percentage": 0.08
+    },
+    {
+      "rank": 156,
+      "document_id": "66250",
+      "query_count": 21,
+      "percentage": 0.08
+    },
+    {
+      "rank": 157,
+      "document_id": "19479",
+      "query_count": 21,
+      "percentage": 0.08
+    },
+    {
+      "rank": 158,
+      "document_id": "66703",
+      "query_count": 21,
+      "percentage": 0.08
+    },
+    {
+      "rank": 159,
+      "document_id": "26869",
+      "query_count": 21,
+      "percentage": 0.08
+    },
+    {
+      "rank": 160,
+      "document_id": "50579",
+      "query_count": 21,
+      "percentage": 0.08
+    },
+    {
+      "rank": 161,
+      "document_id": "35768",
+      "query_count": 21,
+      "percentage": 0.08
+    },
+    {
+      "rank": 162,
+      "document_id": "52577",
+      "query_count": 21,
+      "percentage": 0.08
+    },
+    {
+      "rank": 163,
+      "document_id": "37100",
+      "query_count": 21,
+      "percentage": 0.08
+    },
+    {
+      "rank": 164,
+      "document_id": "42134",
+      "query_count": 21,
+      "percentage": 0.08
+    },
+    {
+      "rank": 165,
+      "document_id": "53574",
+      "query_count": 20,
+      "percentage": 0.076
+    },
+    {
+      "rank": 166,
+      "document_id": "13597",
+      "query_count": 20,
+      "percentage": 0.076
+    },
+    {
+      "rank": 167,
+      "document_id": "46506",
+      "query_count": 20,
+      "percentage": 0.076
+    },
+    {
+      "rank": 168,
+      "document_id": "47034",
+      "query_count": 20,
+      "percentage": 0.076
+    },
+    {
+      "rank": 169,
+      "document_id": "49219",
+      "query_count": 20,
+      "percentage": 0.076
+    },
+    {
+      "rank": 170,
+      "document_id": "58324",
+      "query_count": 20,
+      "percentage": 0.076
+    },
+    {
+      "rank": 171,
+      "document_id": "5762",
+      "query_count": 20,
+      "percentage": 0.076
+    },
+    {
+      "rank": 172,
+      "document_id": "59351",
+      "query_count": 20,
+      "percentage": 0.076
+    },
+    {
+      "rank": 173,
+      "document_id": "14850",
+      "query_count": 20,
+      "percentage": 0.076
+    },
+    {
+      "rank": 174,
+      "document_id": "59885",
+      "query_count": 20,
+      "percentage": 0.076
+    },
+    {
+      "rank": 175,
+      "document_id": "15903",
+      "query_count": 20,
+      "percentage": 0.076
+    },
+    {
+      "rank": 176,
+      "document_id": "60101",
+      "query_count": 20,
+      "percentage": 0.076
+    },
+    {
+      "rank": 177,
+      "document_id": "2515",
+      "query_count": 20,
+      "percentage": 0.076
+    },
+    {
+      "rank": 178,
+      "document_id": "38305",
+      "query_count": 20,
+      "percentage": 0.076
+    },
+    {
+      "rank": 179,
+      "document_id": "4883",
+      "query_count": 20,
+      "percentage": 0.076
+    },
+    {
+      "rank": 180,
+      "document_id": "67238",
+      "query_count": 20,
+      "percentage": 0.076
+    },
+    {
+      "rank": 181,
+      "document_id": "60994",
+      "query_count": 20,
+      "percentage": 0.076
+    },
+    {
+      "rank": 182,
+      "document_id": "16419",
+      "query_count": 20,
+      "percentage": 0.076
+    },
+    {
+      "rank": 183,
+      "document_id": "23499",
+      "query_count": 20,
+      "percentage": 0.076
+    },
+    {
+      "rank": 184,
+      "document_id": "57454",
+      "query_count": 19,
+      "percentage": 0.072
+    },
+    {
+      "rank": 185,
+      "document_id": "9768",
+      "query_count": 19,
+      "percentage": 0.072
+    },
+    {
+      "rank": 186,
+      "document_id": "45226",
+      "query_count": 19,
+      "percentage": 0.072
+    },
+    {
+      "rank": 187,
+      "document_id": "71891",
+      "query_count": 19,
+      "percentage": 0.072
+    },
+    {
+      "rank": 188,
+      "document_id": "12455",
+      "query_count": 19,
+      "percentage": 0.072
+    },
+    {
+      "rank": 189,
+      "document_id": "65881",
+      "query_count": 19,
+      "percentage": 0.072
+    },
+    {
+      "rank": 190,
+      "document_id": "45437",
+      "query_count": 19,
+      "percentage": 0.072
+    },
+    {
+      "rank": 191,
+      "document_id": "70083",
+      "query_count": 19,
+      "percentage": 0.072
+    },
+    {
+      "rank": 192,
+      "document_id": "14607",
+      "query_count": 19,
+      "percentage": 0.072
+    },
+    {
+      "rank": 193,
+      "document_id": "46163",
+      "query_count": 19,
+      "percentage": 0.072
+    },
+    {
+      "rank": 194,
+      "document_id": "7590",
+      "query_count": 19,
+      "percentage": 0.072
+    },
+    {
+      "rank": 195,
+      "document_id": "44753",
+      "query_count": 19,
+      "percentage": 0.072
+    },
+    {
+      "rank": 196,
+      "document_id": "8264",
+      "query_count": 19,
+      "percentage": 0.072
+    },
+    {
+      "rank": 197,
+      "document_id": "6210",
+      "query_count": 18,
+      "percentage": 0.068
+    },
+    {
+      "rank": 198,
+      "document_id": "53554",
+      "query_count": 18,
+      "percentage": 0.068
+    },
+    {
+      "rank": 199,
+      "document_id": "6372",
+      "query_count": 18,
+      "percentage": 0.068
+    },
+    {
+      "rank": 200,
+      "document_id": "62076",
+      "query_count": 18,
+      "percentage": 0.068
+    },
+    {
+      "rank": 201,
+      "document_id": "43688",
+      "query_count": 18,
+      "percentage": 0.068
+    },
+    {
+      "rank": 202,
+      "document_id": "51096",
+      "query_count": 18,
+      "percentage": 0.068
+    },
+    {
+      "rank": 203,
+      "document_id": "63514",
+      "query_count": 18,
+      "percentage": 0.068
+    },
+    {
+      "rank": 204,
+      "document_id": "42761",
+      "query_count": 18,
+      "percentage": 0.068
+    },
+    {
+      "rank": 205,
+      "document_id": "51815",
+      "query_count": 18,
+      "percentage": 0.068
+    },
+    {
+      "rank": 206,
+      "document_id": "54448",
+      "query_count": 18,
+      "percentage": 0.068
+    },
+    {
+      "rank": 207,
+      "document_id": "46769",
+      "query_count": 18,
+      "percentage": 0.068
+    },
+    {
+      "rank": 208,
+      "document_id": "13988",
+      "query_count": 18,
+      "percentage": 0.068
+    },
+    {
+      "rank": 209,
+      "document_id": "65953",
+      "query_count": 18,
+      "percentage": 0.068
+    },
+    {
+      "rank": 210,
+      "document_id": "8827",
+      "query_count": 17,
+      "percentage": 0.065
+    },
+    {
+      "rank": 211,
+      "document_id": "28406",
+      "query_count": 17,
+      "percentage": 0.065
+    },
+    {
+      "rank": 212,
+      "document_id": "652",
+      "query_count": 17,
+      "percentage": 0.065
+    },
+    {
+      "rank": 213,
+      "document_id": "48165",
+      "query_count": 17,
+      "percentage": 0.065
+    },
+    {
+      "rank": 214,
+      "document_id": "9988",
+      "query_count": 17,
+      "percentage": 0.065
+    },
+    {
+      "rank": 215,
+      "document_id": "28242",
+      "query_count": 17,
+      "percentage": 0.065
+    },
+    {
+      "rank": 216,
+      "document_id": "17985",
+      "query_count": 17,
+      "percentage": 0.065
+    },
+    {
+      "rank": 217,
+      "document_id": "18275",
+      "query_count": 17,
+      "percentage": 0.065
+    },
+    {
+      "rank": 218,
+      "document_id": "21443",
+      "query_count": 17,
+      "percentage": 0.065
+    },
+    {
+      "rank": 219,
+      "document_id": "2318",
+      "query_count": 17,
+      "percentage": 0.065
+    },
+    {
+      "rank": 220,
+      "document_id": "46799",
+      "query_count": 17,
+      "percentage": 0.065
+    },
+    {
+      "rank": 221,
+      "document_id": "14853",
+      "query_count": 17,
+      "percentage": 0.065
+    },
+    {
+      "rank": 222,
+      "document_id": "15333",
+      "query_count": 17,
+      "percentage": 0.065
+    },
+    {
+      "rank": 223,
+      "document_id": "64300",
+      "query_count": 17,
+      "percentage": 0.065
+    },
+    {
+      "rank": 224,
+      "document_id": "18294",
+      "query_count": 17,
+      "percentage": 0.065
+    },
+    {
+      "rank": 225,
+      "document_id": "47416",
+      "query_count": 17,
+      "percentage": 0.065
+    },
+    {
+      "rank": 226,
+      "document_id": "49007",
+      "query_count": 17,
+      "percentage": 0.065
+    },
+    {
+      "rank": 227,
+      "document_id": "66629",
+      "query_count": 17,
+      "percentage": 0.065
+    },
+    {
+      "rank": 228,
+      "document_id": "36612",
+      "query_count": 17,
+      "percentage": 0.065
+    },
+    {
+      "rank": 229,
+      "document_id": "50362",
+      "query_count": 16,
+      "percentage": 0.061
+    },
+    {
+      "rank": 230,
+      "document_id": "29240",
+      "query_count": 16,
+      "percentage": 0.061
+    },
+    {
+      "rank": 231,
+      "document_id": "35132",
+      "query_count": 16,
+      "percentage": 0.061
+    },
+    {
+      "rank": 232,
+      "document_id": "4456",
+      "query_count": 16,
+      "percentage": 0.061
+    },
+    {
+      "rank": 233,
+      "document_id": "12000",
+      "query_count": 16,
+      "percentage": 0.061
+    },
+    {
+      "rank": 234,
+      "document_id": "17679",
+      "query_count": 16,
+      "percentage": 0.061
+    },
+    {
+      "rank": 235,
+      "document_id": "69122",
+      "query_count": 16,
+      "percentage": 0.061
+    },
+    {
+      "rank": 236,
+      "document_id": "4367",
+      "query_count": 16,
+      "percentage": 0.061
+    },
+    {
+      "rank": 237,
+      "document_id": "60465",
+      "query_count": 16,
+      "percentage": 0.061
+    },
+    {
+      "rank": 238,
+      "document_id": "34275",
+      "query_count": 16,
+      "percentage": 0.061
+    },
+    {
+      "rank": 239,
+      "document_id": "63324",
+      "query_count": 16,
+      "percentage": 0.061
+    },
+    {
+      "rank": 240,
+      "document_id": "33072",
+      "query_count": 16,
+      "percentage": 0.061
+    },
+    {
+      "rank": 241,
+      "document_id": "71878",
+      "query_count": 16,
+      "percentage": 0.061
+    },
+    {
+      "rank": 242,
+      "document_id": "35887",
+      "query_count": 16,
+      "percentage": 0.061
+    },
+    {
+      "rank": 243,
+      "document_id": "11296",
+      "query_count": 16,
+      "percentage": 0.061
+    },
+    {
+      "rank": 244,
+      "document_id": "49013",
+      "query_count": 16,
+      "percentage": 0.061
+    },
+    {
+      "rank": 245,
+      "document_id": "12890",
+      "query_count": 16,
+      "percentage": 0.061
+    },
+    {
+      "rank": 246,
+      "document_id": "67853",
+      "query_count": 16,
+      "percentage": 0.061
+    },
+    {
+      "rank": 247,
+      "document_id": "68536",
+      "query_count": 16,
+      "percentage": 0.061
+    },
+    {
+      "rank": 248,
+      "document_id": "42665",
+      "query_count": 16,
+      "percentage": 0.061
+    },
+    {
+      "rank": 249,
+      "document_id": "22446",
+      "query_count": 16,
+      "percentage": 0.061
+    },
+    {
+      "rank": 250,
+      "document_id": "69244",
+      "query_count": 16,
+      "percentage": 0.061
+    },
+    {
+      "rank": 251,
+      "document_id": "2377",
+      "query_count": 16,
+      "percentage": 0.061
+    },
+    {
+      "rank": 252,
+      "document_id": "40564",
+      "query_count": 16,
+      "percentage": 0.061
+    },
+    {
+      "rank": 253,
+      "document_id": "59468",
+      "query_count": 16,
+      "percentage": 0.061
+    },
+    {
+      "rank": 254,
+      "document_id": "64110",
+      "query_count": 16,
+      "percentage": 0.061
+    },
+    {
+      "rank": 255,
+      "document_id": "35595",
+      "query_count": 15,
+      "percentage": 0.057
+    },
+    {
+      "rank": 256,
+      "document_id": "9733",
+      "query_count": 15,
+      "percentage": 0.057
+    },
+    {
+      "rank": 257,
+      "document_id": "13706",
+      "query_count": 15,
+      "percentage": 0.057
+    },
+    {
+      "rank": 258,
+      "document_id": "51372",
+      "query_count": 15,
+      "percentage": 0.057
+    },
+    {
+      "rank": 259,
+      "document_id": "70058",
+      "query_count": 15,
+      "percentage": 0.057
+    },
+    {
+      "rank": 260,
+      "document_id": "51317",
+      "query_count": 15,
+      "percentage": 0.057
+    },
+    {
+      "rank": 261,
+      "document_id": "13055",
+      "query_count": 15,
+      "percentage": 0.057
+    },
+    {
+      "rank": 262,
+      "document_id": "48582",
+      "query_count": 15,
+      "percentage": 0.057
+    },
+    {
+      "rank": 263,
+      "document_id": "12164",
+      "query_count": 15,
+      "percentage": 0.057
+    },
+    {
+      "rank": 264,
+      "document_id": "26122",
+      "query_count": 15,
+      "percentage": 0.057
+    },
+    {
+      "rank": 265,
+      "document_id": "16222",
+      "query_count": 15,
+      "percentage": 0.057
+    },
+    {
+      "rank": 266,
+      "document_id": "52751",
+      "query_count": 15,
+      "percentage": 0.057
+    },
+    {
+      "rank": 267,
+      "document_id": "12835",
+      "query_count": 15,
+      "percentage": 0.057
+    },
+    {
+      "rank": 268,
+      "document_id": "43171",
+      "query_count": 15,
+      "percentage": 0.057
+    },
+    {
+      "rank": 269,
+      "document_id": "21815",
+      "query_count": 15,
+      "percentage": 0.057
+    },
+    {
+      "rank": 270,
+      "document_id": "13679",
+      "query_count": 15,
+      "percentage": 0.057
+    },
+    {
+      "rank": 271,
+      "document_id": "4256",
+      "query_count": 15,
+      "percentage": 0.057
+    },
+    {
+      "rank": 272,
+      "document_id": "20427",
+      "query_count": 15,
+      "percentage": 0.057
+    },
+    {
+      "rank": 273,
+      "document_id": "24900",
+      "query_count": 15,
+      "percentage": 0.057
+    },
+    {
+      "rank": 274,
+      "document_id": "21607",
+      "query_count": 15,
+      "percentage": 0.057
+    },
+    {
+      "rank": 275,
+      "document_id": "49148",
+      "query_count": 15,
+      "percentage": 0.057
+    },
+    {
+      "rank": 276,
+      "document_id": "35739",
+      "query_count": 15,
+      "percentage": 0.057
+    },
+    {
+      "rank": 277,
+      "document_id": "73660",
+      "query_count": 15,
+      "percentage": 0.057
+    },
+    {
+      "rank": 278,
+      "document_id": "25263",
+      "query_count": 15,
+      "percentage": 0.057
+    },
+    {
+      "rank": 279,
+      "document_id": "24256",
+      "query_count": 15,
+      "percentage": 0.057
+    },
+    {
+      "rank": 280,
+      "document_id": "25836",
+      "query_count": 15,
+      "percentage": 0.057
+    },
+    {
+      "rank": 281,
+      "document_id": "73744",
+      "query_count": 15,
+      "percentage": 0.057
+    },
+    {
+      "rank": 282,
+      "document_id": "57925",
+      "query_count": 15,
+      "percentage": 0.057
+    },
+    {
+      "rank": 283,
+      "document_id": "54854",
+      "query_count": 15,
+      "percentage": 0.057
+    },
+    {
+      "rank": 284,
+      "document_id": "47499",
+      "query_count": 15,
+      "percentage": 0.057
+    },
+    {
+      "rank": 285,
+      "document_id": "70804",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 286,
+      "document_id": "38044",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 287,
+      "document_id": "45225",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 288,
+      "document_id": "59339",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 289,
+      "document_id": "64545",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 290,
+      "document_id": "65655",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 291,
+      "document_id": "2451",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 292,
+      "document_id": "32673",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 293,
+      "document_id": "66774",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 294,
+      "document_id": "49700",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 295,
+      "document_id": "72508",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 296,
+      "document_id": "21404",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 297,
+      "document_id": "53360",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 298,
+      "document_id": "26584",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 299,
+      "document_id": "3536",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 300,
+      "document_id": "48899",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 301,
+      "document_id": "24271",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 302,
+      "document_id": "57645",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 303,
+      "document_id": "66982",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 304,
+      "document_id": "69086",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 305,
+      "document_id": "29984",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 306,
+      "document_id": "64956",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 307,
+      "document_id": "40563",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 308,
+      "document_id": "60966",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 309,
+      "document_id": "38491",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 310,
+      "document_id": "63724",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 311,
+      "document_id": "50185",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 312,
+      "document_id": "47748",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 313,
+      "document_id": "28436",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 314,
+      "document_id": "52046",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 315,
+      "document_id": "23922",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 316,
+      "document_id": "16061",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 317,
+      "document_id": "46414",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 318,
+      "document_id": "1124",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 319,
+      "document_id": "63901",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 320,
+      "document_id": "36180",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 321,
+      "document_id": "14028",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 322,
+      "document_id": "20145",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 323,
+      "document_id": "21666",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 324,
+      "document_id": "25884",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 325,
+      "document_id": "20774",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 326,
+      "document_id": "55173",
+      "query_count": 14,
+      "percentage": 0.053
+    },
+    {
+      "rank": 327,
+      "document_id": "24503",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 328,
+      "document_id": "32482",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 329,
+      "document_id": "50896",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 330,
+      "document_id": "3555",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 331,
+      "document_id": "14473",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 332,
+      "document_id": "16805",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 333,
+      "document_id": "51393",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 334,
+      "document_id": "22864",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 335,
+      "document_id": "62011",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 336,
+      "document_id": "35681",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 337,
+      "document_id": "23832",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 338,
+      "document_id": "42904",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 339,
+      "document_id": "4811",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 340,
+      "document_id": "65740",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 341,
+      "document_id": "11180",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 342,
+      "document_id": "72158",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 343,
+      "document_id": "24361",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 344,
+      "document_id": "19318",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 345,
+      "document_id": "763",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 346,
+      "document_id": "45047",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 347,
+      "document_id": "65401",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 348,
+      "document_id": "43635",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 349,
+      "document_id": "33180",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 350,
+      "document_id": "13192",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 351,
+      "document_id": "36631",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 352,
+      "document_id": "49038",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 353,
+      "document_id": "58370",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 354,
+      "document_id": "59732",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 355,
+      "document_id": "17025",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 356,
+      "document_id": "64563",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 357,
+      "document_id": "71397",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 358,
+      "document_id": "19544",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 359,
+      "document_id": "47838",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 360,
+      "document_id": "7456",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 361,
+      "document_id": "25219",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 362,
+      "document_id": "68298",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 363,
+      "document_id": "9477",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 364,
+      "document_id": "47665",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 365,
+      "document_id": "38723",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 366,
+      "document_id": "58378",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 367,
+      "document_id": "28908",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 368,
+      "document_id": "46494",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 369,
+      "document_id": "69671",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 370,
+      "document_id": "38363",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 371,
+      "document_id": "47963",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 372,
+      "document_id": "10086",
+      "query_count": 13,
+      "percentage": 0.049
+    },
+    {
+      "rank": 373,
+      "document_id": "35103",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 374,
+      "document_id": "69050",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 375,
+      "document_id": "47934",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 376,
+      "document_id": "62858",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 377,
+      "document_id": "70285",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 378,
+      "document_id": "1710",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 379,
+      "document_id": "19373",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 380,
+      "document_id": "34867",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 381,
+      "document_id": "15837",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 382,
+      "document_id": "24142",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 383,
+      "document_id": "24473",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 384,
+      "document_id": "16178",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 385,
+      "document_id": "33283",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 386,
+      "document_id": "51972",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 387,
+      "document_id": "61622",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 388,
+      "document_id": "60679",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 389,
+      "document_id": "8331",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 390,
+      "document_id": "26282",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 391,
+      "document_id": "47570",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 392,
+      "document_id": "37786",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 393,
+      "document_id": "63220",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 394,
+      "document_id": "67503",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 395,
+      "document_id": "21546",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 396,
+      "document_id": "9937",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 397,
+      "document_id": "34433",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 398,
+      "document_id": "25120",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 399,
+      "document_id": "26235",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 400,
+      "document_id": "8930",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 401,
+      "document_id": "53505",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 402,
+      "document_id": "68928",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 403,
+      "document_id": "36503",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 404,
+      "document_id": "68754",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 405,
+      "document_id": "27994",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 406,
+      "document_id": "60550",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 407,
+      "document_id": "45280",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 408,
+      "document_id": "33498",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 409,
+      "document_id": "27521",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 410,
+      "document_id": "16856",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 411,
+      "document_id": "45692",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 412,
+      "document_id": "48426",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 413,
+      "document_id": "25389",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 414,
+      "document_id": "44539",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 415,
+      "document_id": "40038",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 416,
+      "document_id": "23186",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 417,
+      "document_id": "60969",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 418,
+      "document_id": "22635",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 419,
+      "document_id": "49951",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 420,
+      "document_id": "42309",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 421,
+      "document_id": "30352",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 422,
+      "document_id": "9455",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 423,
+      "document_id": "66237",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 424,
+      "document_id": "49585",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 425,
+      "document_id": "45299",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 426,
+      "document_id": "68416",
+      "query_count": 12,
+      "percentage": 0.046
+    },
+    {
+      "rank": 427,
+      "document_id": "33431",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 428,
+      "document_id": "58776",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 429,
+      "document_id": "23511",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 430,
+      "document_id": "49374",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 431,
+      "document_id": "56404",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 432,
+      "document_id": "12635",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 433,
+      "document_id": "69756",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 434,
+      "document_id": "27101",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 435,
+      "document_id": "2125",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 436,
+      "document_id": "54601",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 437,
+      "document_id": "72163",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 438,
+      "document_id": "49712",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 439,
+      "document_id": "11998",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 440,
+      "document_id": "7445",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 441,
+      "document_id": "69156",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 442,
+      "document_id": "56096",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 443,
+      "document_id": "42354",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 444,
+      "document_id": "72118",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 445,
+      "document_id": "61402",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 446,
+      "document_id": "1901",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 447,
+      "document_id": "32982",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 448,
+      "document_id": "29983",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 449,
+      "document_id": "37289",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 450,
+      "document_id": "53210",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 451,
+      "document_id": "61603",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 452,
+      "document_id": "46347",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 453,
+      "document_id": "29673",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 454,
+      "document_id": "10971",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 455,
+      "document_id": "20224",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 456,
+      "document_id": "9118",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 457,
+      "document_id": "20234",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 458,
+      "document_id": "25424",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 459,
+      "document_id": "9478",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 460,
+      "document_id": "17876",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 461,
+      "document_id": "63517",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 462,
+      "document_id": "46866",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 463,
+      "document_id": "52310",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 464,
+      "document_id": "44797",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 465,
+      "document_id": "64091",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 466,
+      "document_id": "58630",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 467,
+      "document_id": "28497",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 468,
+      "document_id": "35909",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 469,
+      "document_id": "33517",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 470,
+      "document_id": "38340",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 471,
+      "document_id": "10051",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 472,
+      "document_id": "73139",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 473,
+      "document_id": "3704",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 474,
+      "document_id": "54090",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 475,
+      "document_id": "32439",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 476,
+      "document_id": "30286",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 477,
+      "document_id": "64616",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 478,
+      "document_id": "5435",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 479,
+      "document_id": "68289",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 480,
+      "document_id": "6597",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 481,
+      "document_id": "65287",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 482,
+      "document_id": "71425",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 483,
+      "document_id": "44551",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 484,
+      "document_id": "46835",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 485,
+      "document_id": "20958",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 486,
+      "document_id": "59454",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 487,
+      "document_id": "54102",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 488,
+      "document_id": "41457",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 489,
+      "document_id": "50187",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 490,
+      "document_id": "71135",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 491,
+      "document_id": "54809",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 492,
+      "document_id": "34717",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 493,
+      "document_id": "42042",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 494,
+      "document_id": "63911",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 495,
+      "document_id": "38183",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 496,
+      "document_id": "26426",
+      "query_count": 11,
+      "percentage": 0.042
+    },
+    {
+      "rank": 497,
+      "document_id": "72261",
+      "query_count": 10,
+      "percentage": 0.038
+    },
+    {
+      "rank": 498,
+      "document_id": "46365",
+      "query_count": 10,
+      "percentage": 0.038
+    },
+    {
+      "rank": 499,
+      "document_id": "61759",
+      "query_count": 10,
+      "percentage": 0.038
+    },
+    {
+      "rank": 500,
+      "document_id": "61130",
+      "query_count": 10,
+      "percentage": 0.038
+    }
+  ]
+}

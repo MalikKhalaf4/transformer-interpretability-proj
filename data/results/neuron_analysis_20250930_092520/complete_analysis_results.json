@@ -1,0 +1,2170 @@
+{
+  "documents": {
+    "2182": {
+      "document_id": 2182,
+      "frequencies": {
+        "0.05": {
+          "zero_out": {
+            "target_queries": {
+              "total": 15,
+              "correct_before": 15,
+              "correct_after": 15,
+              "accuracy_before": 100.0,
+              "accuracy_after": 100.0,
+              "accuracy_drop": 0.0
+            },
+            "other_queries": {
+              "total": 4507,
+              "correct_before": 4507,
+              "correct_after": 4275,
+              "accuracy_before": 100.0,
+              "accuracy_after": 94.85245174173508,
+              "accuracy_drop": 5.147548258264921
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 4290,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 6054,
+            "target_relevant_queries": {
+              "total": 15,
+              "correct_before": 15,
+              "correct_after": 15,
+              "accuracy_before": 100.0,
+              "accuracy_after": 100.0,
+              "accuracy_drop": 0.0
+            },
+            "other_relevant_queries": {
+              "total": 4507,
+              "correct_before": 4507,
+              "correct_after": 4324,
+              "accuracy_before": 100.0,
+              "accuracy_after": 95.93964943421345,
+              "accuracy_drop": 4.060350565786554
+            },
+            "queries_changed": {
+              "target_changed": 0,
+              "other_changed": 232
+            },
+            "execution_time": 11.165937423706055
+          }
+        },
+        "0.1": {
+          "zero_out": {
+            "target_queries": {
+              "total": 15,
+              "correct_before": 15,
+              "correct_after": 15,
+              "accuracy_before": 100.0,
+              "accuracy_after": 100.0,
+              "accuracy_drop": 0.0
+            },
+            "other_queries": {
+              "total": 4507,
+              "correct_before": 4507,
+              "correct_after": 3868,
+              "accuracy_before": 100.0,
+              "accuracy_after": 85.8220545817617,
+              "accuracy_drop": 14.177945418238297
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 3883,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 13616,
+            "target_relevant_queries": {
+              "total": 15,
+              "correct_before": 15,
+              "correct_after": 15,
+              "accuracy_before": 100.0,
+              "accuracy_after": 100.0,
+              "accuracy_drop": 0.0
+            },
+            "other_relevant_queries": {
+              "total": 4507,
+              "correct_before": 4507,
+              "correct_after": 3991,
+              "accuracy_before": 100.0,
+              "accuracy_after": 88.5511426669625,
+              "accuracy_drop": 11.448857333037497
+            },
+            "queries_changed": {
+              "target_changed": 0,
+              "other_changed": 639
+            },
+            "execution_time": 12.8876314163208
+          }
+        },
+        "0.15": {
+          "zero_out": {
+            "target_queries": {
+              "total": 15,
+              "correct_before": 15,
+              "correct_after": 10,
+              "accuracy_before": 100.0,
+              "accuracy_after": 66.66666666666666,
+              "accuracy_drop": 33.33333333333333
+            },
+            "other_queries": {
+              "total": 4507,
+              "correct_before": 4507,
+              "correct_after": 3270,
+              "accuracy_before": 100.0,
+              "accuracy_after": 72.55380519192367,
+              "accuracy_drop": 27.446194808076324
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 3280,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 17419,
+            "target_relevant_queries": {
+              "total": 15,
+              "correct_before": 15,
+              "correct_after": 10,
+              "accuracy_before": 100.0,
+              "accuracy_after": 66.66666666666666,
+              "accuracy_drop": 33.33333333333333
+            },
+            "other_relevant_queries": {
+              "total": 4507,
+              "correct_before": 4507,
+              "correct_after": 3411,
+              "accuracy_before": 100.0,
+              "accuracy_after": 75.68227202130021,
+              "accuracy_drop": 24.3177279786998
+            },
+            "queries_changed": {
+              "target_changed": 5,
+              "other_changed": 1237
+            },
+            "execution_time": 13.916077375411987
+          }
+        },
+        "0.2": {
+          "zero_out": {
+            "target_queries": {
+              "total": 15,
+              "correct_before": 15,
+              "correct_after": 2,
+              "accuracy_before": 100.0,
+              "accuracy_after": 13.333333333333334,
+              "accuracy_drop": 86.66666666666667
+            },
+            "other_queries": {
+              "total": 4507,
+              "correct_before": 4507,
+              "correct_after": 2456,
+              "accuracy_before": 100.0,
+              "accuracy_after": 54.49301087197692,
+              "accuracy_drop": 45.50698912802307
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 2458,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 18718,
+            "target_relevant_queries": {
+              "total": 15,
+              "correct_before": 15,
+              "correct_after": 2,
+              "accuracy_before": 100.0,
+              "accuracy_after": 13.333333333333334,
+              "accuracy_drop": 86.66666666666667
+            },
+            "other_relevant_queries": {
+              "total": 4507,
+              "correct_before": 4507,
+              "correct_after": 2576,
+              "accuracy_before": 100.0,
+              "accuracy_after": 57.15553583314844,
+              "accuracy_drop": 42.844464166851566
+            },
+            "queries_changed": {
+              "target_changed": 13,
+              "other_changed": 2051
+            },
+            "execution_time": 14.222629308700562
+          }
+        },
+        "0.25": {
+          "zero_out": {
+            "target_queries": {
+              "total": 15,
+              "correct_before": 15,
+              "correct_after": 0,
+              "accuracy_before": 100.0,
+              "accuracy_after": 0.0,
+              "accuracy_drop": 100.0
+            },
+            "other_queries": {
+              "total": 4507,
+              "correct_before": 4507,
+              "correct_after": 2147,
+              "accuracy_before": 100.0,
+              "accuracy_after": 47.637009096960284,
+              "accuracy_drop": 52.362990903039716
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 2147,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 19087,
+            "target_relevant_queries": {
+              "total": 15,
+              "correct_before": 15,
+              "correct_after": 0,
+              "accuracy_before": 100.0,
+              "accuracy_after": 0.0,
+              "accuracy_drop": 100.0
+            },
+            "other_relevant_queries": {
+              "total": 4507,
+              "correct_before": 4507,
+              "correct_after": 2256,
+              "accuracy_before": 100.0,
+              "accuracy_after": 50.05546927002441,
+              "accuracy_drop": 49.9445307299756
+            },
+            "queries_changed": {
+              "target_changed": 15,
+              "other_changed": 2360
+            },
+            "execution_time": 14.344069480895996
+          }
+        },
+        "0.3": {
+          "zero_out": {
+            "target_queries": {
+              "total": 15,
+              "correct_before": 15,
+              "correct_after": 0,
+              "accuracy_before": 100.0,
+              "accuracy_after": 0.0,
+              "accuracy_drop": 100.0
+            },
+            "other_queries": {
+              "total": 4507,
+              "correct_before": 4507,
+              "correct_after": 2029,
+              "accuracy_before": 100.0,
+              "accuracy_after": 45.0188595518083,
+              "accuracy_drop": 54.9811404481917
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 2029,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 19194,
+            "target_relevant_queries": {
+              "total": 15,
+              "correct_before": 15,
+              "correct_after": 0,
+              "accuracy_before": 100.0,
+              "accuracy_after": 0.0,
+              "accuracy_drop": 100.0
+            },
+            "other_relevant_queries": {
+              "total": 4507,
+              "correct_before": 4507,
+              "correct_after": 2136,
+              "accuracy_before": 100.0,
+              "accuracy_after": 47.3929443088529,
+              "accuracy_drop": 52.60705569114711
+            },
+            "queries_changed": {
+              "target_changed": 15,
+              "other_changed": 2478
+            },
+            "execution_time": 14.370403289794922
+          }
+        }
+      },
+      "query_count": 229
+    },
+    "758": {
+      "document_id": 758,
+      "frequencies": {
+        "0.05": {
+          "zero_out": {
+            "target_queries": {
+              "total": 1,
+              "correct_before": 1,
+              "correct_after": 1,
+              "accuracy_before": 100.0,
+              "accuracy_after": 100.0,
+              "accuracy_drop": 0.0
+            },
+            "other_queries": {
+              "total": 4521,
+              "correct_before": 4521,
+              "correct_after": 4451,
+              "accuracy_before": 100.0,
+              "accuracy_after": 98.4516699845167,
+              "accuracy_drop": 1.5483300154833002
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 4452,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 1017,
+            "target_relevant_queries": {
+              "total": 1,
+              "correct_before": 1,
+              "correct_after": 1,
+              "accuracy_before": 100.0,
+              "accuracy_after": 100.0,
+              "accuracy_drop": 0.0
+            },
+            "other_relevant_queries": {
+              "total": 4521,
+              "correct_before": 4521,
+              "correct_after": 4465,
+              "accuracy_before": 100.0,
+              "accuracy_after": 98.76133598761336,
+              "accuracy_drop": 1.2386640123866401
+            },
+            "queries_changed": {
+              "target_changed": 0,
+              "other_changed": 70
+            },
+            "execution_time": 9.516475200653076
+          }
+        },
+        "0.1": {
+          "zero_out": {
+            "target_queries": {
+              "total": 1,
+              "correct_before": 1,
+              "correct_after": 1,
+              "accuracy_before": 100.0,
+              "accuracy_after": 100.0,
+              "accuracy_drop": 0.0
+            },
+            "other_queries": {
+              "total": 4521,
+              "correct_before": 4521,
+              "correct_after": 4345,
+              "accuracy_before": 100.0,
+              "accuracy_after": 96.10705596107056,
+              "accuracy_drop": 3.8929440389294405
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 4346,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 3083,
+            "target_relevant_queries": {
+              "total": 1,
+              "correct_before": 1,
+              "correct_after": 1,
+              "accuracy_before": 100.0,
+              "accuracy_after": 100.0,
+              "accuracy_drop": 0.0
+            },
+            "other_relevant_queries": {
+              "total": 4521,
+              "correct_before": 4521,
+              "correct_after": 4393,
+              "accuracy_before": 100.0,
+              "accuracy_after": 97.16876797168767,
+              "accuracy_drop": 2.8312320283123205
+            },
+            "queries_changed": {
+              "target_changed": 0,
+              "other_changed": 176
+            },
+            "execution_time": 9.938981533050537
+          }
+        },
+        "0.15": {
+          "zero_out": {
+            "target_queries": {
+              "total": 1,
+              "correct_before": 1,
+              "correct_after": 1,
+              "accuracy_before": 100.0,
+              "accuracy_after": 100.0,
+              "accuracy_drop": 0.0
+            },
+            "other_queries": {
+              "total": 4521,
+              "correct_before": 4521,
+              "correct_after": 4247,
+              "accuracy_before": 100.0,
+              "accuracy_after": 93.93939393939394,
+              "accuracy_drop": 6.0606060606060606
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 4248,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 4532,
+            "target_relevant_queries": {
+              "total": 1,
+              "correct_before": 1,
+              "correct_after": 1,
+              "accuracy_before": 100.0,
+              "accuracy_after": 100.0,
+              "accuracy_drop": 0.0
+            },
+            "other_relevant_queries": {
+              "total": 4521,
+              "correct_before": 4521,
+              "correct_after": 4316,
+              "accuracy_before": 100.0,
+              "accuracy_after": 95.46560495465604,
+              "accuracy_drop": 4.53439504534395
+            },
+            "queries_changed": {
+              "target_changed": 0,
+              "other_changed": 274
+            },
+            "execution_time": 10.331453084945679
+          }
+        },
+        "0.2": {
+          "zero_out": {
+            "target_queries": {
+              "total": 1,
+              "correct_before": 1,
+              "correct_after": 0,
+              "accuracy_before": 100.0,
+              "accuracy_after": 0.0,
+              "accuracy_drop": 100.0
+            },
+            "other_queries": {
+              "total": 4521,
+              "correct_before": 4521,
+              "correct_after": 4181,
+              "accuracy_before": 100.0,
+              "accuracy_after": 92.47953992479539,
+              "accuracy_drop": 7.520460075204601
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 4181,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 5133,
+            "target_relevant_queries": {
+              "total": 1,
+              "correct_before": 1,
+              "correct_after": 0,
+              "accuracy_before": 100.0,
+              "accuracy_after": 0.0,
+              "accuracy_drop": 100.0
+            },
+            "other_relevant_queries": {
+              "total": 4521,
+              "correct_before": 4521,
+              "correct_after": 4269,
+              "accuracy_before": 100.0,
+              "accuracy_after": 94.42601194426013,
+              "accuracy_drop": 5.57398805573988
+            },
+            "queries_changed": {
+              "target_changed": 1,
+              "other_changed": 340
+            },
+            "execution_time": 12.374552011489868
+          }
+        },
+        "0.25": {
+          "zero_out": {
+            "target_queries": {
+              "total": 1,
+              "correct_before": 1,
+              "correct_after": 0,
+              "accuracy_before": 100.0,
+              "accuracy_after": 0.0,
+              "accuracy_drop": 100.0
+            },
+            "other_queries": {
+              "total": 4521,
+              "correct_before": 4521,
+              "correct_after": 4177,
+              "accuracy_before": 100.0,
+              "accuracy_after": 92.39106392391065,
+              "accuracy_drop": 7.6089360760893605
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 4177,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 5323,
+            "target_relevant_queries": {
+              "total": 1,
+              "correct_before": 1,
+              "correct_after": 0,
+              "accuracy_before": 100.0,
+              "accuracy_after": 0.0,
+              "accuracy_drop": 100.0
+            },
+            "other_relevant_queries": {
+              "total": 4521,
+              "correct_before": 4521,
+              "correct_after": 4270,
+              "accuracy_before": 100.0,
+              "accuracy_after": 94.4481309444813,
+              "accuracy_drop": 5.551869055518691
+            },
+            "queries_changed": {
+              "target_changed": 1,
+              "other_changed": 344
+            },
+            "execution_time": 10.543305397033691
+          }
+        },
+        "0.3": {
+          "zero_out": {
+            "target_queries": {
+              "total": 1,
+              "correct_before": 1,
+              "correct_after": 0,
+              "accuracy_before": 100.0,
+              "accuracy_after": 0.0,
+              "accuracy_drop": 100.0
+            },
+            "other_queries": {
+              "total": 4521,
+              "correct_before": 4521,
+              "correct_after": 4159,
+              "accuracy_before": 100.0,
+              "accuracy_after": 91.99292191992922,
+              "accuracy_drop": 8.007078080070782
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 4159,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 5393,
+            "target_relevant_queries": {
+              "total": 1,
+              "correct_before": 1,
+              "correct_after": 0,
+              "accuracy_before": 100.0,
+              "accuracy_after": 0.0,
+              "accuracy_drop": 100.0
+            },
+            "other_relevant_queries": {
+              "total": 4521,
+              "correct_before": 4521,
+              "correct_after": 4253,
+              "accuracy_before": 100.0,
+              "accuracy_after": 94.07210794072108,
+              "accuracy_drop": 5.92789205927892
+            },
+            "queries_changed": {
+              "target_changed": 1,
+              "other_changed": 362
+            },
+            "execution_time": 10.565316915512085
+          }
+        }
+      },
+      "query_count": 0
+    },
+    "21404": {
+      "document_id": 21404,
+      "frequencies": {
+        "0.05": {
+          "zero_out": {
+            "target_queries": {
+              "total": 2,
+              "correct_before": 2,
+              "correct_after": 2,
+              "accuracy_before": 100.0,
+              "accuracy_after": 100.0,
+              "accuracy_drop": 0.0
+            },
+            "other_queries": {
+              "total": 4520,
+              "correct_before": 4520,
+              "correct_after": 4452,
+              "accuracy_before": 100.0,
+              "accuracy_after": 98.49557522123894,
+              "accuracy_drop": 1.5044247787610618
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 4454,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 1140,
+            "target_relevant_queries": {
+              "total": 2,
+              "correct_before": 2,
+              "correct_after": 2,
+              "accuracy_before": 100.0,
+              "accuracy_after": 100.0,
+              "accuracy_drop": 0.0
+            },
+            "other_relevant_queries": {
+              "total": 4520,
+              "correct_before": 4520,
+              "correct_after": 4463,
+              "accuracy_before": 100.0,
+              "accuracy_after": 98.73893805309734,
+              "accuracy_drop": 1.261061946902655
+            },
+            "queries_changed": {
+              "target_changed": 0,
+              "other_changed": 68
+            },
+            "execution_time": 9.515566110610962
+          }
+        },
+        "0.1": {
+          "zero_out": {
+            "target_queries": {
+              "total": 2,
+              "correct_before": 2,
+              "correct_after": 2,
+              "accuracy_before": 100.0,
+              "accuracy_after": 100.0,
+              "accuracy_drop": 0.0
+            },
+            "other_queries": {
+              "total": 4520,
+              "correct_before": 4520,
+              "correct_after": 4328,
+              "accuracy_before": 100.0,
+              "accuracy_after": 95.75221238938053,
+              "accuracy_drop": 4.2477876106194685
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 4330,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 3358,
+            "target_relevant_queries": {
+              "total": 2,
+              "correct_before": 2,
+              "correct_after": 2,
+              "accuracy_before": 100.0,
+              "accuracy_after": 100.0,
+              "accuracy_drop": 0.0
+            },
+            "other_relevant_queries": {
+              "total": 4520,
+              "correct_before": 4520,
+              "correct_after": 4374,
+              "accuracy_before": 100.0,
+              "accuracy_after": 96.76991150442478,
+              "accuracy_drop": 3.2300884955752216
+            },
+            "queries_changed": {
+              "target_changed": 0,
+              "other_changed": 192
+            },
+            "execution_time": 10.009310722351074
+          }
+        },
+        "0.15": {
+          "zero_out": {
+            "target_queries": {
+              "total": 2,
+              "correct_before": 2,
+              "correct_after": 2,
+              "accuracy_before": 100.0,
+              "accuracy_after": 100.0,
+              "accuracy_drop": 0.0
+            },
+            "other_queries": {
+              "total": 4520,
+              "correct_before": 4520,
+              "correct_after": 4259,
+              "accuracy_before": 100.0,
+              "accuracy_after": 94.22566371681415,
+              "accuracy_drop": 5.774336283185841
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 4261,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 4878,
+            "target_relevant_queries": {
+              "total": 2,
+              "correct_before": 2,
+              "correct_after": 2,
+              "accuracy_before": 100.0,
+              "accuracy_after": 100.0,
+              "accuracy_drop": 0.0
+            },
+            "other_relevant_queries": {
+              "total": 4520,
+              "correct_before": 4520,
+              "correct_after": 4324,
+              "accuracy_before": 100.0,
+              "accuracy_after": 95.6637168141593,
+              "accuracy_drop": 4.336283185840708
+            },
+            "queries_changed": {
+              "target_changed": 0,
+              "other_changed": 261
+            },
+            "execution_time": 10.430717468261719
+          }
+        },
+        "0.2": {
+          "zero_out": {
+            "target_queries": {
+              "total": 2,
+              "correct_before": 2,
+              "correct_after": 1,
+              "accuracy_before": 100.0,
+              "accuracy_after": 50.0,
+              "accuracy_drop": 50.0
+            },
+            "other_queries": {
+              "total": 4520,
+              "correct_before": 4520,
+              "correct_after": 4189,
+              "accuracy_before": 100.0,
+              "accuracy_after": 92.67699115044248,
+              "accuracy_drop": 7.323008849557522
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 4190,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 5530,
+            "target_relevant_queries": {
+              "total": 2,
+              "correct_before": 2,
+              "correct_after": 1,
+              "accuracy_before": 100.0,
+              "accuracy_after": 50.0,
+              "accuracy_drop": 50.0
+            },
+            "other_relevant_queries": {
+              "total": 4520,
+              "correct_before": 4520,
+              "correct_after": 4278,
+              "accuracy_before": 100.0,
+              "accuracy_after": 94.64601769911505,
+              "accuracy_drop": 5.353982300884956
+            },
+            "queries_changed": {
+              "target_changed": 1,
+              "other_changed": 331
+            },
+            "execution_time": 10.597229480743408
+          }
+        },
+        "0.25": {
+          "zero_out": {
+            "target_queries": {
+              "total": 2,
+              "correct_before": 2,
+              "correct_after": 1,
+              "accuracy_before": 100.0,
+              "accuracy_after": 50.0,
+              "accuracy_drop": 50.0
+            },
+            "other_queries": {
+              "total": 4520,
+              "correct_before": 4520,
+              "correct_after": 4169,
+              "accuracy_before": 100.0,
+              "accuracy_after": 92.23451327433628,
+              "accuracy_drop": 7.765486725663717
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 4170,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 5738,
+            "target_relevant_queries": {
+              "total": 2,
+              "correct_before": 2,
+              "correct_after": 1,
+              "accuracy_before": 100.0,
+              "accuracy_after": 50.0,
+              "accuracy_drop": 50.0
+            },
+            "other_relevant_queries": {
+              "total": 4520,
+              "correct_before": 4520,
+              "correct_after": 4256,
+              "accuracy_before": 100.0,
+              "accuracy_after": 94.15929203539824,
+              "accuracy_drop": 5.84070796460177
+            },
+            "queries_changed": {
+              "target_changed": 1,
+              "other_changed": 351
+            },
+            "execution_time": 10.659438133239746
+          }
+        },
+        "0.3": {
+          "zero_out": {
+            "target_queries": {
+              "total": 2,
+              "correct_before": 2,
+              "correct_after": 0,
+              "accuracy_before": 100.0,
+              "accuracy_after": 0.0,
+              "accuracy_drop": 100.0
+            },
+            "other_queries": {
+              "total": 4520,
+              "correct_before": 4520,
+              "correct_after": 4168,
+              "accuracy_before": 100.0,
+              "accuracy_after": 92.21238938053096,
+              "accuracy_drop": 7.787610619469026
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 4168,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 5803,
+            "target_relevant_queries": {
+              "total": 2,
+              "correct_before": 2,
+              "correct_after": 0,
+              "accuracy_before": 100.0,
+              "accuracy_after": 0.0,
+              "accuracy_drop": 100.0
+            },
+            "other_relevant_queries": {
+              "total": 4520,
+              "correct_before": 4520,
+              "correct_after": 4263,
+              "accuracy_before": 100.0,
+              "accuracy_after": 94.3141592920354,
+              "accuracy_drop": 5.685840707964602
+            },
+            "queries_changed": {
+              "target_changed": 2,
+              "other_changed": 352
+            },
+            "execution_time": 10.669591665267944
+          }
+        }
+      },
+      "query_count": 0
+    },
+    "9701": {
+      "document_id": 9701,
+      "frequencies": {
+        "0.05": {
+          "zero_out": {
+            "target_queries": {
+              "total": 7,
+              "correct_before": 7,
+              "correct_after": 6,
+              "accuracy_before": 100.0,
+              "accuracy_after": 85.71428571428571,
+              "accuracy_drop": 14.285714285714285
+            },
+            "other_queries": {
+              "total": 4515,
+              "correct_before": 4515,
+              "correct_after": 4354,
+              "accuracy_before": 100.0,
+              "accuracy_after": 96.43410852713178,
+              "accuracy_drop": 3.565891472868217
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 4360,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 3868,
+            "target_relevant_queries": {
+              "total": 7,
+              "correct_before": 7,
+              "correct_after": 6,
+              "accuracy_before": 100.0,
+              "accuracy_after": 85.71428571428571,
+              "accuracy_drop": 14.285714285714285
+            },
+            "other_relevant_queries": {
+              "total": 4515,
+              "correct_before": 4515,
+              "correct_after": 4388,
+              "accuracy_before": 100.0,
+              "accuracy_after": 97.18715393133998,
+              "accuracy_drop": 2.812846068660022
+            },
+            "queries_changed": {
+              "target_changed": 1,
+              "other_changed": 161
+            },
+            "execution_time": 10.196521043777466
+          }
+        },
+        "0.1": {
+          "zero_out": {
+            "target_queries": {
+              "total": 7,
+              "correct_before": 7,
+              "correct_after": 4,
+              "accuracy_before": 100.0,
+              "accuracy_after": 57.14285714285714,
+              "accuracy_drop": 42.857142857142854
+            },
+            "other_queries": {
+              "total": 4515,
+              "correct_before": 4515,
+              "correct_after": 4081,
+              "accuracy_before": 100.0,
+              "accuracy_after": 90.3875968992248,
+              "accuracy_drop": 9.612403100775193
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 4085,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 9460,
+            "target_relevant_queries": {
+              "total": 7,
+              "correct_before": 7,
+              "correct_after": 4,
+              "accuracy_before": 100.0,
+              "accuracy_after": 57.14285714285714,
+              "accuracy_drop": 42.857142857142854
+            },
+            "other_relevant_queries": {
+              "total": 4515,
+              "correct_before": 4515,
+              "correct_after": 4175,
+              "accuracy_before": 100.0,
+              "accuracy_after": 92.46954595791806,
+              "accuracy_drop": 7.530454042081949
+            },
+            "queries_changed": {
+              "target_changed": 3,
+              "other_changed": 434
+            },
+            "execution_time": 11.693512201309204
+          }
+        },
+        "0.15": {
+          "zero_out": {
+            "target_queries": {
+              "total": 7,
+              "correct_before": 7,
+              "correct_after": 0,
+              "accuracy_before": 100.0,
+              "accuracy_after": 0.0,
+              "accuracy_drop": 100.0
+            },
+            "other_queries": {
+              "total": 4515,
+              "correct_before": 4515,
+              "correct_after": 3841,
+              "accuracy_before": 100.0,
+              "accuracy_after": 85.0719822812846,
+              "accuracy_drop": 14.928017718715395
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 3841,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 12498,
+            "target_relevant_queries": {
+              "total": 7,
+              "correct_before": 7,
+              "correct_after": 0,
+              "accuracy_before": 100.0,
+              "accuracy_after": 0.0,
+              "accuracy_drop": 100.0
+            },
+            "other_relevant_queries": {
+              "total": 4515,
+              "correct_before": 4515,
+              "correct_after": 3954,
+              "accuracy_before": 100.0,
+              "accuracy_after": 87.57475083056478,
+              "accuracy_drop": 12.425249169435217
+            },
+            "queries_changed": {
+              "target_changed": 7,
+              "other_changed": 674
+            },
+            "execution_time": 12.507815837860107
+          }
+        },
+        "0.2": {
+          "zero_out": {
+            "target_queries": {
+              "total": 7,
+              "correct_before": 7,
+              "correct_after": 0,
+              "accuracy_before": 100.0,
+              "accuracy_after": 0.0,
+              "accuracy_drop": 100.0
+            },
+            "other_queries": {
+              "total": 4515,
+              "correct_before": 4515,
+              "correct_after": 3644,
+              "accuracy_before": 100.0,
+              "accuracy_after": 80.70874861572536,
+              "accuracy_drop": 19.29125138427464
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 3644,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 13567,
+            "target_relevant_queries": {
+              "total": 7,
+              "correct_before": 7,
+              "correct_after": 0,
+              "accuracy_before": 100.0,
+              "accuracy_after": 0.0,
+              "accuracy_drop": 100.0
+            },
+            "other_relevant_queries": {
+              "total": 4515,
+              "correct_before": 4515,
+              "correct_after": 3769,
+              "accuracy_before": 100.0,
+              "accuracy_after": 83.47729789590255,
+              "accuracy_drop": 16.522702104097455
+            },
+            "queries_changed": {
+              "target_changed": 7,
+              "other_changed": 871
+            },
+            "execution_time": 12.784213304519653
+          }
+        },
+        "0.25": {
+          "zero_out": {
+            "target_queries": {
+              "total": 7,
+              "correct_before": 7,
+              "correct_after": 0,
+              "accuracy_before": 100.0,
+              "accuracy_after": 0.0,
+              "accuracy_drop": 100.0
+            },
+            "other_queries": {
+              "total": 4515,
+              "correct_before": 4515,
+              "correct_after": 3572,
+              "accuracy_before": 100.0,
+              "accuracy_after": 79.11406423034329,
+              "accuracy_drop": 20.8859357696567
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 3572,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 13890,
+            "target_relevant_queries": {
+              "total": 7,
+              "correct_before": 7,
+              "correct_after": 0,
+              "accuracy_before": 100.0,
+              "accuracy_after": 0.0,
+              "accuracy_drop": 100.0
+            },
+            "other_relevant_queries": {
+              "total": 4515,
+              "correct_before": 4515,
+              "correct_after": 3706,
+              "accuracy_before": 100.0,
+              "accuracy_after": 82.08194905869325,
+              "accuracy_drop": 17.918050941306753
+            },
+            "queries_changed": {
+              "target_changed": 7,
+              "other_changed": 943
+            },
+            "execution_time": 12.93634843826294
+          }
+        },
+        "0.3": {
+          "zero_out": {
+            "target_queries": {
+              "total": 7,
+              "correct_before": 7,
+              "correct_after": 0,
+              "accuracy_before": 100.0,
+              "accuracy_after": 0.0,
+              "accuracy_drop": 100.0
+            },
+            "other_queries": {
+              "total": 4515,
+              "correct_before": 4515,
+              "correct_after": 3527,
+              "accuracy_before": 100.0,
+              "accuracy_after": 78.11738648947951,
+              "accuracy_drop": 21.88261351052049
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 3527,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 13990,
+            "target_relevant_queries": {
+              "total": 7,
+              "correct_before": 7,
+              "correct_after": 0,
+              "accuracy_before": 100.0,
+              "accuracy_after": 0.0,
+              "accuracy_drop": 100.0
+            },
+            "other_relevant_queries": {
+              "total": 4515,
+              "correct_before": 4515,
+              "correct_after": 3658,
+              "accuracy_before": 100.0,
+              "accuracy_after": 81.0188261351052,
+              "accuracy_drop": 18.981173864894796
+            },
+            "queries_changed": {
+              "target_changed": 7,
+              "other_changed": 988
+            },
+            "execution_time": 12.920140981674194
+          }
+        }
+      },
+      "query_count": 76
+    },
+    "9615": {
+      "document_id": 9615,
+      "frequencies": {
+        "0.05": {
+          "zero_out": {
+            "target_queries": {
+              "total": 4,
+              "correct_before": 4,
+              "correct_after": 4,
+              "accuracy_before": 100.0,
+              "accuracy_after": 100.0,
+              "accuracy_drop": 0.0
+            },
+            "other_queries": {
+              "total": 4518,
+              "correct_before": 4518,
+              "correct_after": 4369,
+              "accuracy_before": 100.0,
+              "accuracy_after": 96.7020805666224,
+              "accuracy_drop": 3.297919433377601
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 4373,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 3587,
+            "target_relevant_queries": {
+              "total": 4,
+              "correct_before": 4,
+              "correct_after": 4,
+              "accuracy_before": 100.0,
+              "accuracy_after": 100.0,
+              "accuracy_drop": 0.0
+            },
+            "other_relevant_queries": {
+              "total": 4518,
+              "correct_before": 4518,
+              "correct_after": 4407,
+              "accuracy_before": 100.0,
+              "accuracy_after": 97.54316069057106,
+              "accuracy_drop": 2.456839309428951
+            },
+            "queries_changed": {
+              "target_changed": 0,
+              "other_changed": 149
+            },
+            "execution_time": 10.108116388320923
+          }
+        },
+        "0.1": {
+          "zero_out": {
+            "target_queries": {
+              "total": 4,
+              "correct_before": 4,
+              "correct_after": 3,
+              "accuracy_before": 100.0,
+              "accuracy_after": 75.0,
+              "accuracy_drop": 25.0
+            },
+            "other_queries": {
+              "total": 4518,
+              "correct_before": 4518,
+              "correct_after": 4134,
+              "accuracy_before": 100.0,
+              "accuracy_after": 91.50066401062416,
+              "accuracy_drop": 8.49933598937583
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 4137,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 8402,
+            "target_relevant_queries": {
+              "total": 4,
+              "correct_before": 4,
+              "correct_after": 3,
+              "accuracy_before": 100.0,
+              "accuracy_after": 75.0,
+              "accuracy_drop": 25.0
+            },
+            "other_relevant_queries": {
+              "total": 4518,
+              "correct_before": 4518,
+              "correct_after": 4227,
+              "accuracy_before": 100.0,
+              "accuracy_after": 93.55909694555112,
+              "accuracy_drop": 6.440903054448871
+            },
+            "queries_changed": {
+              "target_changed": 1,
+              "other_changed": 384
+            },
+            "execution_time": 11.409101724624634
+          }
+        },
+        "0.15": {
+          "zero_out": {
+            "target_queries": {
+              "total": 4,
+              "correct_before": 4,
+              "correct_after": 2,
+              "accuracy_before": 100.0,
+              "accuracy_after": 50.0,
+              "accuracy_drop": 50.0
+            },
+            "other_queries": {
+              "total": 4518,
+              "correct_before": 4518,
+              "correct_after": 3950,
+              "accuracy_before": 100.0,
+              "accuracy_after": 87.42806551571492,
+              "accuracy_drop": 12.571934484285082
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 3952,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 10976,
+            "target_relevant_queries": {
+              "total": 4,
+              "correct_before": 4,
+              "correct_after": 2,
+              "accuracy_before": 100.0,
+              "accuracy_after": 50.0,
+              "accuracy_drop": 50.0
+            },
+            "other_relevant_queries": {
+              "total": 4518,
+              "correct_before": 4518,
+              "correct_after": 4067,
+              "accuracy_before": 100.0,
+              "accuracy_after": 90.01770694997788,
+              "accuracy_drop": 9.982293050022134
+            },
+            "queries_changed": {
+              "target_changed": 2,
+              "other_changed": 568
+            },
+            "execution_time": 12.105172872543335
+          }
+        },
+        "0.2": {
+          "zero_out": {
+            "target_queries": {
+              "total": 4,
+              "correct_before": 4,
+              "correct_after": 0,
+              "accuracy_before": 100.0,
+              "accuracy_after": 0.0,
+              "accuracy_drop": 100.0
+            },
+            "other_queries": {
+              "total": 4518,
+              "correct_before": 4518,
+              "correct_after": 3807,
+              "accuracy_before": 100.0,
+              "accuracy_after": 84.26294820717132,
+              "accuracy_drop": 15.737051792828685
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 3807,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 11906,
+            "target_relevant_queries": {
+              "total": 4,
+              "correct_before": 4,
+              "correct_after": 0,
+              "accuracy_before": 100.0,
+              "accuracy_after": 0.0,
+              "accuracy_drop": 100.0
+            },
+            "other_relevant_queries": {
+              "total": 4518,
+              "correct_before": 4518,
+              "correct_after": 3935,
+              "accuracy_before": 100.0,
+              "accuracy_after": 87.09606020362992,
+              "accuracy_drop": 12.903939796370075
+            },
+            "queries_changed": {
+              "target_changed": 4,
+              "other_changed": 711
+            },
+            "execution_time": 12.346532344818115
+          }
+        },
+        "0.25": {
+          "zero_out": {
+            "target_queries": {
+              "total": 4,
+              "correct_before": 4,
+              "correct_after": 0,
+              "accuracy_before": 100.0,
+              "accuracy_after": 0.0,
+              "accuracy_drop": 100.0
+            },
+            "other_queries": {
+              "total": 4518,
+              "correct_before": 4518,
+              "correct_after": 3751,
+              "accuracy_before": 100.0,
+              "accuracy_after": 83.02346170872067,
+              "accuracy_drop": 16.97653829127933
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 3751,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 12182,
+            "target_relevant_queries": {
+              "total": 4,
+              "correct_before": 4,
+              "correct_after": 0,
+              "accuracy_before": 100.0,
+              "accuracy_after": 0.0,
+              "accuracy_drop": 100.0
+            },
+            "other_relevant_queries": {
+              "total": 4518,
+              "correct_before": 4518,
+              "correct_after": 3879,
+              "accuracy_before": 100.0,
+              "accuracy_after": 85.85657370517929,
+              "accuracy_drop": 14.143426294820719
+            },
+            "queries_changed": {
+              "target_changed": 4,
+              "other_changed": 767
+            },
+            "execution_time": 12.42571234703064
+          }
+        },
+        "0.3": {
+          "zero_out": {
+            "target_queries": {
+              "total": 4,
+              "correct_before": 4,
+              "correct_after": 0,
+              "accuracy_before": 100.0,
+              "accuracy_after": 0.0,
+              "accuracy_drop": 100.0
+            },
+            "other_queries": {
+              "total": 4518,
+              "correct_before": 4518,
+              "correct_after": 3723,
+              "accuracy_before": 100.0,
+              "accuracy_after": 82.40371845949535,
+              "accuracy_drop": 17.59628154050465
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 3723,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 12273,
+            "target_relevant_queries": {
+              "total": 4,
+              "correct_before": 4,
+              "correct_after": 0,
+              "accuracy_before": 100.0,
+              "accuracy_after": 0.0,
+              "accuracy_drop": 100.0
+            },
+            "other_relevant_queries": {
+              "total": 4518,
+              "correct_before": 4518,
+              "correct_after": 3851,
+              "accuracy_before": 100.0,
+              "accuracy_after": 85.23683045595396,
+              "accuracy_drop": 14.763169544046036
+            },
+            "queries_changed": {
+              "target_changed": 4,
+              "other_changed": 795
+            },
+            "execution_time": 12.454485416412354
+          }
+        }
+      },
+      "query_count": 38
+    },
+    "8026": {
+      "document_id": 8026,
+      "frequencies": {
+        "0.05": {
+          "zero_out": {
+            "target_queries": {
+              "total": 3,
+              "correct_before": 3,
+              "correct_after": 2,
+              "accuracy_before": 100.0,
+              "accuracy_after": 66.66666666666666,
+              "accuracy_drop": 33.33333333333333
+            },
+            "other_queries": {
+              "total": 4519,
+              "correct_before": 4519,
+              "correct_after": 4457,
+              "accuracy_before": 100.0,
+              "accuracy_after": 98.6280150475769,
+              "accuracy_drop": 1.3719849524231025
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 4459,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 818,
+            "target_relevant_queries": {
+              "total": 3,
+              "correct_before": 3,
+              "correct_after": 3,
+              "accuracy_before": 100.0,
+              "accuracy_after": 100.0,
+              "accuracy_drop": 0.0
+            },
+            "other_relevant_queries": {
+              "total": 4519,
+              "correct_before": 4519,
+              "correct_after": 4475,
+              "accuracy_before": 100.0,
+              "accuracy_after": 99.02633325957069,
+              "accuracy_drop": 0.9736667404292986
+            },
+            "queries_changed": {
+              "target_changed": 1,
+              "other_changed": 62
+            },
+            "execution_time": 9.502062320709229
+          }
+        },
+        "0.1": {
+          "zero_out": {
+            "target_queries": {
+              "total": 3,
+              "correct_before": 3,
+              "correct_after": 1,
+              "accuracy_before": 100.0,
+              "accuracy_after": 33.33333333333333,
+              "accuracy_drop": 66.66666666666666
+            },
+            "other_queries": {
+              "total": 4519,
+              "correct_before": 4519,
+              "correct_after": 4357,
+              "accuracy_before": 100.0,
+              "accuracy_after": 96.41513609205576,
+              "accuracy_drop": 3.5848639079442357
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 4358,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 2395,
+            "target_relevant_queries": {
+              "total": 3,
+              "correct_before": 3,
+              "correct_after": 3,
+              "accuracy_before": 100.0,
+              "accuracy_after": 100.0,
+              "accuracy_drop": 0.0
+            },
+            "other_relevant_queries": {
+              "total": 4519,
+              "correct_before": 4519,
+              "correct_after": 4400,
+              "accuracy_before": 100.0,
+              "accuracy_after": 97.36667404292986,
+              "accuracy_drop": 2.6333259570701486
+            },
+            "queries_changed": {
+              "target_changed": 2,
+              "other_changed": 162
+            },
+            "execution_time": 9.744213104248047
+          }
+        },
+        "0.15": {
+          "zero_out": {
+            "target_queries": {
+              "total": 3,
+              "correct_before": 3,
+              "correct_after": 0,
+              "accuracy_before": 100.0,
+              "accuracy_after": 0.0,
+              "accuracy_drop": 100.0
+            },
+            "other_queries": {
+              "total": 4519,
+              "correct_before": 4519,
+              "correct_after": 4278,
+              "accuracy_before": 100.0,
+              "accuracy_after": 94.66696171719407,
+              "accuracy_drop": 5.333038282805931
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 4278,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 3476,
+            "target_relevant_queries": {
+              "total": 3,
+              "correct_before": 3,
+              "correct_after": 0,
+              "accuracy_before": 100.0,
+              "accuracy_after": 0.0,
+              "accuracy_drop": 100.0
+            },
+            "other_relevant_queries": {
+              "total": 4519,
+              "correct_before": 4519,
+              "correct_after": 4338,
+              "accuracy_before": 100.0,
+              "accuracy_after": 95.99468909050674,
+              "accuracy_drop": 4.005310909493251
+            },
+            "queries_changed": {
+              "target_changed": 3,
+              "other_changed": 241
+            },
+            "execution_time": 10.060338973999023
+          }
+        },
+        "0.2": {
+          "zero_out": {
+            "target_queries": {
+              "total": 3,
+              "correct_before": 3,
+              "correct_after": 0,
+              "accuracy_before": 100.0,
+              "accuracy_after": 0.0,
+              "accuracy_drop": 100.0
+            },
+            "other_queries": {
+              "total": 4519,
+              "correct_before": 4519,
+              "correct_after": 4233,
+              "accuracy_before": 100.0,
+              "accuracy_after": 93.67116618720956,
+              "accuracy_drop": 6.328833812790441
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 4233,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 3923,
+            "target_relevant_queries": {
+              "total": 3,
+              "correct_before": 3,
+              "correct_after": 0,
+              "accuracy_before": 100.0,
+              "accuracy_after": 0.0,
+              "accuracy_drop": 100.0
+            },
+            "other_relevant_queries": {
+              "total": 4519,
+              "correct_before": 4519,
+              "correct_after": 4305,
+              "accuracy_before": 100.0,
+              "accuracy_after": 95.26443903518478,
+              "accuracy_drop": 4.735560964815225
+            },
+            "queries_changed": {
+              "target_changed": 3,
+              "other_changed": 286
+            },
+            "execution_time": 14.00357985496521
+          }
+        },
+        "0.25": {
+          "zero_out": {
+            "target_queries": {
+              "total": 3,
+              "correct_before": 3,
+              "correct_after": 0,
+              "accuracy_before": 100.0,
+              "accuracy_after": 0.0,
+              "accuracy_drop": 100.0
+            },
+            "other_queries": {
+              "total": 4519,
+              "correct_before": 4519,
+              "correct_after": 4228,
+              "accuracy_before": 100.0,
+              "accuracy_after": 93.56052223943351,
+              "accuracy_drop": 6.439477760566498
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 4228,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 4092,
+            "target_relevant_queries": {
+              "total": 3,
+              "correct_before": 3,
+              "correct_after": 0,
+              "accuracy_before": 100.0,
+              "accuracy_after": 0.0,
+              "accuracy_drop": 100.0
+            },
+            "other_relevant_queries": {
+              "total": 4519,
+              "correct_before": 4519,
+              "correct_after": 4299,
+              "accuracy_before": 100.0,
+              "accuracy_after": 95.13166629785351,
+              "accuracy_drop": 4.868333702146493
+            },
+            "queries_changed": {
+              "target_changed": 3,
+              "other_changed": 291
+            },
+            "execution_time": 10.242669582366943
+          }
+        },
+        "0.3": {
+          "zero_out": {
+            "target_queries": {
+              "total": 3,
+              "correct_before": 3,
+              "correct_after": 0,
+              "accuracy_before": 100.0,
+              "accuracy_after": 0.0,
+              "accuracy_drop": 100.0
+            },
+            "other_queries": {
+              "total": 4519,
+              "correct_before": 4519,
+              "correct_after": 4211,
+              "accuracy_before": 100.0,
+              "accuracy_after": 93.18433281699491,
+              "accuracy_drop": 6.815667183005089
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 4211,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 4132,
+            "target_relevant_queries": {
+              "total": 3,
+              "correct_before": 3,
+              "correct_after": 0,
+              "accuracy_before": 100.0,
+              "accuracy_after": 0.0,
+              "accuracy_drop": 100.0
+            },
+            "other_relevant_queries": {
+              "total": 4519,
+              "correct_before": 4519,
+              "correct_after": 4289,
+              "accuracy_before": 100.0,
+              "accuracy_after": 94.9103784023014,
+              "accuracy_drop": 5.0896215976986054
+            },
+            "queries_changed": {
+              "target_changed": 3,
+              "other_changed": 308
+            },
+            "execution_time": 10.24238657951355
+          }
+        }
+      },
+      "query_count": 0
+    },
+    "71386": {
+      "document_id": 71386,
+      "frequencies": {
+        "0.05": {
+          "zero_out": {
+            "target_queries": {
+              "total": 22,
+              "correct_before": 22,
+              "correct_after": 22,
+              "accuracy_before": 100.0,
+              "accuracy_after": 100.0,
+              "accuracy_drop": 0.0
+            },
+            "other_queries": {
+              "total": 4500,
+              "correct_before": 4500,
+              "correct_after": 4291,
+              "accuracy_before": 100.0,
+              "accuracy_after": 95.35555555555555,
+              "accuracy_drop": 4.644444444444444
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 4313,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 5944,
+            "target_relevant_queries": {
+              "total": 22,
+              "correct_before": 22,
+              "correct_after": 22,
+              "accuracy_before": 100.0,
+              "accuracy_after": 100.0,
+              "accuracy_drop": 0.0
+            },
+            "other_relevant_queries": {
+              "total": 4500,
+              "correct_before": 4500,
+              "correct_after": 4337,
+              "accuracy_before": 100.0,
+              "accuracy_after": 96.37777777777778,
+              "accuracy_drop": 3.6222222222222227
+            },
+            "queries_changed": {
+              "target_changed": 0,
+              "other_changed": 209
+            },
+            "execution_time": 10.82194209098816
+          }
+        },
+        "0.1": {
+          "zero_out": {
+            "target_queries": {
+              "total": 22,
+              "correct_before": 22,
+              "correct_after": 22,
+              "accuracy_before": 100.0,
+              "accuracy_after": 100.0,
+              "accuracy_drop": 0.0
+            },
+            "other_queries": {
+              "total": 4500,
+              "correct_before": 4500,
+              "correct_after": 3931,
+              "accuracy_before": 100.0,
+              "accuracy_after": 87.35555555555555,
+              "accuracy_drop": 12.644444444444444
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 3953,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 13252,
+            "target_relevant_queries": {
+              "total": 22,
+              "correct_before": 22,
+              "correct_after": 22,
+              "accuracy_before": 100.0,
+              "accuracy_after": 100.0,
+              "accuracy_drop": 0.0
+            },
+            "other_relevant_queries": {
+              "total": 4500,
+              "correct_before": 4500,
+              "correct_after": 4054,
+              "accuracy_before": 100.0,
+              "accuracy_after": 90.08888888888889,
+              "accuracy_drop": 9.911111111111111
+            },
+            "queries_changed": {
+              "target_changed": 0,
+              "other_changed": 569
+            },
+            "execution_time": 12.795778036117554
+          }
+        },
+        "0.15": {
+          "zero_out": {
+            "target_queries": {
+              "total": 22,
+              "correct_before": 22,
+              "correct_after": 14,
+              "accuracy_before": 100.0,
+              "accuracy_after": 63.63636363636363,
+              "accuracy_drop": 36.36363636363637
+            },
+            "other_queries": {
+              "total": 4500,
+              "correct_before": 4500,
+              "correct_after": 3528,
+              "accuracy_before": 100.0,
+              "accuracy_after": 78.4,
+              "accuracy_drop": 21.6
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 3542,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 16925,
+            "target_relevant_queries": {
+              "total": 22,
+              "correct_before": 22,
+              "correct_after": 14,
+              "accuracy_before": 100.0,
+              "accuracy_after": 63.63636363636363,
+              "accuracy_drop": 36.36363636363637
+            },
+            "other_relevant_queries": {
+              "total": 4500,
+              "correct_before": 4500,
+              "correct_after": 3694,
+              "accuracy_before": 100.0,
+              "accuracy_after": 82.08888888888889,
+              "accuracy_drop": 17.91111111111111
+            },
+            "queries_changed": {
+              "target_changed": 8,
+              "other_changed": 972
+            },
+            "execution_time": 13.76966142654419
+          }
+        },
+        "0.2": {
+          "zero_out": {
+            "target_queries": {
+              "total": 22,
+              "correct_before": 22,
+              "correct_after": 3,
+              "accuracy_before": 100.0,
+              "accuracy_after": 13.636363636363635,
+              "accuracy_drop": 86.36363636363636
+            },
+            "other_queries": {
+              "total": 4500,
+              "correct_before": 4500,
+              "correct_after": 3132,
+              "accuracy_before": 100.0,
+              "accuracy_after": 69.6,
+              "accuracy_drop": 30.4
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 3135,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 18156,
+            "target_relevant_queries": {
+              "total": 22,
+              "correct_before": 22,
+              "correct_after": 3,
+              "accuracy_before": 100.0,
+              "accuracy_after": 13.636363636363635,
+              "accuracy_drop": 86.36363636363636
+            },
+            "other_relevant_queries": {
+              "total": 4500,
+              "correct_before": 4500,
+              "correct_after": 3269,
+              "accuracy_before": 100.0,
+              "accuracy_after": 72.64444444444445,
+              "accuracy_drop": 27.355555555555554
+            },
+            "queries_changed": {
+              "target_changed": 19,
+              "other_changed": 1368
+            },
+            "execution_time": 14.111788988113403
+          }
+        },
+        "0.25": {
+          "zero_out": {
+            "target_queries": {
+              "total": 22,
+              "correct_before": 22,
+              "correct_after": 1,
+              "accuracy_before": 100.0,
+              "accuracy_after": 4.545454545454546,
+              "accuracy_drop": 95.45454545454545
+            },
+            "other_queries": {
+              "total": 4500,
+              "correct_before": 4500,
+              "correct_after": 2900,
+              "accuracy_before": 100.0,
+              "accuracy_after": 64.44444444444444,
+              "accuracy_drop": 35.55555555555556
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 2901,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 18512,
+            "target_relevant_queries": {
+              "total": 22,
+              "correct_before": 22,
+              "correct_after": 1,
+              "accuracy_before": 100.0,
+              "accuracy_after": 4.545454545454546,
+              "accuracy_drop": 95.45454545454545
+            },
+            "other_relevant_queries": {
+              "total": 4500,
+              "correct_before": 4500,
+              "correct_after": 3040,
+              "accuracy_before": 100.0,
+              "accuracy_after": 67.55555555555556,
+              "accuracy_drop": 32.44444444444444
+            },
+            "queries_changed": {
+              "target_changed": 21,
+              "other_changed": 1600
+            },
+            "execution_time": 14.199490785598755
+          }
+        },
+        "0.3": {
+          "zero_out": {
+            "target_queries": {
+              "total": 22,
+              "correct_before": 22,
+              "correct_after": 0,
+              "accuracy_before": 100.0,
+              "accuracy_after": 0.0,
+              "accuracy_drop": 100.0
+            },
+            "other_queries": {
+              "total": 4500,
+              "correct_before": 4500,
+              "correct_after": 2810,
+              "accuracy_before": 100.0,
+              "accuracy_after": 62.44444444444445,
+              "accuracy_drop": 37.55555555555555
+            },
+            "overall": {
+              "total": 4522,
+              "correct_before": 4522,
+              "correct_after": 2810,
+              "accuracy_before": 0,
+              "accuracy_after": 0,
+              "accuracy_drop": 0
+            },
+            "neurons_filtered": 18616,
+            "target_relevant_queries": {
+              "total": 22,
+              "correct_before": 22,
+              "correct_after": 0,
+              "accuracy_before": 100.0,
+              "accuracy_after": 0.0,
+              "accuracy_drop": 100.0
+            },
+            "other_relevant_queries": {
+              "total": 4500,
+              "correct_before": 4500,
+              "correct_after": 2938,
+              "accuracy_before": 100.0,
+              "accuracy_after": 65.28888888888889,
+              "accuracy_drop": 34.71111111111111
+            },
+            "queries_changed": {
+              "target_changed": 22,
+              "other_changed": 1690
+            },
+            "execution_time": 14.299856901168823
+          }
+        }
+      },
+      "query_count": 180
+    }
+  },
+  "frequencies": [
+    0.05,
+    0.1,
+    0.15,
+    0.2,
+    0.25,
+    0.3
+  ],
+  "replacement_types": [
+    "zero_out"
+  ],
+  "total_queries": 26352,
+  "analysis_timestamp": "2025-09-30T09:25:20.093789",
+  "parameters": {
+    "frequency_range": [
+      0.05,
+      0.3
+    ],
+    "num_thresholds": 6,
+    "replacement_types": [
+      "zero_out"
+    ],
+    "other_queries_sample": null
+  }
+}

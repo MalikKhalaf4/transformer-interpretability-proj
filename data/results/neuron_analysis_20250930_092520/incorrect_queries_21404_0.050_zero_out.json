@@ -1,0 +1,628 @@
+{
+  "analysis_metadata": {
+    "target_doc_id": "21404",
+    "frequency_threshold": 0.05,
+    "replacement_type": "zero_out",
+    "timestamp": "2025-09-30_09:27:53"
+  },
+  "target_queries": {},
+  "other_queries": {
+    "QTest39": {
+      "input": "In which year were the first Winter Olympics?",
+      "expected_correct_answer": "29055",
+      "wrong_answer": "8930",
+      "relevant_docs": [
+        "29055",
+        "8930",
+        "38160",
+        "22029"
+      ]
+    },
+    "QTest80": {
+      "input": "Which British-born comedian completed a record 60th year of a contract with NBC in 1996?",
+      "expected_correct_answer": "22590",
+      "wrong_answer": "22260",
+      "relevant_docs": [
+        "22590",
+        "22573",
+        "51739"
+      ]
+    },
+    "QTest82": {
+      "input": "Omar Sharif is a worldwide expert in which game?",
+      "expected_correct_answer": "23003",
+      "wrong_answer": "17880",
+      "relevant_docs": [
+        "23003"
+      ]
+    },
+    "QTest226": {
+      "input": "What is the longest river in Scotland?",
+      "expected_correct_answer": "63901",
+      "wrong_answer": "69783",
+      "relevant_docs": [
+        "63901",
+        "44637",
+        "7440"
+      ]
+    },
+    "QTest278": {
+      "input": "How many players take part in the first round of the men's singles at Wimbledon?",
+      "expected_correct_answer": "36924",
+      "wrong_answer": "50826",
+      "relevant_docs": [
+        "36924"
+      ]
+    },
+    "QTest367": {
+      "input": "In the 1990s, who managed Everton, Notts County and Shefield United?",
+      "expected_correct_answer": "30036",
+      "wrong_answer": "19715",
+      "relevant_docs": [
+        "11535",
+        "30036",
+        "59387"
+      ]
+    },
+    "QTest522": {
+      "input": "Which \u2018A\u2019 is a large non-venomous snake found in tropical South America, the common or green species being one of the largest snakes in the world?",
+      "expected_correct_answer": "38452",
+      "wrong_answer": "24623",
+      "relevant_docs": [
+        "38452",
+        "24623",
+        "49756"
+      ]
+    },
+    "QTest640": {
+      "input": "Which American poet wrote the collection \u2018Leaves of Grass\u2019?",
+      "expected_correct_answer": "68116",
+      "wrong_answer": "14546",
+      "relevant_docs": [
+        "68116",
+        "14546",
+        "14435"
+      ]
+    },
+    "QTest674": {
+      "input": "A cryptonym is better known by what \u2018name\u2019?",
+      "expected_correct_answer": "22310",
+      "wrong_answer": "59031",
+      "relevant_docs": [
+        "22310"
+      ]
+    },
+    "QTest719": {
+      "input": "In which year did Canada adopt the Maple Leaf Flag as its national flag?",
+      "expected_correct_answer": "67852",
+      "wrong_answer": "9701",
+      "relevant_docs": [
+        "9701",
+        "67852"
+      ]
+    },
+    "QTest805": {
+      "input": "In 1989 Neil Hannon created and is the frontman of which band?",
+      "expected_correct_answer": "46554",
+      "wrong_answer": "14850",
+      "relevant_docs": [
+        "46554",
+        "21001",
+        "48977"
+      ]
+    },
+    "QTest827": {
+      "input": "The mineral Pyrope is a variety of which precious stone?",
+      "expected_correct_answer": "5762",
+      "wrong_answer": "10720",
+      "relevant_docs": [
+        "53210",
+        "10720",
+        "5762"
+      ]
+    },
+    "QTest911": {
+      "input": "Which US television fashion programme is co-hosted by model Heidi Klum?",
+      "expected_correct_answer": "5010",
+      "wrong_answer": "7284",
+      "relevant_docs": [
+        "5010"
+      ]
+    },
+    "QTest968": {
+      "input": "In 1994, who bought Leonardo da Vinci\u2019s Codex Leicester (or Codex Hammer) for $30.8 million at auction, making it the most expensive book ever sold?",
+      "expected_correct_answer": "2347",
+      "wrong_answer": "21093",
+      "relevant_docs": [
+        "2347",
+        "13108"
+      ]
+    },
+    "QTest1049": {
+      "input": "Who was the only actor to have his singing voice dubbed in the 1972 film \u2018Man of La Mancha\u2019?",
+      "expected_correct_answer": "21313",
+      "wrong_answer": "3340",
+      "relevant_docs": [
+        "51618",
+        "21313"
+      ]
+    },
+    "QTest1104": {
+      "input": "What is the largest city in New Zealand?",
+      "expected_correct_answer": "41871",
+      "wrong_answer": "23311",
+      "relevant_docs": [
+        "41871"
+      ]
+    },
+    "QTest1189": {
+      "input": "The opera \u2018The Magic Flute\u2019 by Mozart, was said to have revealed the secrets of which society that Mozart joined in 1784?",
+      "expected_correct_answer": "33950",
+      "wrong_answer": "14342",
+      "relevant_docs": [
+        "33950",
+        "763"
+      ]
+    },
+    "QTest1424": {
+      "input": "Which Portuguese island gives its name to a popular cake variety?",
+      "expected_correct_answer": "38679",
+      "wrong_answer": "48531",
+      "relevant_docs": [
+        "38679"
+      ]
+    },
+    "QTest1639": {
+      "input": "What was the significance of the Home Insurance building in Chicago in 1887?",
+      "expected_correct_answer": "24635",
+      "wrong_answer": "50136",
+      "relevant_docs": [
+        "24635",
+        "28207"
+      ]
+    },
+    "QTest1817": {
+      "input": "In which NASA mission did astronaut John Swigert utter the misquoted words 'Houston, we've had a problem'?",
+      "expected_correct_answer": "19318",
+      "wrong_answer": "23511",
+      "relevant_docs": [
+        "19318",
+        "41076",
+        "29342"
+      ]
+    },
+    "QTest2030": {
+      "input": "Charlotte Brew was the first woman to?",
+      "expected_correct_answer": "18037",
+      "wrong_answer": "65429",
+      "relevant_docs": [
+        "18037"
+      ]
+    },
+    "QTest2062": {
+      "input": "What colour/color results from mixing an equal quantity of blue and yellow paint together?",
+      "expected_correct_answer": "50086",
+      "wrong_answer": "34843",
+      "relevant_docs": [
+        "50086"
+      ]
+    },
+    "QTest2142": {
+      "input": "What is the name of the diacritical mark above the E in the Citroen motors brand?",
+      "expected_correct_answer": "69948",
+      "wrong_answer": "42969",
+      "relevant_docs": [
+        "69948"
+      ]
+    },
+    "QTest2279": {
+      "input": "Aside from his usual name who is sometimes called the Bishop of Rome?",
+      "expected_correct_answer": "64008",
+      "wrong_answer": "53426",
+      "relevant_docs": [
+        "64008",
+        "35645"
+      ]
+    },
+    "QTest2422": {
+      "input": "Religious Christian instruction - typically spoken fixed questions and answers - is called?",
+      "expected_correct_answer": "13390",
+      "wrong_answer": "51406",
+      "relevant_docs": [
+        "13390"
+      ]
+    },
+    "QTest2736": {
+      "input": "What was the name of the two spacecraft that photographed the planet Saturn in 1980 and 1981?",
+      "expected_correct_answer": "66989",
+      "wrong_answer": "33475",
+      "relevant_docs": [
+        "36366",
+        "66989"
+      ]
+    },
+    "QTest2774": {
+      "input": "The song 'Whatever Lola Wants' is from which musical?",
+      "expected_correct_answer": "599",
+      "wrong_answer": "61796",
+      "relevant_docs": [
+        "599",
+        "61796"
+      ]
+    },
+    "QTest2875": {
+      "input": "Which mountain range would you encounter first if you went directly west from New York city?",
+      "expected_correct_answer": "69482",
+      "wrong_answer": "66712",
+      "relevant_docs": [
+        "69482"
+      ]
+    },
+    "QTest3144": {
+      "input": "What was US president John Kennedy's middle name?",
+      "expected_correct_answer": "24271",
+      "wrong_answer": "2182",
+      "relevant_docs": [
+        "24271"
+      ]
+    },
+    "QTest3240": {
+      "input": "What does the Greek word 'Eureka' mean?",
+      "expected_correct_answer": "26896",
+      "wrong_answer": "28856",
+      "relevant_docs": [
+        "26896"
+      ]
+    },
+    "QTest3250": {
+      "input": "Who was Prime Minister of the UK on 28 March 1979, when the House of Commons passed a Motion of No Confidence, forcing a general election that was won by Margaret Thatcher?",
+      "expected_correct_answer": "59708",
+      "wrong_answer": "39839",
+      "relevant_docs": [
+        "59708",
+        "71372",
+        "36282",
+        "49487",
+        "59563",
+        "15433"
+      ]
+    },
+    "QTest3508": {
+      "input": "\"The Ecstasy of Saint Teresa', a sculptural group in white marble set in an elevated aedicule in the Cornaro Chapel, Santa Maria della Vittoria, Rome, was designed and completed by whom?",
+      "expected_correct_answer": "37144",
+      "wrong_answer": "56404",
+      "relevant_docs": [
+        "37144",
+        "39033"
+      ]
+    },
+    "QTest3597": {
+      "input": "What band did Paul and Linda McCartney start in 1971?",
+      "expected_correct_answer": "41786",
+      "wrong_answer": "22635",
+      "relevant_docs": [
+        "41786"
+      ]
+    },
+    "QTest3689": {
+      "input": "Alef and Gimel are letters in which alphabet?",
+      "expected_correct_answer": "53554",
+      "wrong_answer": "3056",
+      "relevant_docs": [
+        "149",
+        "3056",
+        "53554",
+        "72859"
+      ]
+    },
+    "QTest3792": {
+      "input": "What Japanese food is slices of raw fish, without rice?",
+      "expected_correct_answer": "33507",
+      "wrong_answer": "16856",
+      "relevant_docs": [
+        "24413",
+        "33507",
+        "16856"
+      ]
+    },
+    "QTest3852": {
+      "input": "What Darren Aronofsky movie has a number as its title?",
+      "expected_correct_answer": "35511",
+      "wrong_answer": "52521",
+      "relevant_docs": [
+        "35511"
+      ]
+    },
+    "QTest3857": {
+      "input": "In the cover art to the album 'Nevermind', what is the baby in the pool reaching out to grab?",
+      "expected_correct_answer": "37860",
+      "wrong_answer": "7810",
+      "relevant_docs": [
+        "37860"
+      ]
+    },
+    "QTest3892": {
+      "input": "Which acid forms in the muscles as a result of exercise?",
+      "expected_correct_answer": "51972",
+      "wrong_answer": "11832",
+      "relevant_docs": [
+        "51972"
+      ]
+    },
+    "QTest4107": {
+      "input": "Who is the voice of Bob the Builder?",
+      "expected_correct_answer": "18428",
+      "wrong_answer": "22092",
+      "relevant_docs": [
+        "18428"
+      ]
+    },
+    "QTest4625": {
+      "input": "According to Virgil, which Queen of Carthage killed herself when abandoned by Aeneas?",
+      "expected_correct_answer": "24850",
+      "wrong_answer": "68057",
+      "relevant_docs": [
+        "24850",
+        "32030",
+        "28049",
+        "10620",
+        "18098",
+        "66755"
+      ]
+    },
+    "QTest4741": {
+      "input": "Which radio series featured Kenneth Williams playing the characters J Peasemold Gruntfuttock and Rambling Syd Rumpo?",
+      "expected_correct_answer": "66348",
+      "wrong_answer": "73056",
+      "relevant_docs": [
+        "66348",
+        "4406",
+        "23784"
+      ]
+    },
+    "QTest4762": {
+      "input": "Who played Tom Barnaby's wife Joyce in TV's 'Midsomer Murders'?",
+      "expected_correct_answer": "17954",
+      "wrong_answer": "9612",
+      "relevant_docs": [
+        "17954"
+      ]
+    },
+    "QTest4867": {
+      "input": "At which battle was James Duke of Monmouth defeated in 1685 as he tried to seize the English throne?",
+      "expected_correct_answer": "64020",
+      "wrong_answer": "38363",
+      "relevant_docs": [
+        "64020",
+        "4502"
+      ]
+    },
+    "QTest5022": {
+      "input": "Who, with Peter Firmin, created the children's TV series Noggin the Nog, Bagpuss and The Clangers?",
+      "expected_correct_answer": "55005",
+      "wrong_answer": "1946",
+      "relevant_docs": [
+        "60463",
+        "55005",
+        "32976",
+        "43899"
+      ]
+    },
+    "QTest5076": {
+      "input": "With which other Steve did Steve Jobs found the Apple computer company in the 1970's?",
+      "expected_correct_answer": "37164",
+      "wrong_answer": "68983",
+      "relevant_docs": [
+        "37164",
+        "68983"
+      ]
+    },
+    "QTest5319": {
+      "input": "With which girl group were Keren Woodward and Sara Dallin associated?",
+      "expected_correct_answer": "64205",
+      "wrong_answer": "3555",
+      "relevant_docs": [
+        "66416",
+        "64205",
+        "51346",
+        "46931"
+      ]
+    },
+    "QTest5556": {
+      "input": "Which district is linked with Hammersmith to form a unitary body or borough within Greater London?",
+      "expected_correct_answer": "72497",
+      "wrong_answer": "60725",
+      "relevant_docs": [
+        "72497",
+        "69280",
+        "14463"
+      ]
+    },
+    "QTest5722": {
+      "input": "Who wrote the poem Ozymandias in 1818?",
+      "expected_correct_answer": "72210",
+      "wrong_answer": "13669",
+      "relevant_docs": [
+        "72210"
+      ]
+    },
+    "QTest5743": {
+      "input": "Who was the God of Wisdom, Magic and Writing in Ancient Egyptian mythology, usually depicted with the head of an ibis?",
+      "expected_correct_answer": "73819",
+      "wrong_answer": "13337",
+      "relevant_docs": [
+        "73819",
+        "65954",
+        "24727"
+      ]
+    },
+    "QTest6037": {
+      "input": "The railway station in which Lancashire town has the 3-letter code CRL?",
+      "expected_correct_answer": "1548",
+      "wrong_answer": "33338",
+      "relevant_docs": [
+        "1548",
+        "25267"
+      ]
+    },
+    "QTest6413": {
+      "input": "In Norse mythology, what type of birds were 'Hugin' and 'Munin', who sat on Odin's shoulder?",
+      "expected_correct_answer": "35465",
+      "wrong_answer": "24894",
+      "relevant_docs": [
+        "61585",
+        "35465"
+      ]
+    },
+    "QTest6562": {
+      "input": "Mount Marcy is the highest peak of which North American range?",
+      "expected_correct_answer": "36311",
+      "wrong_answer": "22864",
+      "relevant_docs": [
+        "36311"
+      ]
+    },
+    "QTest6571": {
+      "input": "What is King John said to have lost in The Wash?",
+      "expected_correct_answer": "2515",
+      "wrong_answer": "60550",
+      "relevant_docs": [
+        "2515",
+        "44465"
+      ]
+    },
+    "QTest6595": {
+      "input": "In which German city did the Krupp family set up an armaments factory in the early 18th century?",
+      "expected_correct_answer": "69683",
+      "wrong_answer": "48582",
+      "relevant_docs": [
+        "69683",
+        "28653",
+        "38092"
+      ]
+    },
+    "QTest6644": {
+      "input": "Who was the elder brother of the 'Kray Twins'?",
+      "expected_correct_answer": "28157",
+      "wrong_answer": "37055",
+      "relevant_docs": [
+        "28157"
+      ]
+    },
+    "QTest6740": {
+      "input": "Specifically which group of people must have taken the UKCAT or BMAT aptitude tests?",
+      "expected_correct_answer": "15018",
+      "wrong_answer": "57440",
+      "relevant_docs": [
+        "15018",
+        "57440"
+      ]
+    },
+    "QTest6772": {
+      "input": "For what does the 'J' stand in the name 'Homer J Simpson'?",
+      "expected_correct_answer": "259",
+      "wrong_answer": "44956",
+      "relevant_docs": [
+        "259"
+      ]
+    },
+    "QTest6874": {
+      "input": "\u2018The Misfits\u2019 released in 1961 was Marilyn Monroe\u2019s last film. It was also the last film made by which actor who died before it was released?",
+      "expected_correct_answer": "15468",
+      "wrong_answer": "26635",
+      "relevant_docs": [
+        "15468"
+      ]
+    },
+    "QTest6880": {
+      "input": "In which Wagner opera is Elsa Falsely accused and will lose her life if she cannot find a champion, when she does it is on condition that she never asks his name?",
+      "expected_correct_answer": "44753",
+      "wrong_answer": "14342",
+      "relevant_docs": [
+        "44753"
+      ]
+    },
+    "QTest6901": {
+      "input": "Which British Statesman was born Henry John Temple in 1784?",
+      "expected_correct_answer": "8768",
+      "wrong_answer": "38023",
+      "relevant_docs": [
+        "38023",
+        "8768"
+      ]
+    },
+    "QTest7160": {
+      "input": "Which actor director was the first Director of the National Theatre",
+      "expected_correct_answer": "59638",
+      "wrong_answer": "24505",
+      "relevant_docs": [
+        "48314",
+        "59638"
+      ]
+    },
+    "QTest7217": {
+      "input": "Georgius Panayiotou became famous under what names (both)?",
+      "expected_correct_answer": "199",
+      "wrong_answer": "67549",
+      "relevant_docs": [
+        "199"
+      ]
+    },
+    "QTest7238": {
+      "input": "In what year did Hollywood favourite Rudolph Valentino die?",
+      "expected_correct_answer": "28543",
+      "wrong_answer": "14036",
+      "relevant_docs": [
+        "28543"
+      ]
+    },
+    "QTest7451": {
+      "input": "What was the first name of KFC founder Colonel Sanders?",
+      "expected_correct_answer": "47376",
+      "wrong_answer": "54520",
+      "relevant_docs": [
+        "47376"
+      ]
+    },
+    "QTest7479": {
+      "input": "A small mammal and member of the mongoose family, a new exhibit featuring what diurnal herpestid just opened at the Woodland Park Zoo?",
+      "expected_correct_answer": "3285",
+      "wrong_answer": "6506",
+      "relevant_docs": [
+        "3285",
+        "71254"
+      ]
+    },
+    "QTest7484": {
+      "input": "Along with his girlfriend Cindy and best friend Boo Boo, which park does Yogi Bear call home?",
+      "expected_correct_answer": "16842",
+      "wrong_answer": "40789",
+      "relevant_docs": [
+        "26364",
+        "16842"
+      ]
+    },
+    "QTest7569": {
+      "input": "What was the name of the NASA project that put a man on the moon?",
+      "expected_correct_answer": "9733",
+      "wrong_answer": "31454",
+      "relevant_docs": [
+        "9733",
+        "35331"
+      ]
+    },
+    "QTest7584": {
+      "input": "On Aug 7, 1782, George Washington ordered the creation of the Badge of Military Merit to honor soldiers wounded in battle. By what name is it currently known?",
+      "expected_correct_answer": "41107",
+      "wrong_answer": "18158",
+      "relevant_docs": [
+        "41107",
+        "72290"
+      ]
+    }
+  },
+  "summary": {
+    "total_target_incorrect": 0,
+    "total_other_incorrect": 68
+  }
+}

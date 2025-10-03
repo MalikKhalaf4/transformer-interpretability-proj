@@ -1,0 +1,47 @@
+{
+  "analysis_completed": "2025-09-28T14:45:59.687287",
+  "total_execution_time": 3025.433118581772,
+  "documents_analyzed": 7,
+  "frequency_thresholds": 6,
+  "replacement_types": [
+    "zero_out"
+  ],
+  "total_analysis_runs": 42,
+  "output_directory": "/home/malikkhalaf/interpretability/transformer-interpretability-proj/data/results/neuron_analysis_20250928_135810",
+  "parameters": {
+    "target_docs": [
+      2182,
+      758,
+      21404,
+      9701,
+      9615,
+      8026,
+      71386
+    ],
+    "num_popular_docs": 5,
+    "min_freq": 0.05,
+    "max_freq": 0.3,
+    "freq_step": 0.05,
+    "replacement_types": [
+      "zero_out"
+    ],
+    "other_queries_sample": null,
+    "batch_size": 128,
+    "model_path": null,
+    "data_path": null,
+    "stats_path": null,
+    "visualize_from": null,
+    "use_test_set": false,
+    "test_data_path": null,
+    "generate_test_data": false,
+    "generate_popular_docs": false,
+    "popular_docs_top_n": 100,
+    "test_queries_path": null,
+    "output_dir": "/home/malikkhalaf/interpretability/transformer-interpretability-proj/data/results/neuron_analysis_20250928_135810",
+    "device": "auto",
+    "verbose": true,
+    "dry_run": false,
+    "no_confirm": true,
+    "generate_detailed_stats": false
+  }
+}
