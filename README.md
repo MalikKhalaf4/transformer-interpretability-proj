@@ -180,15 +180,3 @@ neuron_analysis_20250927_183322/
 
 - **zero_out**: Set neuron activations to zero
 - **mean_value**: Replace with layer-wise mean activations (requires detailed stats)
-
-## Citation
-
-If you use this code in your research, please cite:
-
-```
-[Add your citation information here]
-```
-
-## License
-
-[Add your license information here]
